@@ -51,8 +51,6 @@ These logs provide visibility into:
 - Privileged operations
 - Security auditing
 
-> **Insert Screenshot of Linux Logs**
-
 ![Linux Logs](Images/linuxlog.png)
 
 ---
@@ -74,8 +72,6 @@ These logs provide visibility into:
 - Operating system events
 - Service activity
 - Application events
-
-> **Insert Screenshot of Windows Event Logs**
 
 ![Windows Logs](Images/windowlogs.png)
 
@@ -108,8 +104,6 @@ The forwarders continuously send logs to the Splunk Enterprise server where they
 
 This confirms that centralized log collection is functioning correctly.
 
-> **Insert Screenshot of Connected Forwarders**
-
 ![Forwarders](Images/forwarders.png)
 
 ---
@@ -132,8 +126,6 @@ Expected Result:
 - Event forwarded to Splunk
 - Event searchable within Splunk
 
-> **Insert Screenshot**
-
 ![User Creatioin and Deletion](Images/windowuser.png)
 
 ![Finding on Splunk](Images/query1.png)
@@ -148,8 +140,6 @@ Expected Result:
 
 - Event forwarded to Splunk
 - Event searchable within Splunk
-
-> **Insert Screenshot**
 
 ![Linux User creation and deletion](Images/linuxuser.png)
 ![Finding on Splunk](Images/auditlog.png)
