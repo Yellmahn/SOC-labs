@@ -30,6 +30,40 @@ The monitoring environment consists of a Windows host machine running VMware Wor
 
 ![Lab Topology](images/topology.png)
 
+```mermaid
+flowchart LR
+
+    subgraph WH["Windows Host Machine (Physical Host)"]
+
+        W["Windows Host (OS)
+        ---------------------
+        Windows Event Logs
+        • Security Logs
+        • System Logs
+        • Application Logs"]
+
+        subgraph VM["Linux Virtual Machine"]
+            L["Linux System
+            ---------------------
+            Linux System Logs
+            • Syslog
+            • Auth Logs
+            • Application Logs"]
+
+            S["Splunk Enterprise
+            ---------------------
+            Installed on Linux VM
+            • Log Collection
+            • Indexing
+            • Search
+            • Dashboards
+            • Alerts"]
+        end
+    end
+
+    W -->|Windows Logs| S
+    L -->|Linux Logs| S
+```
 ---
 
 # Log Collection
