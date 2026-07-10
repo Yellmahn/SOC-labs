@@ -26,10 +26,6 @@ The lab is continuously expanded as new monitoring capabilities and detection sc
 
 The monitoring environment consists of a Windows host machine running VMware Workstation. A Debian Linux virtual machine hosts the Splunk Enterprise server while both the Linux VM and the Windows host forward logs to the centralized SIEM using Splunk Universal Forwarder.
 
-> **Insert Lab Topology Diagram Here**
-
-![Lab Topology](images/topology.png)
-
 ```mermaid
 flowchart LR
 
@@ -40,6 +36,7 @@ flowchart LR
         Windows Event Logs
         • Security Logs
         • System Logs
+        • Sysmon Logs
         • Application Logs"]
 
         subgraph VM["Linux Virtual Machine"]
@@ -48,7 +45,7 @@ flowchart LR
             Linux System Logs
             • Syslog
             • Auth Logs
-            • Application Logs"]
+            • Auditd Logs"]
 
             S["Splunk Enterprise
             ---------------------
