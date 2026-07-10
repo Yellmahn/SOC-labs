@@ -36,8 +36,8 @@ flowchart LR
         Windows Event Logs
         • Security Logs
         • System Logs
-        • Sysmon Logs
-        • Application Logs"]
+        • Application Logs
+        • Sysmon Logs"]
 
         subgraph VM["Linux Virtual Machine"]
             L["Linux System
