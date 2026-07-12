@@ -1,4 +1,4 @@
-# Password Spraying Detection
+# Lab 01 - Password Spraying Detection
 
 ## Overview
 
@@ -15,7 +15,7 @@ This lab simulates a **Password Spraying** attack against a VPN service. An exte
 ## Detection Query
 
 ```spl
-index=soc_lab action=failed
+index=lab-sample action=failed
 | stats count as failed_logins dc(user) as targeted_users by src_ip
 | where failed_logins >= 20 AND targeted_users >= 10
 | sort - failed_logins
