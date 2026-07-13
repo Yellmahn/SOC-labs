@@ -8,7 +8,7 @@ This lab simulates a **Password Spraying** attack against a VPN service. An exte
 
 ## Log File
 
-`logs/auth_password_spraying.log`
+[📥 Sample Log File](../log-files/auth.log)
 
 ---
 
