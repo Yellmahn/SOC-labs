@@ -15,10 +15,10 @@ This lab simulates a **Password Spraying** attack against a VPN service. An exte
 ## Detection Query
 
 ```spl
-index=lab-sample action=failed
-| stats count as failed_logins dc(user) as targeted_users by src_ip
-| where failed_logins >= 20 AND targeted_users >= 10
-| sort - failed_logins
+index="lab-sample" sourcetype="auth1" status=FAILED
+| bin _time span=5m
+| stats count as failed_attempts dc(username) as targeted_user by src_ip
+| where targeted_user >= 10
 ```
 
 ---
