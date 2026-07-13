@@ -8,7 +8,7 @@ This lab simulates a **Brute Force** attack against an SSH service. An attacker 
 
 ## Log File
 
-`logs/auth_bruteforce.log`
+[📥 Sample Log File](../log-files/auth2.log)
 
 ---
 
