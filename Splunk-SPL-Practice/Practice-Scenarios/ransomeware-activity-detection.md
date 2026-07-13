@@ -8,7 +8,7 @@ This lab simulates a **Ransomware** attack where a compromised endpoint rapidly 
 
 ## Log File
 
-`logs/ransomware.log`
+[📥 Sample Log File](../log-files/EDR.log)
 
 ---
 
