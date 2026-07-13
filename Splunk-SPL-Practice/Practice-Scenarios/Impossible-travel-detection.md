@@ -8,7 +8,7 @@ This lab simulates an **Impossible Travel** scenario where a user successfully a
 
 ## Log File
 
-`logs/impossible_travel.log`
+[📥 Sample Log File](../log-files/impossible_travel.log)
 
 ---
 
