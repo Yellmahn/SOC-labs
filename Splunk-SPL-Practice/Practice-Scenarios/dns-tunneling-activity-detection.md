@@ -31,4 +31,4 @@ This search monitors DNS queries and calculates the length of each requested dom
 
 ## Detection Result
 
-![DNS Tunneling Detection](../screenshots/dns_tunneling_detection.png)
+![DNS Tunneling Detection](../screenshots/dns-tunneling.png)
