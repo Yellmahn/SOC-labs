@@ -38,7 +38,3 @@ index="lab-sample" sourcetype="auth1" status=FAILED
 ### Search Result
 
 ![Password Spraying Detection](../screenshots/password_spraying_detection.png)
-
-### Alert Configuration
-
-![Password Spraying Alert](../screenshots/password_spraying_alert.png)
