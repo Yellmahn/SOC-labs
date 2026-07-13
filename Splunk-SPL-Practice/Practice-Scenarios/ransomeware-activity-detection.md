@@ -32,8 +32,4 @@ This search monitors endpoint file rename events and groups them into five-minut
 
 ## Detection Result
 
-![Ransomware Detection](../screenshots/ransomware_detection.png)
-
-### Alert Configuration
-
-![Ransomware Alert](../screenshots/ransomware_alert.png)
+![Ransomware Detection](../screenshots/fileencryption.png)
