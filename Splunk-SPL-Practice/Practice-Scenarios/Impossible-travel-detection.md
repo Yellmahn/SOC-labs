@@ -35,4 +35,4 @@ This search monitors successful login events and extracts the user and country i
 
 ## Detection Result
 
-![Impossible Travel Alert](../screenshots/impossible_travel_alert.png)
+![Impossible Travel Alert](../screenshots/imptravel.png)
