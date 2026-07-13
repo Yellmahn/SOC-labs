@@ -1,0 +1,1000 @@
+Jul 12 08:00:01 app01 sshd[12001]: Accepted publickey for devops from 192.168.10.65 port 46385 ssh2: RSA SHA256:examplekey
+Jul 12 08:00:08 web02 sshd[12002]: Accepted publickey for devops from 192.168.10.43 port 52371 ssh2: RSA SHA256:examplekey
+Jul 12 08:00:13 db01 sshd[12003]: Accepted publickey for ubuntu from 192.168.10.21 port 51027 ssh2: RSA SHA256:examplekey
+Jul 12 08:00:14 web02 sshd[12004]: Accepted password for john from 192.168.10.42 port 56420 ssh2
+Jul 12 08:00:17 app01 sshd[12005]: Accepted publickey for devops from 192.168.10.10 port 31159 ssh2: RSA SHA256:examplekey
+Jul 12 08:00:25 web01 sshd[12006]: Accepted publickey for john from 192.168.10.42 port 42239 ssh2: RSA SHA256:examplekey
+Jul 12 08:00:29 app01 sshd[12007]: Accepted publickey for alice from 192.168.10.55 port 59511 ssh2: RSA SHA256:examplekey
+Jul 12 08:00:32 web01 sshd[12008]: Accepted password for alice from 192.168.10.60 port 30492 ssh2
+Jul 12 08:00:35 web02 sshd[12009]: Accepted publickey for bob from 192.168.10.22 port 32738 ssh2: RSA SHA256:examplekey
+Jul 12 08:00:40 web01 sshd[12010]: Accepted publickey for devops from 192.168.10.24 port 62667 ssh2: RSA SHA256:examplekey
+Jul 12 08:00:44 app01 sshd[12011]: Accepted publickey for ubuntu from 192.168.10.67 port 37712 ssh2: RSA SHA256:examplekey
+Jul 12 08:00:49 web02 sshd[12012]: Accepted password for john from 192.168.10.63 port 59030 ssh2
+Jul 12 08:00:51 db01 sshd[12013]: Accepted password for ec2-user from 192.168.10.25 port 36046 ssh2
+Jul 12 08:00:58 web02 sshd[12014]: Accepted password for bob from 192.168.10.51 port 51684 ssh2
+Jul 12 08:01:06 web01 sshd[12015]: Failed password for devops from 192.168.10.50 port 33637 ssh2
+Jul 12 08:01:07 db01 sshd[12016]: Accepted publickey for bob from 192.168.10.33 port 45857 ssh2: RSA SHA256:examplekey
+Jul 12 08:01:15 web02 sshd[12017]: Accepted password for ec2-user from 192.168.10.16 port 41905 ssh2
+Jul 12 08:01:22 app01 sshd[12018]: Accepted publickey for john from 192.168.10.44 port 41061 ssh2: RSA SHA256:examplekey
+Jul 12 08:01:26 app01 sshd[12019]: Accepted publickey for john from 192.168.10.24 port 58437 ssh2: RSA SHA256:examplekey
+Jul 12 08:01:28 db01 sshd[12020]: Accepted password for john from 192.168.10.41 port 58020 ssh2
+Jul 12 08:01:29 web01 sshd[12021]: Accepted publickey for alice from 192.168.10.71 port 37959 ssh2: RSA SHA256:examplekey
+Jul 12 08:01:35 web01 sshd[12022]: Accepted publickey for backup from 192.168.10.14 port 56881 ssh2: RSA SHA256:examplekey
+Jul 12 08:01:43 app01 sshd[12023]: Accepted publickey for devops from 192.168.10.15 port 34077 ssh2: RSA SHA256:examplekey
+Jul 12 08:01:51 web02 sshd[12024]: Accepted publickey for bob from 192.168.10.17 port 31479 ssh2: RSA SHA256:examplekey
+Jul 12 08:01:57 db01 sshd[12025]: Accepted password for john from 192.168.10.73 port 57577 ssh2
+Jul 12 08:02:00 web01 sshd[12026]: Accepted publickey for backup from 192.168.10.21 port 64648 ssh2: RSA SHA256:examplekey
+Jul 12 08:02:02 web02 sshd[12027]: Accepted password for backup from 192.168.10.41 port 31741 ssh2
+Jul 12 08:02:04 web02 sshd[12028]: Accepted publickey for devops from 192.168.10.29 port 58189 ssh2: RSA SHA256:examplekey
+Jul 12 08:02:10 web01 sshd[12029]: Accepted publickey for ec2-user from 192.168.10.12 port 50904 ssh2: RSA SHA256:examplekey
+Jul 12 08:02:16 db01 sshd[12030]: Accepted publickey for bob from 192.168.10.29 port 30247 ssh2: RSA SHA256:examplekey
+Jul 12 08:02:22 db01 sshd[12031]: Accepted password for alice from 192.168.10.29 port 50004 ssh2
+Jul 12 08:02:27 web02 sshd[12032]: Accepted password for alice from 192.168.10.40 port 44426 ssh2
+Jul 12 08:02:30 web01 sshd[12033]: Accepted publickey for john from 192.168.10.59 port 58034 ssh2: RSA SHA256:examplekey
+Jul 12 08:02:33 app01 sshd[12034]: Accepted publickey for ec2-user from 192.168.10.32 port 41884 ssh2: RSA SHA256:examplekey
+Jul 12 08:02:34 web02 sshd[12035]: Accepted publickey for alice from 192.168.10.38 port 32099 ssh2: RSA SHA256:examplekey
+Jul 12 08:02:36 db01 sshd[12036]: Accepted publickey for ubuntu from 192.168.10.41 port 42575 ssh2: RSA SHA256:examplekey
+Jul 12 08:02:37 db01 sshd[12037]: Accepted password for john from 192.168.10.40 port 30767 ssh2
+Jul 12 08:02:43 web02 sshd[12038]: Accepted password for alice from 192.168.10.34 port 48975 ssh2
+Jul 12 08:02:49 web01 sshd[12039]: Accepted password for devops from 192.168.10.35 port 51892 ssh2
+Jul 12 08:02:56 web02 sshd[12040]: Accepted publickey for bob from 192.168.10.16 port 33301 ssh2: RSA SHA256:examplekey
+Jul 12 08:02:59 web02 sshd[12041]: Accepted password for ec2-user from 192.168.10.29 port 31437 ssh2
+Jul 12 08:03:04 db01 sshd[12042]: Accepted publickey for ubuntu from 192.168.10.26 port 52049 ssh2: RSA SHA256:examplekey
+Jul 12 08:03:12 web01 sshd[12043]: Accepted password for ubuntu from 192.168.10.42 port 54713 ssh2
+Jul 12 08:03:15 web02 sshd[12044]: Failed password for backup from 192.168.10.71 port 46166 ssh2
+Jul 12 08:03:16 app01 sshd[12045]: Accepted password for alice from 192.168.10.19 port 34054 ssh2
+Jul 12 08:03:17 web01 sshd[12046]: Accepted publickey for alice from 192.168.10.28 port 49533 ssh2: RSA SHA256:examplekey
+Jul 12 08:03:25 app01 sshd[12047]: Accepted password for ubuntu from 192.168.10.42 port 60660 ssh2
+Jul 12 08:03:33 db01 sshd[12048]: Accepted publickey for alice from 192.168.10.67 port 39386 ssh2: RSA SHA256:examplekey
+Jul 12 08:03:39 web01 sshd[12049]: Accepted password for devops from 192.168.10.21 port 37687 ssh2
+Jul 12 08:03:40 web02 sshd[12050]: Accepted password for backup from 192.168.10.75 port 55777 ssh2
+Jul 12 08:03:44 app01 sshd[12051]: Failed password for bob from 192.168.10.50 port 39643 ssh2
+Jul 12 08:03:46 app01 sshd[12052]: Accepted password for john from 192.168.10.60 port 33058 ssh2
+Jul 12 08:03:49 db01 sshd[12053]: Failed password for backup from 192.168.10.78 port 57805 ssh2
+Jul 12 08:03:51 app01 sshd[12054]: Accepted password for bob from 192.168.10.34 port 32163 ssh2
+Jul 12 08:03:58 db01 sshd[12055]: Accepted publickey for ec2-user from 192.168.10.53 port 39576 ssh2: RSA SHA256:examplekey
+Jul 12 08:04:03 db01 sshd[12056]: Accepted password for ec2-user from 192.168.10.16 port 43302 ssh2
+Jul 12 08:04:05 db01 sshd[12057]: Accepted publickey for john from 192.168.10.35 port 34916 ssh2: RSA SHA256:examplekey
+Jul 12 08:04:07 web01 sshd[12058]: Failed password for bob from 192.168.10.72 port 36318 ssh2
+Jul 12 08:04:12 db01 sshd[12059]: Accepted publickey for devops from 192.168.10.41 port 40941 ssh2: RSA SHA256:examplekey
+Jul 12 08:04:16 app01 sshd[12060]: Accepted password for devops from 192.168.10.44 port 55623 ssh2
+Jul 12 08:04:24 db01 sshd[12061]: Accepted password for devops from 192.168.10.49 port 60512 ssh2
+Jul 12 08:04:29 app01 sshd[12062]: Accepted publickey for alice from 192.168.10.68 port 57682 ssh2: RSA SHA256:examplekey
+Jul 12 08:04:36 web01 sshd[12063]: Accepted publickey for alice from 192.168.10.68 port 57278 ssh2: RSA SHA256:examplekey
+Jul 12 08:04:41 web01 sshd[12064]: Accepted password for ubuntu from 192.168.10.36 port 45519 ssh2
+Jul 12 08:04:48 app01 sshd[12065]: Accepted publickey for ec2-user from 192.168.10.48 port 43795 ssh2: RSA SHA256:examplekey
+Jul 12 08:04:49 app01 sshd[12066]: Accepted password for alice from 192.168.10.48 port 36399 ssh2
+Jul 12 08:04:52 app01 sshd[12067]: Accepted password for ec2-user from 192.168.10.55 port 49743 ssh2
+Jul 12 08:04:58 web02 sshd[12068]: Accepted publickey for ubuntu from 192.168.10.67 port 41370 ssh2: RSA SHA256:examplekey
+Jul 12 08:05:00 web02 sshd[12069]: Accepted password for ec2-user from 192.168.10.45 port 54951 ssh2
+Jul 12 08:05:02 web02 sshd[12070]: Failed password for bob from 192.168.10.17 port 62571 ssh2
+Jul 12 08:05:08 web02 sshd[12071]: Accepted publickey for bob from 192.168.10.33 port 33836 ssh2: RSA SHA256:examplekey
+Jul 12 08:05:12 web01 sshd[12072]: Accepted publickey for ec2-user from 192.168.10.67 port 36119 ssh2: RSA SHA256:examplekey
+Jul 12 08:05:15 db01 sshd[12073]: Accepted password for alice from 192.168.10.22 port 47318 ssh2
+Jul 12 08:05:20 web01 sshd[12074]: Accepted publickey for alice from 192.168.10.47 port 51675 ssh2: RSA SHA256:examplekey
+Jul 12 08:05:25 app01 sshd[12075]: Accepted password for john from 192.168.10.49 port 45468 ssh2
+Jul 12 08:05:29 web02 sshd[12076]: Accepted publickey for ec2-user from 192.168.10.36 port 36368 ssh2: RSA SHA256:examplekey
+Jul 12 08:05:32 db01 sshd[12077]: Accepted publickey for bob from 192.168.10.62 port 43607 ssh2: RSA SHA256:examplekey
+Jul 12 08:05:36 db01 sshd[12078]: Accepted publickey for devops from 192.168.10.28 port 40549 ssh2: RSA SHA256:examplekey
+Jul 12 08:05:41 web02 sshd[12079]: Accepted password for backup from 192.168.10.36 port 64386 ssh2
+Jul 12 08:05:49 web01 sshd[12080]: Accepted publickey for backup from 192.168.10.41 port 58748 ssh2: RSA SHA256:examplekey
+Jul 12 08:05:53 db01 sshd[12081]: Accepted password for ec2-user from 192.168.10.54 port 40605 ssh2
+Jul 12 08:05:58 web01 sshd[12082]: Accepted publickey for ec2-user from 192.168.10.14 port 45807 ssh2: RSA SHA256:examplekey
+Jul 12 08:06:04 db01 sshd[12083]: Failed password for bob from 192.168.10.23 port 34200 ssh2
+Jul 12 08:06:09 web01 sshd[12084]: Accepted publickey for john from 192.168.10.53 port 31028 ssh2: RSA SHA256:examplekey
+Jul 12 08:06:13 web01 sshd[12085]: Failed password for devops from 192.168.10.32 port 35268 ssh2
+Jul 12 08:06:18 web02 sshd[12086]: Accepted password for ubuntu from 192.168.10.33 port 35171 ssh2
+Jul 12 08:06:24 web02 sshd[12087]: Accepted publickey for john from 192.168.10.75 port 40251 ssh2: RSA SHA256:examplekey
+Jul 12 08:06:30 db01 sshd[12088]: Accepted publickey for alice from 192.168.10.58 port 49223 ssh2: RSA SHA256:examplekey
+Jul 12 08:06:37 db01 sshd[12089]: Accepted password for devops from 192.168.10.33 port 42824 ssh2
+Jul 12 08:06:39 db01 sshd[12090]: Accepted password for bob from 192.168.10.50 port 57781 ssh2
+Jul 12 08:06:41 app01 sshd[12091]: Accepted publickey for devops from 192.168.10.59 port 37559 ssh2: RSA SHA256:examplekey
+Jul 12 08:06:49 web01 sshd[12092]: Failed password for ubuntu from 192.168.10.46 port 56912 ssh2
+Jul 12 08:06:55 db01 sshd[12093]: Accepted publickey for backup from 192.168.10.64 port 54958 ssh2: RSA SHA256:examplekey
+Jul 12 08:06:56 web01 sshd[12094]: Accepted publickey for ec2-user from 192.168.10.15 port 53751 ssh2: RSA SHA256:examplekey
+Jul 12 08:06:58 app01 sshd[12095]: Failed password for backup from 192.168.10.39 port 50169 ssh2
+Jul 12 08:07:05 db01 sshd[12096]: Accepted password for ubuntu from 192.168.10.60 port 52892 ssh2
+Jul 12 08:07:09 app01 sshd[12097]: Accepted password for ubuntu from 192.168.10.40 port 61361 ssh2
+Jul 12 08:07:15 web02 sshd[12098]: Accepted password for devops from 192.168.10.68 port 49387 ssh2
+Jul 12 08:07:18 web01 sshd[12099]: Accepted publickey for ubuntu from 192.168.10.60 port 63124 ssh2: RSA SHA256:examplekey
+Jul 12 08:07:25 web01 sshd[12100]: Accepted publickey for bob from 192.168.10.68 port 47330 ssh2: RSA SHA256:examplekey
+Jul 12 08:07:31 web02 sshd[12101]: Accepted publickey for ec2-user from 192.168.10.15 port 48382 ssh2: RSA SHA256:examplekey
+Jul 12 08:07:33 db01 sshd[12102]: Failed password for devops from 192.168.10.31 port 50336 ssh2
+Jul 12 08:07:41 db01 sshd[12103]: Accepted publickey for bob from 192.168.10.20 port 60204 ssh2: RSA SHA256:examplekey
+Jul 12 08:07:43 db01 sshd[12104]: Accepted publickey for ubuntu from 192.168.10.31 port 54334 ssh2: RSA SHA256:examplekey
+Jul 12 08:07:45 web02 sshd[12105]: Accepted password for devops from 192.168.10.40 port 61866 ssh2
+Jul 12 08:07:51 app01 sshd[12106]: Accepted password for ec2-user from 192.168.10.68 port 30162 ssh2
+Jul 12 08:07:55 web01 sshd[12107]: Accepted publickey for alice from 192.168.10.11 port 36215 ssh2: RSA SHA256:examplekey
+Jul 12 08:08:00 web01 sshd[12108]: Accepted password for ec2-user from 192.168.10.65 port 44078 ssh2
+Jul 12 08:08:04 app01 sshd[12109]: Accepted password for john from 192.168.10.32 port 30812 ssh2
+Jul 12 08:08:09 app01 sshd[12110]: Accepted publickey for devops from 192.168.10.72 port 42508 ssh2: RSA SHA256:examplekey
+Jul 12 08:08:10 web02 sshd[12111]: Accepted publickey for ubuntu from 192.168.10.69 port 32205 ssh2: RSA SHA256:examplekey
+Jul 12 08:08:15 web01 sshd[12112]: Accepted publickey for backup from 192.168.10.78 port 48929 ssh2: RSA SHA256:examplekey
+Jul 12 08:08:21 web01 sshd[12113]: Accepted publickey for bob from 192.168.10.30 port 57023 ssh2: RSA SHA256:examplekey
+Jul 12 08:08:24 app01 sshd[12114]: Accepted publickey for ec2-user from 192.168.10.52 port 56440 ssh2: RSA SHA256:examplekey
+Jul 12 08:08:31 web02 sshd[12115]: Failed password for alice from 192.168.10.15 port 45379 ssh2
+Jul 12 08:08:39 web02 sshd[12116]: Accepted password for alice from 192.168.10.52 port 52534 ssh2
+Jul 12 08:08:41 web02 sshd[12117]: Accepted password for backup from 192.168.10.10 port 62954 ssh2
+Jul 12 08:08:43 app01 sshd[12118]: Accepted publickey for ec2-user from 192.168.10.15 port 63237 ssh2: RSA SHA256:examplekey
+Jul 12 08:08:45 app01 sshd[12119]: Accepted publickey for devops from 192.168.10.29 port 45976 ssh2: RSA SHA256:examplekey
+Jul 12 08:08:53 db01 sshd[12120]: Accepted password for ubuntu from 192.168.10.48 port 55106 ssh2
+Jul 12 08:09:00 web02 sshd[12121]: Failed password for john from 192.168.10.12 port 38601 ssh2
+Jul 12 08:09:08 web01 sshd[12122]: Accepted publickey for alice from 192.168.10.35 port 45881 ssh2: RSA SHA256:examplekey
+Jul 12 08:09:11 web02 sshd[12123]: Failed password for backup from 192.168.10.62 port 55888 ssh2
+Jul 12 08:09:19 app01 sshd[12124]: Accepted publickey for devops from 192.168.10.31 port 40287 ssh2: RSA SHA256:examplekey
+Jul 12 08:09:25 web01 sshd[12125]: Accepted password for ec2-user from 192.168.10.76 port 43826 ssh2
+Jul 12 08:09:32 web01 sshd[12126]: Accepted password for devops from 192.168.10.29 port 63898 ssh2
+Jul 12 08:09:33 db01 sshd[12127]: Accepted password for backup from 192.168.10.58 port 59767 ssh2
+Jul 12 08:09:41 db01 sshd[12128]: Failed password for john from 192.168.10.30 port 61719 ssh2
+Jul 12 08:09:44 web02 sshd[12129]: Accepted publickey for backup from 192.168.10.78 port 58651 ssh2: RSA SHA256:examplekey
+Jul 12 08:09:52 db01 sshd[12130]: Accepted password for backup from 192.168.10.41 port 36677 ssh2
+Jul 12 08:09:54 web01 sshd[12131]: Accepted password for ubuntu from 192.168.10.25 port 39022 ssh2
+Jul 12 08:09:59 app01 sshd[12132]: Accepted password for alice from 192.168.10.59 port 38216 ssh2
+Jul 12 08:10:01 web01 sshd[12133]: Accepted publickey for ubuntu from 192.168.10.63 port 59421 ssh2: RSA SHA256:examplekey
+Jul 12 08:10:08 web02 sshd[12134]: Accepted password for ubuntu from 192.168.10.54 port 39585 ssh2
+Jul 12 08:10:15 db01 sshd[12135]: Accepted publickey for ubuntu from 192.168.10.40 port 38913 ssh2: RSA SHA256:examplekey
+Jul 12 08:10:17 app01 sshd[12136]: Accepted password for ubuntu from 192.168.10.33 port 37368 ssh2
+Jul 12 08:10:25 db01 sshd[12137]: Accepted publickey for backup from 192.168.10.40 port 62591 ssh2: RSA SHA256:examplekey
+Jul 12 08:10:29 app01 sshd[12138]: Accepted password for backup from 192.168.10.25 port 39943 ssh2
+Jul 12 08:10:33 web01 sshd[12139]: Failed password for ubuntu from 192.168.10.23 port 48704 ssh2
+Jul 12 08:10:35 db01 sshd[12140]: Accepted password for devops from 192.168.10.45 port 48260 ssh2
+Jul 12 08:10:39 app01 sshd[12141]: Accepted publickey for alice from 192.168.10.15 port 58793 ssh2: RSA SHA256:examplekey
+Jul 12 08:10:47 db01 sshd[12142]: Accepted password for ubuntu from 192.168.10.48 port 54280 ssh2
+Jul 12 08:10:55 app01 sshd[12143]: Accepted password for john from 192.168.10.56 port 64277 ssh2
+Jul 12 08:10:57 app01 sshd[12144]: Accepted password for devops from 192.168.10.23 port 43938 ssh2
+Jul 12 08:11:05 db01 sshd[12145]: Accepted password for ec2-user from 192.168.10.11 port 37807 ssh2
+Jul 12 08:11:10 db01 sshd[12146]: Accepted password for devops from 192.168.10.61 port 50169 ssh2
+Jul 12 08:11:13 web01 sshd[12147]: Accepted publickey for bob from 192.168.10.54 port 57596 ssh2: RSA SHA256:examplekey
+Jul 12 08:11:18 db01 sshd[12148]: Accepted publickey for ubuntu from 192.168.10.61 port 44513 ssh2: RSA SHA256:examplekey
+Jul 12 08:11:21 app01 sshd[12149]: Accepted password for ubuntu from 192.168.10.53 port 35979 ssh2
+Jul 12 08:11:24 db01 sshd[12150]: Failed password for john from 192.168.10.12 port 57993 ssh2
+Jul 12 08:11:28 web01 sshd[12151]: Accepted publickey for bob from 192.168.10.59 port 50923 ssh2: RSA SHA256:examplekey
+Jul 12 08:11:29 web02 sshd[12152]: Accepted password for ubuntu from 192.168.10.27 port 54326 ssh2
+Jul 12 08:11:34 app01 sshd[12153]: Accepted password for alice from 192.168.10.65 port 30159 ssh2
+Jul 12 08:11:41 web02 sshd[12154]: Accepted publickey for ubuntu from 192.168.10.65 port 43174 ssh2: RSA SHA256:examplekey
+Jul 12 08:11:44 web02 sshd[12155]: Accepted password for bob from 192.168.10.39 port 49703 ssh2
+Jul 12 08:11:49 db01 sshd[12156]: Accepted publickey for ubuntu from 192.168.10.46 port 41334 ssh2: RSA SHA256:examplekey
+Jul 12 08:11:50 app01 sshd[12157]: Failed password for devops from 192.168.10.26 port 33811 ssh2
+Jul 12 08:11:54 web02 sshd[12158]: Accepted publickey for alice from 192.168.10.29 port 37300 ssh2: RSA SHA256:examplekey
+Jul 12 08:11:56 web01 sshd[12159]: Accepted publickey for backup from 192.168.10.53 port 45727 ssh2: RSA SHA256:examplekey
+Jul 12 08:11:59 app01 sshd[12160]: Failed password for backup from 192.168.10.23 port 53840 ssh2
+Jul 12 08:12:04 app01 sshd[12161]: Accepted publickey for ec2-user from 192.168.10.59 port 47354 ssh2: RSA SHA256:examplekey
+Jul 12 08:12:09 app01 sshd[12162]: Accepted publickey for alice from 192.168.10.14 port 47401 ssh2: RSA SHA256:examplekey
+Jul 12 08:12:10 app01 sshd[12163]: Accepted publickey for bob from 192.168.10.55 port 31876 ssh2: RSA SHA256:examplekey
+Jul 12 08:12:18 web02 sshd[12164]: Failed password for bob from 192.168.10.56 port 39731 ssh2
+Jul 12 08:12:25 app01 sshd[12165]: Failed password for bob from 192.168.10.19 port 46524 ssh2
+Jul 12 08:12:31 web02 sshd[12166]: Accepted publickey for ubuntu from 192.168.10.51 port 41681 ssh2: RSA SHA256:examplekey
+Jul 12 08:12:34 db01 sshd[12167]: Accepted password for john from 192.168.10.63 port 43206 ssh2
+Jul 12 08:12:36 web01 sshd[12168]: Accepted password for devops from 192.168.10.37 port 55452 ssh2
+Jul 12 08:12:42 app01 sshd[12169]: Failed password for bob from 192.168.10.20 port 58251 ssh2
+Jul 12 08:12:50 web02 sshd[12170]: Accepted publickey for backup from 192.168.10.52 port 57777 ssh2: RSA SHA256:examplekey
+Jul 12 08:12:57 db01 sshd[12171]: Accepted publickey for bob from 192.168.10.42 port 33579 ssh2: RSA SHA256:examplekey
+Jul 12 08:13:02 db01 sshd[12172]: Failed password for john from 192.168.10.40 port 60348 ssh2
+Jul 12 08:13:08 web02 sshd[12173]: Accepted password for john from 192.168.10.75 port 38577 ssh2
+Jul 12 08:13:16 app01 sshd[12174]: Accepted publickey for alice from 192.168.10.25 port 35647 ssh2: RSA SHA256:examplekey
+Jul 12 08:13:20 app01 sshd[12175]: Accepted password for ec2-user from 192.168.10.52 port 44037 ssh2
+Jul 12 08:13:26 db01 sshd[12176]: Accepted publickey for john from 192.168.10.52 port 56796 ssh2: RSA SHA256:examplekey
+Jul 12 08:13:28 app01 sshd[12177]: Accepted password for john from 192.168.10.50 port 50251 ssh2
+Jul 12 08:13:31 db01 sshd[12178]: Accepted publickey for ubuntu from 192.168.10.36 port 48829 ssh2: RSA SHA256:examplekey
+Jul 12 08:13:32 db01 sshd[12179]: Accepted publickey for ec2-user from 192.168.10.72 port 51524 ssh2: RSA SHA256:examplekey
+Jul 12 08:13:33 web02 sshd[12180]: Accepted password for bob from 192.168.10.51 port 39020 ssh2
+Jul 12 08:13:37 db01 sshd[12181]: Accepted password for devops from 192.168.10.65 port 44591 ssh2
+Jul 12 08:13:43 app01 sshd[12182]: Accepted publickey for ubuntu from 192.168.10.33 port 38570 ssh2: RSA SHA256:examplekey
+Jul 12 08:13:50 app01 sshd[12183]: Accepted publickey for john from 192.168.10.40 port 41296 ssh2: RSA SHA256:examplekey
+Jul 12 08:13:53 web01 sshd[12184]: Accepted password for bob from 192.168.10.39 port 41944 ssh2
+Jul 12 08:13:59 web02 sshd[12185]: Accepted password for ec2-user from 192.168.10.78 port 37311 ssh2
+Jul 12 08:14:01 db01 sshd[12186]: Accepted password for devops from 192.168.10.30 port 38308 ssh2
+Jul 12 08:14:07 app01 sshd[12187]: Accepted publickey for backup from 192.168.10.43 port 42101 ssh2: RSA SHA256:examplekey
+Jul 12 08:14:14 app01 sshd[12188]: Accepted password for alice from 192.168.10.32 port 64293 ssh2
+Jul 12 08:14:17 web01 sshd[12189]: Accepted password for ubuntu from 192.168.10.57 port 35807 ssh2
+Jul 12 08:14:18 web01 sshd[12190]: Failed password for ec2-user from 192.168.10.22 port 41693 ssh2
+Jul 12 08:14:25 db01 sshd[12191]: Accepted password for backup from 192.168.10.23 port 63793 ssh2
+Jul 12 08:14:29 web01 sshd[12192]: Accepted password for backup from 192.168.10.21 port 43363 ssh2
+Jul 12 08:14:36 db01 sshd[12193]: Accepted publickey for devops from 192.168.10.16 port 56695 ssh2: RSA SHA256:examplekey
+Jul 12 08:14:44 app01 sshd[12194]: Accepted password for backup from 192.168.10.62 port 61066 ssh2
+Jul 12 08:14:45 app01 sshd[12195]: Accepted publickey for john from 192.168.10.57 port 53959 ssh2: RSA SHA256:examplekey
+Jul 12 08:14:53 db01 sshd[12196]: Accepted publickey for john from 192.168.10.78 port 38120 ssh2: RSA SHA256:examplekey
+Jul 12 08:14:55 db01 sshd[12197]: Accepted password for ubuntu from 192.168.10.39 port 35762 ssh2
+Jul 12 08:14:57 web02 sshd[12198]: Accepted publickey for devops from 192.168.10.54 port 36524 ssh2: RSA SHA256:examplekey
+Jul 12 08:15:04 web01 sshd[12199]: Accepted password for ec2-user from 192.168.10.44 port 53605 ssh2
+Jul 12 08:15:11 app01 sshd[12200]: Accepted publickey for ubuntu from 192.168.10.78 port 53962 ssh2: RSA SHA256:examplekey
+Jul 12 08:15:17 web02 sshd[12201]: Accepted password for john from 192.168.10.26 port 64960 ssh2
+Jul 12 08:15:24 web02 sshd[12202]: Accepted password for ec2-user from 192.168.10.53 port 47088 ssh2
+Jul 12 08:15:31 app01 sshd[12203]: Accepted publickey for bob from 192.168.10.21 port 46833 ssh2: RSA SHA256:examplekey
+Jul 12 08:15:32 web01 sshd[12204]: Accepted publickey for ec2-user from 192.168.10.22 port 64089 ssh2: RSA SHA256:examplekey
+Jul 12 08:15:40 web01 sshd[12205]: Accepted publickey for ec2-user from 192.168.10.62 port 38750 ssh2: RSA SHA256:examplekey
+Jul 12 08:15:44 web01 sshd[12206]: Accepted publickey for bob from 192.168.10.59 port 51382 ssh2: RSA SHA256:examplekey
+Jul 12 08:15:45 web02 sshd[12207]: Accepted publickey for bob from 192.168.10.79 port 55518 ssh2: RSA SHA256:examplekey
+Jul 12 08:15:51 web01 sshd[12208]: Accepted password for john from 192.168.10.79 port 38700 ssh2
+Jul 12 08:15:55 app01 sshd[12209]: Failed password for devops from 192.168.10.22 port 51449 ssh2
+Jul 12 08:15:59 app01 sshd[12210]: Accepted publickey for alice from 192.168.10.58 port 44632 ssh2: RSA SHA256:examplekey
+Jul 12 08:16:00 web01 sshd[12211]: Accepted publickey for ubuntu from 192.168.10.20 port 64013 ssh2: RSA SHA256:examplekey
+Jul 12 08:16:01 web02 sshd[12212]: Accepted password for john from 192.168.10.33 port 55934 ssh2
+Jul 12 08:16:06 app01 sshd[12213]: Accepted publickey for john from 192.168.10.33 port 30157 ssh2: RSA SHA256:examplekey
+Jul 12 08:16:12 web02 sshd[12214]: Accepted publickey for backup from 192.168.10.44 port 52159 ssh2: RSA SHA256:examplekey
+Jul 12 08:16:15 db01 sshd[12215]: Accepted password for alice from 192.168.10.19 port 61356 ssh2
+Jul 12 08:16:18 app01 sshd[12216]: Accepted password for devops from 192.168.10.27 port 36173 ssh2
+Jul 12 08:16:25 db01 sshd[12217]: Accepted publickey for bob from 192.168.10.18 port 47949 ssh2: RSA SHA256:examplekey
+Jul 12 08:16:29 web02 sshd[12218]: Accepted publickey for alice from 192.168.10.61 port 61363 ssh2: RSA SHA256:examplekey
+Jul 12 08:16:30 web02 sshd[12219]: Accepted publickey for john from 192.168.10.38 port 48377 ssh2: RSA SHA256:examplekey
+Jul 12 08:16:34 app01 sshd[12220]: Accepted password for ubuntu from 192.168.10.21 port 50011 ssh2
+Jul 12 08:16:37 web02 sshd[12221]: Failed password for ubuntu from 192.168.10.15 port 57310 ssh2
+Jul 12 08:16:39 db01 sshd[12222]: Accepted publickey for alice from 192.168.10.50 port 42672 ssh2: RSA SHA256:examplekey
+Jul 12 08:16:44 web02 sshd[12223]: Accepted password for john from 192.168.10.29 port 37391 ssh2
+Jul 12 08:16:49 web01 sshd[12224]: Accepted publickey for ec2-user from 192.168.10.59 port 35594 ssh2: RSA SHA256:examplekey
+Jul 12 08:16:50 db01 sshd[12225]: Accepted password for devops from 192.168.10.20 port 64202 ssh2
+Jul 12 08:16:58 web02 sshd[12226]: Accepted password for backup from 192.168.10.63 port 60688 ssh2
+Jul 12 08:17:04 web01 sshd[12227]: Accepted publickey for devops from 192.168.10.23 port 61540 ssh2: RSA SHA256:examplekey
+Jul 12 08:17:10 db01 sshd[12228]: Accepted password for ubuntu from 192.168.10.29 port 64937 ssh2
+Jul 12 08:17:12 web01 sshd[12229]: Accepted password for alice from 192.168.10.10 port 64797 ssh2
+Jul 12 08:17:16 app01 sshd[12230]: Accepted password for ubuntu from 192.168.10.29 port 53621 ssh2
+Jul 12 08:17:20 web01 sshd[12231]: Accepted password for alice from 192.168.10.46 port 38795 ssh2
+Jul 12 08:17:25 db01 sshd[12232]: Accepted publickey for backup from 192.168.10.62 port 35188 ssh2: RSA SHA256:examplekey
+Jul 12 08:17:31 web02 sshd[12233]: Accepted password for ec2-user from 192.168.10.24 port 45464 ssh2
+Jul 12 08:17:35 web02 sshd[12234]: Accepted password for devops from 192.168.10.78 port 43692 ssh2
+Jul 12 08:17:37 web01 sshd[12235]: Accepted password for john from 192.168.10.41 port 54648 ssh2
+Jul 12 08:17:40 app01 sshd[12236]: Accepted publickey for backup from 192.168.10.71 port 61777 ssh2: RSA SHA256:examplekey
+Jul 12 08:17:42 web02 sshd[12237]: Accepted publickey for alice from 192.168.10.30 port 36699 ssh2: RSA SHA256:examplekey
+Jul 12 08:17:43 db01 sshd[12238]: Accepted password for ubuntu from 192.168.10.56 port 64764 ssh2
+Jul 12 08:17:49 db01 sshd[12239]: Accepted publickey for bob from 192.168.10.24 port 36794 ssh2: RSA SHA256:examplekey
+Jul 12 08:17:57 web02 sshd[12240]: Accepted password for john from 192.168.10.13 port 49709 ssh2
+Jul 12 08:18:00 web01 sshd[12241]: Accepted publickey for bob from 192.168.10.53 port 39888 ssh2: RSA SHA256:examplekey
+Jul 12 08:18:01 web01 sshd[12242]: Accepted publickey for ec2-user from 192.168.10.24 port 33561 ssh2: RSA SHA256:examplekey
+Jul 12 08:18:05 web02 sshd[12243]: Accepted publickey for devops from 192.168.10.10 port 63522 ssh2: RSA SHA256:examplekey
+Jul 12 08:18:07 db01 sshd[12244]: Accepted publickey for bob from 192.168.10.56 port 31970 ssh2: RSA SHA256:examplekey
+Jul 12 08:18:09 web02 sshd[12245]: Accepted password for devops from 192.168.10.26 port 57030 ssh2
+Jul 12 08:18:12 app01 sshd[12246]: Accepted password for alice from 192.168.10.71 port 59594 ssh2
+Jul 12 08:18:20 web01 sshd[12247]: Accepted publickey for ec2-user from 192.168.10.16 port 48060 ssh2: RSA SHA256:examplekey
+Jul 12 08:18:24 db01 sshd[12248]: Accepted publickey for ubuntu from 192.168.10.10 port 57976 ssh2: RSA SHA256:examplekey
+Jul 12 08:18:25 web02 sshd[12249]: Accepted publickey for ubuntu from 192.168.10.39 port 63148 ssh2: RSA SHA256:examplekey
+Jul 12 08:18:30 web01 sshd[12250]: Accepted password for backup from 192.168.10.62 port 38649 ssh2
+Jul 12 08:18:33 app01 sshd[12251]: Accepted password for ec2-user from 192.168.10.72 port 46695 ssh2
+Jul 12 08:18:34 db01 sshd[12252]: Accepted publickey for devops from 192.168.10.20 port 52022 ssh2: RSA SHA256:examplekey
+Jul 12 08:18:37 web01 sshd[12253]: Accepted password for bob from 192.168.10.12 port 63345 ssh2
+Jul 12 08:18:42 web02 sshd[12254]: Accepted password for devops from 192.168.10.58 port 56186 ssh2
+Jul 12 08:18:45 db01 sshd[12255]: Accepted password for devops from 192.168.10.49 port 41168 ssh2
+Jul 12 08:18:50 web02 sshd[12256]: Accepted password for backup from 192.168.10.62 port 36979 ssh2
+Jul 12 08:18:54 web02 sshd[12257]: Accepted publickey for alice from 192.168.10.69 port 50665 ssh2: RSA SHA256:examplekey
+Jul 12 08:18:56 app01 sshd[12258]: Accepted publickey for bob from 192.168.10.58 port 53399 ssh2: RSA SHA256:examplekey
+Jul 12 08:18:57 web01 sshd[12259]: Accepted password for john from 192.168.10.59 port 38689 ssh2
+Jul 12 08:18:59 app01 sshd[12260]: Accepted publickey for alice from 192.168.10.29 port 49442 ssh2: RSA SHA256:examplekey
+Jul 12 08:19:00 db01 sshd[12261]: Accepted publickey for ubuntu from 192.168.10.11 port 62150 ssh2: RSA SHA256:examplekey
+Jul 12 08:19:08 web02 sshd[12262]: Accepted publickey for john from 192.168.10.51 port 37894 ssh2: RSA SHA256:examplekey
+Jul 12 08:19:11 web02 sshd[12263]: Accepted publickey for ubuntu from 192.168.10.39 port 58247 ssh2: RSA SHA256:examplekey
+Jul 12 08:19:17 app01 sshd[12264]: Failed password for ubuntu from 192.168.10.56 port 41626 ssh2
+Jul 12 08:19:21 web01 sshd[12265]: Accepted publickey for john from 192.168.10.74 port 36590 ssh2: RSA SHA256:examplekey
+Jul 12 08:19:29 app01 sshd[12266]: Failed password for alice from 192.168.10.63 port 41831 ssh2
+Jul 12 08:19:36 app01 sshd[12267]: Accepted publickey for devops from 192.168.10.38 port 55647 ssh2: RSA SHA256:examplekey
+Jul 12 08:19:43 db01 sshd[12268]: Accepted password for john from 192.168.10.40 port 30322 ssh2
+Jul 12 08:19:44 web02 sshd[12269]: Accepted password for devops from 192.168.10.63 port 58184 ssh2
+Jul 12 08:19:50 web02 sshd[12270]: Accepted publickey for backup from 192.168.10.25 port 60166 ssh2: RSA SHA256:examplekey
+Jul 12 08:19:53 app01 sshd[12271]: Failed password for bob from 192.168.10.70 port 63175 ssh2
+Jul 12 08:19:54 db01 sshd[12272]: Failed password for ec2-user from 192.168.10.50 port 43605 ssh2
+Jul 12 08:20:00 app01 sshd[12273]: Failed password for devops from 192.168.10.55 port 52116 ssh2
+Jul 12 08:20:05 app01 sshd[12274]: Accepted publickey for alice from 192.168.10.59 port 51134 ssh2: RSA SHA256:examplekey
+Jul 12 08:20:10 app01 sshd[12275]: Accepted password for devops from 192.168.10.24 port 35782 ssh2
+Jul 12 08:20:18 web02 sshd[12276]: Accepted publickey for backup from 192.168.10.15 port 33404 ssh2: RSA SHA256:examplekey
+Jul 12 08:20:24 app01 sshd[12277]: Accepted publickey for john from 192.168.10.71 port 37055 ssh2: RSA SHA256:examplekey
+Jul 12 08:20:26 db01 sshd[12278]: Failed password for john from 192.168.10.42 port 47514 ssh2
+Jul 12 08:20:32 web02 sshd[12279]: Accepted publickey for bob from 192.168.10.58 port 49015 ssh2: RSA SHA256:examplekey
+Jul 12 08:20:40 web02 sshd[12280]: Failed password for backup from 192.168.10.75 port 52036 ssh2
+Jul 12 08:20:48 app01 sshd[12281]: Accepted publickey for backup from 192.168.10.46 port 64401 ssh2: RSA SHA256:examplekey
+Jul 12 08:20:52 web02 sshd[12282]: Accepted publickey for devops from 192.168.10.16 port 61028 ssh2: RSA SHA256:examplekey
+Jul 12 08:20:54 app01 sshd[12283]: Accepted password for ec2-user from 192.168.10.24 port 32775 ssh2
+Jul 12 08:21:02 web01 sshd[12284]: Accepted password for alice from 192.168.10.38 port 57421 ssh2
+Jul 12 08:21:08 app01 sshd[12285]: Failed password for bob from 192.168.10.42 port 47964 ssh2
+Jul 12 08:21:15 app01 sshd[12286]: Accepted password for backup from 192.168.10.60 port 54665 ssh2
+Jul 12 08:21:22 app01 sshd[12287]: Accepted password for devops from 192.168.10.70 port 38450 ssh2
+Jul 12 08:21:29 web01 sshd[12288]: Accepted password for devops from 192.168.10.42 port 59732 ssh2
+Jul 12 08:21:34 web01 sshd[12289]: Accepted publickey for devops from 192.168.10.73 port 59155 ssh2: RSA SHA256:examplekey
+Jul 12 08:21:40 app01 sshd[12290]: Accepted publickey for backup from 192.168.10.31 port 40420 ssh2: RSA SHA256:examplekey
+Jul 12 08:21:41 app01 sshd[12291]: Accepted publickey for devops from 192.168.10.74 port 41738 ssh2: RSA SHA256:examplekey
+Jul 12 08:21:44 web01 sshd[12292]: Accepted publickey for backup from 192.168.10.62 port 57479 ssh2: RSA SHA256:examplekey
+Jul 12 08:21:52 web02 sshd[12293]: Accepted password for bob from 192.168.10.69 port 55194 ssh2
+Jul 12 08:21:59 web01 sshd[12294]: Accepted password for ubuntu from 192.168.10.14 port 54070 ssh2
+Jul 12 08:22:01 web01 sshd[12295]: Accepted publickey for devops from 192.168.10.30 port 32561 ssh2: RSA SHA256:examplekey
+Jul 12 08:22:08 web01 sshd[12296]: Accepted publickey for ubuntu from 192.168.10.22 port 50104 ssh2: RSA SHA256:examplekey
+Jul 12 08:22:10 web02 sshd[12297]: Accepted password for ubuntu from 192.168.10.43 port 61127 ssh2
+Jul 12 08:22:11 app01 sshd[12298]: Failed password for alice from 192.168.10.34 port 59290 ssh2
+Jul 12 08:22:16 web02 sshd[12299]: Accepted password for backup from 192.168.10.19 port 40356 ssh2
+Jul 12 08:22:23 web02 sshd[12300]: Accepted publickey for alice from 192.168.10.72 port 46244 ssh2: RSA SHA256:examplekey
+Jul 12 08:22:27 web01 sshd[12301]: Accepted publickey for devops from 192.168.10.44 port 51646 ssh2: RSA SHA256:examplekey
+Jul 12 08:22:33 db01 sshd[12302]: Accepted publickey for devops from 192.168.10.26 port 47762 ssh2: RSA SHA256:examplekey
+Jul 12 08:22:37 web01 sshd[12303]: Accepted password for alice from 192.168.10.69 port 50454 ssh2
+Jul 12 08:22:38 web02 sshd[12304]: Accepted publickey for john from 192.168.10.10 port 52346 ssh2: RSA SHA256:examplekey
+Jul 12 08:22:39 web02 sshd[12305]: Failed password for backup from 192.168.10.76 port 36138 ssh2
+Jul 12 08:22:47 app01 sshd[12306]: Accepted password for ubuntu from 192.168.10.35 port 41572 ssh2
+Jul 12 08:22:48 app01 sshd[12307]: Accepted password for john from 192.168.10.10 port 61556 ssh2
+Jul 12 08:22:55 db01 sshd[12308]: Accepted password for alice from 192.168.10.69 port 30520 ssh2
+Jul 12 08:23:00 db01 sshd[12309]: Accepted publickey for ec2-user from 192.168.10.72 port 58213 ssh2: RSA SHA256:examplekey
+Jul 12 08:23:01 app01 sshd[12310]: Accepted publickey for devops from 192.168.10.50 port 63520 ssh2: RSA SHA256:examplekey
+Jul 12 08:23:04 db01 sshd[12311]: Accepted publickey for john from 192.168.10.10 port 35613 ssh2: RSA SHA256:examplekey
+Jul 12 08:23:11 app01 sshd[12312]: Accepted password for backup from 192.168.10.62 port 63437 ssh2
+Jul 12 08:23:12 web01 sshd[12313]: Accepted password for backup from 192.168.10.39 port 31739 ssh2
+Jul 12 08:23:19 web01 sshd[12314]: Accepted publickey for ubuntu from 192.168.10.24 port 51602 ssh2: RSA SHA256:examplekey
+Jul 12 08:23:20 web02 sshd[12315]: Accepted publickey for john from 192.168.10.55 port 64650 ssh2: RSA SHA256:examplekey
+Jul 12 08:23:28 web02 sshd[12316]: Accepted publickey for bob from 192.168.10.61 port 63523 ssh2: RSA SHA256:examplekey
+Jul 12 08:23:29 web01 sshd[12317]: Accepted publickey for backup from 192.168.10.76 port 44184 ssh2: RSA SHA256:examplekey
+Jul 12 08:23:35 web01 sshd[12318]: Accepted publickey for ec2-user from 192.168.10.25 port 45394 ssh2: RSA SHA256:examplekey
+Jul 12 08:23:38 web01 sshd[12319]: Accepted password for alice from 192.168.10.20 port 31160 ssh2
+Jul 12 08:23:46 app01 sshd[12320]: Accepted password for backup from 192.168.10.22 port 62127 ssh2
+Jul 12 08:23:49 web02 sshd[12321]: Accepted publickey for ec2-user from 192.168.10.50 port 37578 ssh2: RSA SHA256:examplekey
+Jul 12 08:23:56 web01 sshd[12322]: Accepted password for john from 192.168.10.56 port 43573 ssh2
+Jul 12 08:24:04 app01 sshd[12323]: Accepted password for devops from 192.168.10.67 port 48609 ssh2
+Jul 12 08:24:12 web01 sshd[12324]: Accepted publickey for ubuntu from 192.168.10.14 port 51573 ssh2: RSA SHA256:examplekey
+Jul 12 08:24:14 db01 sshd[12325]: Failed password for devops from 192.168.10.36 port 62367 ssh2
+Jul 12 08:24:18 web02 sshd[12326]: Accepted publickey for ubuntu from 192.168.10.41 port 64637 ssh2: RSA SHA256:examplekey
+Jul 12 08:24:20 app01 sshd[12327]: Accepted publickey for alice from 192.168.10.20 port 59762 ssh2: RSA SHA256:examplekey
+Jul 12 08:24:26 app01 sshd[12328]: Accepted password for alice from 192.168.10.66 port 52369 ssh2
+Jul 12 08:24:34 db01 sshd[12329]: Accepted password for bob from 192.168.10.11 port 37135 ssh2
+Jul 12 08:24:36 web02 sshd[12330]: Accepted publickey for ec2-user from 192.168.10.46 port 47902 ssh2: RSA SHA256:examplekey
+Jul 12 08:24:37 app01 sshd[12331]: Accepted password for alice from 192.168.10.65 port 42423 ssh2
+Jul 12 08:24:42 db01 sshd[12332]: Accepted password for devops from 192.168.10.67 port 39690 ssh2
+Jul 12 08:24:50 web02 sshd[12333]: Failed password for john from 192.168.10.11 port 42156 ssh2
+Jul 12 08:24:51 web02 sshd[12334]: Accepted password for devops from 192.168.10.43 port 38000 ssh2
+Jul 12 08:24:52 app01 sshd[12335]: Accepted password for bob from 192.168.10.25 port 34405 ssh2
+Jul 12 08:24:58 app01 sshd[12336]: Accepted password for backup from 192.168.10.70 port 32030 ssh2
+Jul 12 08:25:05 web02 sshd[12337]: Failed password for devops from 192.168.10.19 port 33558 ssh2
+Jul 12 08:25:13 db01 sshd[12338]: Accepted publickey for devops from 192.168.10.72 port 58699 ssh2: RSA SHA256:examplekey
+Jul 12 08:25:16 db01 sshd[12339]: Accepted publickey for devops from 192.168.10.21 port 59377 ssh2: RSA SHA256:examplekey
+Jul 12 08:25:20 web02 sshd[12340]: Accepted publickey for bob from 192.168.10.35 port 41105 ssh2: RSA SHA256:examplekey
+Jul 12 08:25:24 web02 sshd[12341]: Accepted publickey for alice from 192.168.10.64 port 34561 ssh2: RSA SHA256:examplekey
+Jul 12 08:25:27 web01 sshd[12342]: Accepted publickey for bob from 192.168.10.50 port 32838 ssh2: RSA SHA256:examplekey
+Jul 12 08:25:34 web02 sshd[12343]: Accepted password for bob from 192.168.10.63 port 35797 ssh2
+Jul 12 08:25:39 db01 sshd[12344]: Accepted password for ubuntu from 192.168.10.12 port 63858 ssh2
+Jul 12 08:25:40 db01 sshd[12345]: Accepted password for ubuntu from 192.168.10.17 port 44998 ssh2
+Jul 12 08:25:41 app01 sshd[12346]: Failed password for bob from 192.168.10.66 port 34169 ssh2
+Jul 12 08:25:43 web02 sshd[12347]: Accepted password for ec2-user from 192.168.10.60 port 59704 ssh2
+Jul 12 08:25:46 db01 sshd[12348]: Failed password for alice from 192.168.10.20 port 59736 ssh2
+Jul 12 08:25:53 web01 sshd[12349]: Accepted publickey for devops from 192.168.10.38 port 60578 ssh2: RSA SHA256:examplekey
+Jul 12 08:26:01 web01 sshd[12350]: Accepted password for devops from 192.168.10.44 port 38743 ssh2
+Jul 12 08:26:07 web02 sshd[12351]: Accepted publickey for devops from 192.168.10.18 port 43683 ssh2: RSA SHA256:examplekey
+Jul 12 08:26:13 web02 sshd[12352]: Accepted password for bob from 192.168.10.12 port 61423 ssh2
+Jul 12 08:26:17 db01 sshd[12353]: Accepted publickey for backup from 192.168.10.43 port 46589 ssh2: RSA SHA256:examplekey
+Jul 12 08:26:19 db01 sshd[12354]: Accepted publickey for devops from 192.168.10.52 port 63565 ssh2: RSA SHA256:examplekey
+Jul 12 08:26:23 db01 sshd[12355]: Accepted publickey for alice from 192.168.10.54 port 35018 ssh2: RSA SHA256:examplekey
+Jul 12 08:26:28 db01 sshd[12356]: Accepted publickey for ubuntu from 192.168.10.59 port 34654 ssh2: RSA SHA256:examplekey
+Jul 12 08:26:30 db01 sshd[12357]: Accepted publickey for john from 192.168.10.54 port 55545 ssh2: RSA SHA256:examplekey
+Jul 12 08:26:34 db01 sshd[12358]: Accepted publickey for ubuntu from 192.168.10.55 port 43005 ssh2: RSA SHA256:examplekey
+Jul 12 08:26:40 web02 sshd[12359]: Failed password for alice from 192.168.10.11 port 56933 ssh2
+Jul 12 08:26:46 web01 sshd[12360]: Accepted publickey for backup from 192.168.10.67 port 45224 ssh2: RSA SHA256:examplekey
+Jul 12 08:26:53 app01 sshd[12361]: Accepted publickey for ubuntu from 192.168.10.56 port 42861 ssh2: RSA SHA256:examplekey
+Jul 12 08:26:55 web02 sshd[12362]: Accepted password for backup from 192.168.10.34 port 45341 ssh2
+Jul 12 08:27:00 web02 sshd[12363]: Accepted password for backup from 192.168.10.59 port 37757 ssh2
+Jul 12 08:27:07 web01 sshd[12364]: Accepted password for ec2-user from 192.168.10.40 port 54238 ssh2
+Jul 12 08:27:15 web01 sshd[12365]: Accepted publickey for devops from 192.168.10.71 port 63836 ssh2: RSA SHA256:examplekey
+Jul 12 08:27:23 db01 sshd[12366]: Accepted password for ec2-user from 192.168.10.51 port 54066 ssh2
+Jul 12 08:27:26 web02 sshd[12367]: Accepted password for devops from 192.168.10.39 port 52038 ssh2
+Jul 12 08:27:28 db01 sshd[12368]: Accepted publickey for john from 192.168.10.67 port 40994 ssh2: RSA SHA256:examplekey
+Jul 12 08:27:34 web02 sshd[12369]: Accepted publickey for ubuntu from 192.168.10.46 port 56367 ssh2: RSA SHA256:examplekey
+Jul 12 08:27:40 web02 sshd[12370]: Accepted publickey for bob from 192.168.10.15 port 33009 ssh2: RSA SHA256:examplekey
+Jul 12 08:27:47 app01 sshd[12371]: Accepted publickey for ubuntu from 192.168.10.38 port 43632 ssh2: RSA SHA256:examplekey
+Jul 12 08:27:49 web02 sshd[12372]: Accepted publickey for alice from 192.168.10.29 port 30730 ssh2: RSA SHA256:examplekey
+Jul 12 08:27:55 web02 sshd[12373]: Accepted password for devops from 192.168.10.13 port 49079 ssh2
+Jul 12 08:27:59 db01 sshd[12374]: Accepted password for ec2-user from 192.168.10.30 port 49601 ssh2
+Jul 12 08:28:02 web01 sshd[12375]: Accepted password for bob from 192.168.10.31 port 46857 ssh2
+Jul 12 08:28:05 app01 sshd[12376]: Accepted publickey for alice from 192.168.10.15 port 58576 ssh2: RSA SHA256:examplekey
+Jul 12 08:28:12 app01 sshd[12377]: Accepted password for john from 192.168.10.56 port 60772 ssh2
+Jul 12 08:28:15 db01 sshd[12378]: Accepted publickey for john from 192.168.10.26 port 36112 ssh2: RSA SHA256:examplekey
+Jul 12 08:28:23 db01 sshd[12379]: Failed password for ec2-user from 192.168.10.14 port 59525 ssh2
+Jul 12 08:28:25 db01 sshd[12380]: Accepted password for john from 192.168.10.74 port 40401 ssh2
+Jul 12 08:28:31 web01 sshd[12381]: Accepted publickey for alice from 192.168.10.76 port 48298 ssh2: RSA SHA256:examplekey
+Jul 12 08:28:35 db01 sshd[12382]: Accepted password for bob from 192.168.10.56 port 35048 ssh2
+Jul 12 08:28:42 web01 sshd[12383]: Accepted password for bob from 192.168.10.66 port 30115 ssh2
+Jul 12 08:28:50 web02 sshd[12384]: Accepted password for devops from 192.168.10.40 port 50170 ssh2
+Jul 12 08:28:56 web02 sshd[12385]: Accepted publickey for bob from 192.168.10.19 port 55981 ssh2: RSA SHA256:examplekey
+Jul 12 08:28:59 app01 sshd[12386]: Accepted publickey for backup from 192.168.10.40 port 41487 ssh2: RSA SHA256:examplekey
+Jul 12 08:29:06 web02 sshd[12387]: Accepted password for ec2-user from 192.168.10.71 port 62744 ssh2
+Jul 12 08:29:12 db01 sshd[12388]: Accepted password for alice from 192.168.10.66 port 58029 ssh2
+Jul 12 08:29:18 web01 sshd[12389]: Accepted publickey for alice from 192.168.10.26 port 41285 ssh2: RSA SHA256:examplekey
+Jul 12 08:29:21 web01 sshd[12390]: Accepted password for ubuntu from 192.168.10.57 port 43611 ssh2
+Jul 12 08:29:24 web01 sshd[12391]: Accepted publickey for john from 192.168.10.30 port 59049 ssh2: RSA SHA256:examplekey
+Jul 12 08:29:26 web02 sshd[12392]: Accepted password for bob from 192.168.10.55 port 50114 ssh2
+Jul 12 08:29:28 web01 sshd[12393]: Accepted password for ec2-user from 192.168.10.22 port 45762 ssh2
+Jul 12 08:29:36 app01 sshd[12394]: Failed password for backup from 192.168.10.20 port 51486 ssh2
+Jul 12 08:29:38 db01 sshd[12395]: Accepted password for bob from 192.168.10.44 port 40830 ssh2
+Jul 12 08:29:40 web01 sshd[12396]: Accepted publickey for ubuntu from 192.168.10.21 port 33697 ssh2: RSA SHA256:examplekey
+Jul 12 08:29:43 web01 sshd[12397]: Accepted password for john from 192.168.10.58 port 53845 ssh2
+Jul 12 08:29:50 db01 sshd[12398]: Failed password for backup from 192.168.10.39 port 64337 ssh2
+Jul 12 08:29:53 web01 sshd[12399]: Accepted password for ubuntu from 192.168.10.11 port 61082 ssh2
+Jul 12 08:29:59 db01 sshd[12400]: Accepted password for bob from 192.168.10.70 port 47462 ssh2
+Jul 12 08:30:06 db01 sshd[12401]: Accepted password for bob from 192.168.10.23 port 60994 ssh2
+Jul 12 08:30:07 web02 sshd[12402]: Accepted publickey for alice from 192.168.10.39 port 64709 ssh2: RSA SHA256:examplekey
+Jul 12 08:30:09 db01 sshd[12403]: Accepted password for backup from 192.168.10.36 port 63726 ssh2
+Jul 12 08:30:16 web02 sshd[12404]: Accepted publickey for devops from 192.168.10.26 port 33098 ssh2: RSA SHA256:examplekey
+Jul 12 08:30:19 web02 sshd[12405]: Failed password for ubuntu from 192.168.10.57 port 38562 ssh2
+Jul 12 08:30:22 db01 sshd[12406]: Accepted password for backup from 192.168.10.41 port 52611 ssh2
+Jul 12 08:30:24 web01 sshd[12407]: Accepted password for john from 192.168.10.66 port 33461 ssh2
+Jul 12 08:30:25 web01 sshd[12408]: Accepted publickey for bob from 192.168.10.33 port 51166 ssh2: RSA SHA256:examplekey
+Jul 12 08:30:28 web01 sshd[12409]: Accepted publickey for alice from 192.168.10.15 port 55226 ssh2: RSA SHA256:examplekey
+Jul 12 08:30:32 web01 sshd[12410]: Accepted password for backup from 192.168.10.48 port 44016 ssh2
+Jul 12 08:30:38 web02 sshd[12411]: Accepted password for backup from 192.168.10.49 port 47855 ssh2
+Jul 12 08:30:41 web02 sshd[12412]: Accepted publickey for ec2-user from 192.168.10.68 port 52931 ssh2: RSA SHA256:examplekey
+Jul 12 08:30:49 web02 sshd[12413]: Accepted publickey for alice from 192.168.10.11 port 32697 ssh2: RSA SHA256:examplekey
+Jul 12 08:30:55 web01 sshd[12414]: Accepted publickey for alice from 192.168.10.30 port 59222 ssh2: RSA SHA256:examplekey
+Jul 12 08:30:57 web02 sshd[12415]: Accepted password for bob from 192.168.10.12 port 40786 ssh2
+Jul 12 08:31:02 db01 sshd[12416]: Accepted publickey for john from 192.168.10.57 port 47136 ssh2: RSA SHA256:examplekey
+Jul 12 08:31:05 web02 sshd[12417]: Accepted publickey for devops from 192.168.10.34 port 62199 ssh2: RSA SHA256:examplekey
+Jul 12 08:31:07 app01 sshd[12418]: Accepted publickey for ubuntu from 192.168.10.32 port 59485 ssh2: RSA SHA256:examplekey
+Jul 12 08:31:10 web02 sshd[12419]: Accepted password for ec2-user from 192.168.10.72 port 54805 ssh2
+Jul 12 08:31:18 app01 sshd[12420]: Accepted publickey for ubuntu from 192.168.10.78 port 63271 ssh2: RSA SHA256:examplekey
+Jul 12 08:31:22 app01 sshd[12421]: Accepted publickey for ubuntu from 192.168.10.64 port 46267 ssh2: RSA SHA256:examplekey
+Jul 12 08:31:29 app01 sshd[12422]: Failed password for john from 192.168.10.62 port 35703 ssh2
+Jul 12 08:31:34 web01 sshd[12423]: Accepted publickey for alice from 192.168.10.72 port 36259 ssh2: RSA SHA256:examplekey
+Jul 12 08:31:38 web02 sshd[12424]: Accepted password for ec2-user from 192.168.10.40 port 55669 ssh2
+Jul 12 08:31:44 app01 sshd[12425]: Failed password for john from 192.168.10.74 port 30456 ssh2
+Jul 12 08:31:46 web01 sshd[12426]: Accepted password for backup from 192.168.10.59 port 56634 ssh2
+Jul 12 08:31:51 web02 sshd[12427]: Accepted publickey for john from 192.168.10.15 port 32856 ssh2: RSA SHA256:examplekey
+Jul 12 08:31:58 app01 sshd[12428]: Accepted publickey for ec2-user from 192.168.10.77 port 60937 ssh2: RSA SHA256:examplekey
+Jul 12 08:32:05 web01 sshd[12429]: Accepted publickey for ec2-user from 192.168.10.29 port 58227 ssh2: RSA SHA256:examplekey
+Jul 12 08:32:06 web01 sshd[12430]: Accepted password for john from 192.168.10.63 port 48889 ssh2
+Jul 12 08:32:10 web01 sshd[12431]: Accepted password for ec2-user from 192.168.10.45 port 45185 ssh2
+Jul 12 08:32:18 app01 sshd[12432]: Accepted publickey for john from 192.168.10.25 port 50977 ssh2: RSA SHA256:examplekey
+Jul 12 08:32:23 app01 sshd[12433]: Accepted publickey for alice from 192.168.10.42 port 44434 ssh2: RSA SHA256:examplekey
+Jul 12 08:32:27 web01 sshd[12434]: Failed password for john from 192.168.10.58 port 39886 ssh2
+Jul 12 08:32:30 web01 sshd[12435]: Accepted publickey for devops from 192.168.10.39 port 45204 ssh2: RSA SHA256:examplekey
+Jul 12 08:32:34 db01 sshd[12436]: Accepted publickey for bob from 192.168.10.57 port 46739 ssh2: RSA SHA256:examplekey
+Jul 12 08:32:38 web01 sshd[12437]: Accepted publickey for ec2-user from 192.168.10.48 port 64068 ssh2: RSA SHA256:examplekey
+Jul 12 08:32:43 web01 sshd[12438]: Accepted publickey for ec2-user from 192.168.10.58 port 42378 ssh2: RSA SHA256:examplekey
+Jul 12 08:32:49 app01 sshd[12439]: Accepted password for ec2-user from 192.168.10.55 port 43219 ssh2
+Jul 12 08:32:55 app01 sshd[12440]: Accepted publickey for ec2-user from 192.168.10.51 port 51462 ssh2: RSA SHA256:examplekey
+Jul 12 08:33:01 web01 sshd[12441]: Accepted publickey for backup from 192.168.10.11 port 41273 ssh2: RSA SHA256:examplekey
+Jul 12 08:33:07 web02 sshd[12442]: Accepted publickey for backup from 192.168.10.22 port 59040 ssh2: RSA SHA256:examplekey
+Jul 12 08:33:10 db01 sshd[12443]: Failed password for ubuntu from 192.168.10.78 port 37751 ssh2
+Jul 12 08:33:15 web01 sshd[12444]: Accepted password for ec2-user from 192.168.10.72 port 43238 ssh2
+Jul 12 08:33:16 db01 sshd[12445]: Accepted password for bob from 192.168.10.18 port 34848 ssh2
+Jul 12 08:33:17 web02 sshd[12446]: Failed password for ec2-user from 192.168.10.57 port 43747 ssh2
+Jul 12 08:33:23 web01 sshd[12447]: Accepted publickey for bob from 192.168.10.67 port 41378 ssh2: RSA SHA256:examplekey
+Jul 12 08:33:30 db01 sshd[12448]: Accepted password for devops from 192.168.10.69 port 32664 ssh2
+Jul 12 08:33:32 app01 sshd[12449]: Accepted publickey for john from 192.168.10.64 port 44547 ssh2: RSA SHA256:examplekey
+Jul 12 08:33:39 db01 sshd[12450]: Accepted password for alice from 192.168.10.29 port 58691 ssh2
+Jul 12 08:33:47 web02 sshd[12451]: Accepted publickey for ubuntu from 192.168.10.67 port 64070 ssh2: RSA SHA256:examplekey
+Jul 12 08:33:55 web01 sshd[12452]: Accepted password for john from 192.168.10.63 port 36629 ssh2
+Jul 12 08:34:00 app01 sshd[12453]: Accepted publickey for ubuntu from 192.168.10.10 port 32534 ssh2: RSA SHA256:examplekey
+Jul 12 08:34:04 app01 sshd[12454]: Accepted password for ubuntu from 192.168.10.51 port 53665 ssh2
+Jul 12 08:34:09 web01 sshd[12455]: Accepted password for backup from 192.168.10.24 port 30644 ssh2
+Jul 12 08:34:11 db01 sshd[12456]: Accepted password for ec2-user from 192.168.10.10 port 61658 ssh2
+Jul 12 08:34:12 app01 sshd[12457]: Accepted publickey for bob from 192.168.10.56 port 58291 ssh2: RSA SHA256:examplekey
+Jul 12 08:34:20 web01 sshd[12458]: Accepted password for ec2-user from 192.168.10.52 port 33778 ssh2
+Jul 12 08:34:22 db01 sshd[12459]: Accepted password for alice from 192.168.10.10 port 41155 ssh2
+Jul 12 08:34:25 app01 sshd[12460]: Accepted password for backup from 192.168.10.49 port 42252 ssh2
+Jul 12 08:34:32 web01 sshd[12461]: Accepted password for alice from 192.168.10.40 port 46830 ssh2
+Jul 12 08:34:38 web02 sshd[12462]: Failed password for john from 192.168.10.41 port 40594 ssh2
+Jul 12 08:34:44 app01 sshd[12463]: Failed password for john from 192.168.10.75 port 55480 ssh2
+Jul 12 08:34:51 web01 sshd[12464]: Accepted password for bob from 192.168.10.43 port 61356 ssh2
+Jul 12 08:34:58 web02 sshd[12465]: Accepted publickey for backup from 192.168.10.66 port 32384 ssh2: RSA SHA256:examplekey
+Jul 12 08:34:59 web02 sshd[12466]: Accepted publickey for bob from 192.168.10.43 port 31471 ssh2: RSA SHA256:examplekey
+Jul 12 08:35:05 app01 sshd[12467]: Accepted password for ubuntu from 192.168.10.69 port 55706 ssh2
+Jul 12 08:35:12 db01 sshd[12468]: Accepted publickey for alice from 192.168.10.31 port 30124 ssh2: RSA SHA256:examplekey
+Jul 12 08:35:15 db01 sshd[12469]: Accepted publickey for alice from 192.168.10.71 port 41166 ssh2: RSA SHA256:examplekey
+Jul 12 08:35:23 web01 sshd[12470]: Accepted publickey for john from 192.168.10.36 port 33470 ssh2: RSA SHA256:examplekey
+Jul 12 08:35:29 web02 sshd[12471]: Accepted password for alice from 192.168.10.69 port 41717 ssh2
+Jul 12 08:35:31 db01 sshd[12472]: Accepted publickey for john from 192.168.10.42 port 30007 ssh2: RSA SHA256:examplekey
+Jul 12 08:35:35 db01 sshd[12473]: Accepted password for ec2-user from 192.168.10.44 port 47819 ssh2
+Jul 12 08:35:41 db01 sshd[12474]: Accepted password for bob from 192.168.10.57 port 51132 ssh2
+Jul 12 08:35:48 web01 sshd[12475]: Accepted password for ubuntu from 192.168.10.79 port 62437 ssh2
+Jul 12 08:35:54 web01 sshd[12476]: Accepted publickey for backup from 192.168.10.70 port 58577 ssh2: RSA SHA256:examplekey
+Jul 12 08:36:02 web01 sshd[12477]: Accepted publickey for john from 192.168.10.50 port 33664 ssh2: RSA SHA256:examplekey
+Jul 12 08:36:04 db01 sshd[12478]: Accepted password for alice from 192.168.10.40 port 60397 ssh2
+Jul 12 08:36:09 web02 sshd[12479]: Accepted publickey for alice from 192.168.10.54 port 60683 ssh2: RSA SHA256:examplekey
+Jul 12 08:36:14 db01 sshd[12480]: Accepted password for john from 192.168.10.35 port 34807 ssh2
+Jul 12 08:36:18 web02 sshd[12481]: Accepted password for alice from 192.168.10.60 port 36955 ssh2
+Jul 12 08:36:26 web02 sshd[12482]: Accepted password for backup from 192.168.10.34 port 61035 ssh2
+Jul 12 08:36:27 db01 sshd[12483]: Accepted publickey for backup from 192.168.10.28 port 32167 ssh2: RSA SHA256:examplekey
+Jul 12 08:36:33 web02 sshd[12484]: Accepted password for backup from 192.168.10.59 port 45862 ssh2
+Jul 12 08:36:41 web02 sshd[12485]: Accepted password for bob from 192.168.10.30 port 57598 ssh2
+Jul 12 08:36:48 db01 sshd[12486]: Accepted password for ubuntu from 192.168.10.62 port 56265 ssh2
+Jul 12 08:36:53 web01 sshd[12487]: Accepted publickey for ubuntu from 192.168.10.13 port 56954 ssh2: RSA SHA256:examplekey
+Jul 12 08:36:57 web01 sshd[12488]: Failed password for ubuntu from 192.168.10.69 port 34735 ssh2
+Jul 12 08:37:00 db01 sshd[12489]: Accepted publickey for devops from 192.168.10.34 port 34169 ssh2: RSA SHA256:examplekey
+Jul 12 08:37:01 db01 sshd[12490]: Accepted publickey for backup from 192.168.10.30 port 30761 ssh2: RSA SHA256:examplekey
+Jul 12 08:37:05 app01 sshd[12491]: Accepted password for alice from 192.168.10.30 port 48772 ssh2
+Jul 12 08:37:10 app01 sshd[12492]: Accepted publickey for alice from 192.168.10.44 port 53253 ssh2: RSA SHA256:examplekey
+Jul 12 08:37:13 app01 sshd[12493]: Accepted publickey for ec2-user from 192.168.10.74 port 57167 ssh2: RSA SHA256:examplekey
+Jul 12 08:37:16 web02 sshd[12494]: Accepted password for backup from 192.168.10.63 port 44207 ssh2
+Jul 12 08:37:18 web02 sshd[12495]: Accepted publickey for ubuntu from 192.168.10.68 port 56785 ssh2: RSA SHA256:examplekey
+Jul 12 08:37:25 web01 sshd[12496]: Accepted password for john from 192.168.10.59 port 35393 ssh2
+Jul 12 08:37:31 web02 sshd[12497]: Failed password for john from 192.168.10.60 port 62594 ssh2
+Jul 12 08:37:33 web02 sshd[12498]: Accepted password for john from 192.168.10.31 port 50077 ssh2
+Jul 12 08:37:41 app01 sshd[12499]: Failed password for alice from 192.168.10.32 port 34334 ssh2
+Jul 12 08:37:45 app01 sshd[12500]: Accepted password for bob from 192.168.10.24 port 53575 ssh2
+Jul 12 08:37:46 app01 sshd[12501]: Accepted password for bob from 192.168.10.47 port 57938 ssh2
+Jul 12 08:37:48 web02 sshd[12502]: Accepted password for devops from 192.168.10.39 port 58722 ssh2
+Jul 12 08:37:49 app01 sshd[12503]: Accepted publickey for bob from 192.168.10.53 port 40207 ssh2: RSA SHA256:examplekey
+Jul 12 08:37:52 app01 sshd[12504]: Accepted publickey for bob from 192.168.10.42 port 42535 ssh2: RSA SHA256:examplekey
+Jul 12 08:37:59 web02 sshd[12505]: Accepted password for bob from 192.168.10.54 port 61369 ssh2
+Jul 12 08:38:04 web02 sshd[12506]: Accepted publickey for bob from 192.168.10.36 port 34137 ssh2: RSA SHA256:examplekey
+Jul 12 08:38:09 web01 sshd[12507]: Accepted publickey for john from 192.168.10.37 port 35215 ssh2: RSA SHA256:examplekey
+Jul 12 08:38:12 app01 sshd[12508]: Accepted publickey for john from 192.168.10.55 port 35578 ssh2: RSA SHA256:examplekey
+Jul 12 08:38:13 web02 sshd[12509]: Failed password for john from 192.168.10.16 port 30877 ssh2
+Jul 12 08:38:14 app01 sshd[12510]: Accepted publickey for alice from 192.168.10.41 port 43517 ssh2: RSA SHA256:examplekey
+Jul 12 08:38:18 web02 sshd[12511]: Accepted password for john from 192.168.10.53 port 48371 ssh2
+Jul 12 08:38:20 web01 sshd[12512]: Accepted publickey for john from 192.168.10.26 port 57523 ssh2: RSA SHA256:examplekey
+Jul 12 08:38:21 db01 sshd[12513]: Accepted password for alice from 192.168.10.67 port 57862 ssh2
+Jul 12 08:38:24 db01 sshd[12514]: Accepted publickey for ubuntu from 192.168.10.16 port 32021 ssh2: RSA SHA256:examplekey
+Jul 12 08:38:31 web02 sshd[12515]: Accepted password for bob from 192.168.10.23 port 51610 ssh2
+Jul 12 08:38:32 app01 sshd[12516]: Accepted publickey for bob from 192.168.10.56 port 61050 ssh2: RSA SHA256:examplekey
+Jul 12 08:38:35 db01 sshd[12517]: Failed password for ec2-user from 192.168.10.18 port 58850 ssh2
+Jul 12 08:38:41 web02 sshd[12518]: Accepted publickey for alice from 192.168.10.51 port 41418 ssh2: RSA SHA256:examplekey
+Jul 12 08:38:48 app01 sshd[12519]: Accepted publickey for john from 192.168.10.60 port 61746 ssh2: RSA SHA256:examplekey
+Jul 12 08:38:50 db01 sshd[12520]: Accepted publickey for ec2-user from 192.168.10.66 port 44171 ssh2: RSA SHA256:examplekey
+Jul 12 08:38:55 db01 sshd[12521]: Accepted publickey for bob from 192.168.10.59 port 62990 ssh2: RSA SHA256:examplekey
+Jul 12 08:38:58 db01 sshd[12522]: Accepted password for backup from 192.168.10.50 port 54424 ssh2
+Jul 12 08:39:05 web01 sshd[12523]: Accepted publickey for ubuntu from 192.168.10.75 port 36249 ssh2: RSA SHA256:examplekey
+Jul 12 08:39:09 app01 sshd[12524]: Accepted publickey for john from 192.168.10.54 port 54737 ssh2: RSA SHA256:examplekey
+Jul 12 08:39:15 app01 sshd[12525]: Accepted publickey for backup from 192.168.10.67 port 31679 ssh2: RSA SHA256:examplekey
+Jul 12 08:39:20 web01 sshd[12526]: Accepted publickey for backup from 192.168.10.42 port 55882 ssh2: RSA SHA256:examplekey
+Jul 12 08:39:28 db01 sshd[12527]: Accepted publickey for devops from 192.168.10.54 port 57870 ssh2: RSA SHA256:examplekey
+Jul 12 08:39:30 web01 sshd[12528]: Accepted password for backup from 192.168.10.58 port 32641 ssh2
+Jul 12 08:39:36 web02 sshd[12529]: Accepted publickey for john from 192.168.10.43 port 56503 ssh2: RSA SHA256:examplekey
+Jul 12 08:39:43 app01 sshd[12530]: Accepted password for john from 192.168.10.14 port 64328 ssh2
+Jul 12 08:39:50 web01 sshd[12531]: Accepted password for john from 192.168.10.21 port 47486 ssh2
+Jul 12 08:39:52 web02 sshd[12532]: Accepted password for ec2-user from 192.168.10.65 port 46336 ssh2
+Jul 12 08:39:54 web02 sshd[12533]: Accepted publickey for backup from 192.168.10.28 port 46255 ssh2: RSA SHA256:examplekey
+Jul 12 08:39:56 web01 sshd[12534]: Accepted password for devops from 192.168.10.61 port 38579 ssh2
+Jul 12 08:40:02 db01 sshd[12535]: Accepted password for john from 192.168.10.38 port 34097 ssh2
+Jul 12 08:40:09 web02 sshd[12536]: Accepted password for bob from 192.168.10.53 port 33368 ssh2
+Jul 12 08:40:11 web02 sshd[12537]: Accepted publickey for john from 192.168.10.42 port 35060 ssh2: RSA SHA256:examplekey
+Jul 12 08:40:18 db01 sshd[12538]: Accepted publickey for bob from 192.168.10.31 port 46006 ssh2: RSA SHA256:examplekey
+Jul 12 08:40:22 web02 sshd[12539]: Accepted publickey for ec2-user from 192.168.10.27 port 47403 ssh2: RSA SHA256:examplekey
+Jul 12 08:40:27 db01 sshd[12540]: Accepted publickey for backup from 192.168.10.64 port 55448 ssh2: RSA SHA256:examplekey
+Jul 12 08:40:30 db01 sshd[12541]: Accepted publickey for ubuntu from 192.168.10.28 port 53189 ssh2: RSA SHA256:examplekey
+Jul 12 08:40:33 web01 sshd[12542]: Accepted password for backup from 192.168.10.17 port 54408 ssh2
+Jul 12 08:40:38 db01 sshd[12543]: Accepted publickey for alice from 192.168.10.53 port 55291 ssh2: RSA SHA256:examplekey
+Jul 12 08:40:39 web01 sshd[12544]: Accepted password for bob from 192.168.10.77 port 54310 ssh2
+Jul 12 08:40:45 db01 sshd[12545]: Accepted publickey for ubuntu from 192.168.10.51 port 32956 ssh2: RSA SHA256:examplekey
+Jul 12 08:40:52 web02 sshd[12546]: Accepted publickey for john from 192.168.10.67 port 32583 ssh2: RSA SHA256:examplekey
+Jul 12 08:40:56 web01 sshd[12547]: Accepted password for ec2-user from 192.168.10.69 port 45469 ssh2
+Jul 12 08:41:00 web02 sshd[12548]: Accepted publickey for devops from 192.168.10.78 port 62418 ssh2: RSA SHA256:examplekey
+Jul 12 08:41:05 db01 sshd[12549]: Accepted password for bob from 192.168.10.37 port 57791 ssh2
+Jul 12 08:41:12 db01 sshd[12550]: Accepted publickey for ec2-user from 192.168.10.48 port 36703 ssh2: RSA SHA256:examplekey
+Jul 12 08:41:20 web02 sshd[12551]: Accepted password for ec2-user from 192.168.10.72 port 62340 ssh2
+Jul 12 08:41:27 db01 sshd[12552]: Accepted password for ec2-user from 192.168.10.75 port 37711 ssh2
+Jul 12 08:41:30 web01 sshd[12553]: Accepted publickey for john from 192.168.10.21 port 59952 ssh2: RSA SHA256:examplekey
+Jul 12 08:41:35 app01 sshd[12554]: Failed password for devops from 192.168.10.40 port 54524 ssh2
+Jul 12 08:41:36 web01 sshd[12555]: Accepted password for ubuntu from 192.168.10.44 port 44396 ssh2
+Jul 12 08:41:43 db01 sshd[12556]: Accepted password for backup from 192.168.10.25 port 63260 ssh2
+Jul 12 08:41:45 web02 sshd[12557]: Accepted publickey for backup from 192.168.10.58 port 35456 ssh2: RSA SHA256:examplekey
+Jul 12 08:41:52 web01 sshd[12558]: Accepted publickey for ubuntu from 192.168.10.24 port 38423 ssh2: RSA SHA256:examplekey
+Jul 12 08:41:58 web02 sshd[12559]: Accepted publickey for ec2-user from 192.168.10.18 port 44993 ssh2: RSA SHA256:examplekey
+Jul 12 08:42:02 app01 sshd[12560]: Accepted password for bob from 192.168.10.19 port 34601 ssh2
+Jul 12 08:42:09 web02 sshd[12561]: Accepted publickey for alice from 192.168.10.13 port 60936 ssh2: RSA SHA256:examplekey
+Jul 12 08:42:15 app01 sshd[12562]: Accepted publickey for ec2-user from 192.168.10.79 port 57300 ssh2: RSA SHA256:examplekey
+Jul 12 08:42:20 app01 sshd[12563]: Accepted password for john from 192.168.10.21 port 41163 ssh2
+Jul 12 08:42:24 web01 sshd[12564]: Accepted publickey for backup from 192.168.10.47 port 49785 ssh2: RSA SHA256:examplekey
+Jul 12 08:42:32 web01 sshd[12565]: Accepted password for devops from 192.168.10.51 port 56170 ssh2
+Jul 12 08:42:37 app01 sshd[12566]: Failed password for bob from 192.168.10.39 port 44291 ssh2
+Jul 12 08:42:45 web02 sshd[12567]: Accepted password for john from 192.168.10.42 port 35522 ssh2
+Jul 12 08:42:46 web01 sshd[12568]: Failed password for john from 192.168.10.32 port 48954 ssh2
+Jul 12 08:42:51 web02 sshd[12569]: Accepted publickey for backup from 192.168.10.38 port 32885 ssh2: RSA SHA256:examplekey
+Jul 12 08:42:59 db01 sshd[12570]: Accepted password for devops from 192.168.10.63 port 60561 ssh2
+Jul 12 08:43:07 app01 sshd[12571]: Accepted password for john from 192.168.10.73 port 44085 ssh2
+Jul 12 08:43:11 web01 sshd[12572]: Accepted password for ubuntu from 192.168.10.15 port 52163 ssh2
+Jul 12 08:43:13 db01 sshd[12573]: Accepted password for alice from 192.168.10.79 port 55062 ssh2
+Jul 12 08:43:14 app01 sshd[12574]: Accepted publickey for ubuntu from 192.168.10.10 port 56479 ssh2: RSA SHA256:examplekey
+Jul 12 08:43:22 db01 sshd[12575]: Accepted publickey for ubuntu from 192.168.10.27 port 53450 ssh2: RSA SHA256:examplekey
+Jul 12 08:43:28 web01 sshd[12576]: Accepted password for backup from 192.168.10.53 port 50314 ssh2
+Jul 12 08:43:35 db01 sshd[12577]: Accepted publickey for john from 192.168.10.68 port 34832 ssh2: RSA SHA256:examplekey
+Jul 12 08:43:41 web02 sshd[12578]: Failed password for devops from 192.168.10.16 port 32546 ssh2
+Jul 12 08:43:49 app01 sshd[12579]: Accepted publickey for devops from 192.168.10.40 port 63819 ssh2: RSA SHA256:examplekey
+Jul 12 08:43:51 web01 sshd[12580]: Accepted publickey for john from 192.168.10.31 port 55868 ssh2: RSA SHA256:examplekey
+Jul 12 08:43:55 web01 sshd[12581]: Accepted publickey for backup from 192.168.10.57 port 55671 ssh2: RSA SHA256:examplekey
+Jul 12 08:43:56 app01 sshd[12582]: Accepted publickey for ec2-user from 192.168.10.43 port 59939 ssh2: RSA SHA256:examplekey
+Jul 12 08:44:02 web02 sshd[12583]: Accepted publickey for alice from 192.168.10.47 port 51377 ssh2: RSA SHA256:examplekey
+Jul 12 08:44:08 db01 sshd[12584]: Accepted publickey for alice from 192.168.10.51 port 56067 ssh2: RSA SHA256:examplekey
+Jul 12 08:44:14 web01 sshd[12585]: Failed password for ubuntu from 192.168.10.35 port 58664 ssh2
+Jul 12 08:44:19 db01 sshd[12586]: Accepted password for bob from 192.168.10.20 port 52985 ssh2
+Jul 12 08:44:26 web02 sshd[12587]: Accepted password for john from 192.168.10.63 port 48402 ssh2
+Jul 12 08:44:31 db01 sshd[12588]: Failed password for john from 192.168.10.36 port 58921 ssh2
+Jul 12 08:44:32 web02 sshd[12589]: Accepted password for alice from 192.168.10.52 port 36452 ssh2
+Jul 12 08:44:40 web01 sshd[12590]: Accepted password for backup from 192.168.10.17 port 64798 ssh2
+Jul 12 08:44:44 app01 sshd[12591]: Accepted password for bob from 192.168.10.10 port 36154 ssh2
+Jul 12 08:44:52 db01 sshd[12592]: Failed password for john from 192.168.10.27 port 57470 ssh2
+Jul 12 08:45:00 app01 sshd[12593]: Accepted password for ubuntu from 192.168.10.36 port 45295 ssh2
+Jul 12 08:45:02 web02 sshd[12594]: Accepted password for ec2-user from 192.168.10.48 port 42713 ssh2
+Jul 12 08:45:07 web02 sshd[12595]: Accepted publickey for alice from 192.168.10.57 port 50385 ssh2: RSA SHA256:examplekey
+Jul 12 08:45:14 app01 sshd[12596]: Accepted publickey for devops from 192.168.10.23 port 30036 ssh2: RSA SHA256:examplekey
+Jul 12 08:45:19 db01 sshd[12597]: Accepted password for backup from 192.168.10.68 port 46333 ssh2
+Jul 12 08:45:24 web02 sshd[12598]: Accepted password for alice from 192.168.10.44 port 37991 ssh2
+Jul 12 08:45:29 web02 sshd[12599]: Accepted publickey for backup from 192.168.10.61 port 42531 ssh2: RSA SHA256:examplekey
+Jul 12 08:45:34 web01 sshd[12600]: Accepted publickey for john from 192.168.10.10 port 59040 ssh2: RSA SHA256:examplekey
+Jul 12 08:45:41 web01 sshd[12601]: Accepted publickey for bob from 192.168.10.49 port 53670 ssh2: RSA SHA256:examplekey
+Jul 12 08:45:47 web02 sshd[12602]: Accepted password for ubuntu from 192.168.10.66 port 54115 ssh2
+Jul 12 08:45:55 web01 sshd[12603]: Accepted password for ec2-user from 192.168.10.17 port 32345 ssh2
+Jul 12 08:45:57 db01 sshd[12604]: Accepted password for ubuntu from 192.168.10.24 port 43005 ssh2
+Jul 12 08:46:05 web02 sshd[12605]: Accepted password for alice from 192.168.10.21 port 51122 ssh2
+Jul 12 08:46:10 web01 sshd[12606]: Accepted publickey for bob from 192.168.10.72 port 45155 ssh2: RSA SHA256:examplekey
+Jul 12 08:46:11 web02 sshd[12607]: Accepted password for ubuntu from 192.168.10.43 port 64260 ssh2
+Jul 12 08:46:12 db01 sshd[12608]: Accepted publickey for ec2-user from 192.168.10.60 port 43218 ssh2: RSA SHA256:examplekey
+Jul 12 08:46:20 web02 sshd[12609]: Accepted publickey for alice from 192.168.10.12 port 35832 ssh2: RSA SHA256:examplekey
+Jul 12 08:46:23 app01 sshd[12610]: Accepted password for ec2-user from 192.168.10.40 port 43525 ssh2
+Jul 12 08:46:27 web01 sshd[12611]: Accepted password for ec2-user from 192.168.10.13 port 46031 ssh2
+Jul 12 08:46:35 app01 sshd[12612]: Failed password for backup from 192.168.10.21 port 37036 ssh2
+Jul 12 08:46:36 app01 sshd[12613]: Accepted password for john from 192.168.10.21 port 31999 ssh2
+Jul 12 08:46:41 web02 sshd[12614]: Accepted publickey for john from 192.168.10.12 port 41508 ssh2: RSA SHA256:examplekey
+Jul 12 08:46:47 web01 sshd[12615]: Accepted publickey for ec2-user from 192.168.10.49 port 33599 ssh2: RSA SHA256:examplekey
+Jul 12 08:46:48 app01 sshd[12616]: Accepted publickey for bob from 192.168.10.69 port 52828 ssh2: RSA SHA256:examplekey
+Jul 12 08:46:54 web01 sshd[12617]: Accepted password for devops from 192.168.10.63 port 34743 ssh2
+Jul 12 08:46:57 app01 sshd[12618]: Accepted publickey for ec2-user from 192.168.10.78 port 45093 ssh2: RSA SHA256:examplekey
+Jul 12 08:47:04 db01 sshd[12619]: Accepted password for ec2-user from 192.168.10.77 port 57980 ssh2
+Jul 12 08:47:08 db01 sshd[12620]: Accepted publickey for john from 192.168.10.59 port 59680 ssh2: RSA SHA256:examplekey
+Jul 12 08:47:15 web02 sshd[12621]: Accepted password for devops from 192.168.10.55 port 53879 ssh2
+Jul 12 08:47:23 web02 sshd[12622]: Accepted password for devops from 192.168.10.41 port 55570 ssh2
+Jul 12 08:47:28 web01 sshd[12623]: Accepted password for ubuntu from 192.168.10.72 port 46298 ssh2
+Jul 12 08:47:29 web02 sshd[12624]: Accepted publickey for bob from 192.168.10.44 port 59422 ssh2: RSA SHA256:examplekey
+Jul 12 08:47:32 db01 sshd[12625]: Accepted password for ec2-user from 192.168.10.73 port 58511 ssh2
+Jul 12 08:47:33 web02 sshd[12626]: Accepted publickey for john from 192.168.10.16 port 43010 ssh2: RSA SHA256:examplekey
+Jul 12 08:47:36 web02 sshd[12627]: Accepted publickey for alice from 192.168.10.37 port 52829 ssh2: RSA SHA256:examplekey
+Jul 12 08:47:39 web01 sshd[12628]: Accepted publickey for backup from 192.168.10.47 port 61355 ssh2: RSA SHA256:examplekey
+Jul 12 08:47:43 web01 sshd[12629]: Accepted password for alice from 192.168.10.20 port 39153 ssh2
+Jul 12 08:47:47 app01 sshd[12630]: Accepted password for ubuntu from 192.168.10.51 port 55990 ssh2
+Jul 12 08:47:50 db01 sshd[12631]: Accepted publickey for ubuntu from 192.168.10.47 port 59522 ssh2: RSA SHA256:examplekey
+Jul 12 08:47:57 web01 sshd[12632]: Accepted publickey for bob from 192.168.10.33 port 48251 ssh2: RSA SHA256:examplekey
+Jul 12 08:47:58 db01 sshd[12633]: Failed password for john from 192.168.10.74 port 54366 ssh2
+Jul 12 08:48:06 db01 sshd[12634]: Accepted publickey for bob from 192.168.10.69 port 55657 ssh2: RSA SHA256:examplekey
+Jul 12 08:48:11 web01 sshd[12635]: Accepted publickey for ec2-user from 192.168.10.35 port 60325 ssh2: RSA SHA256:examplekey
+Jul 12 08:48:12 db01 sshd[12636]: Accepted publickey for ubuntu from 192.168.10.12 port 42327 ssh2: RSA SHA256:examplekey
+Jul 12 08:48:18 web01 sshd[12637]: Accepted password for ec2-user from 192.168.10.49 port 42751 ssh2
+Jul 12 08:48:26 db01 sshd[12638]: Accepted publickey for john from 192.168.10.44 port 47118 ssh2: RSA SHA256:examplekey
+Jul 12 08:48:32 web02 sshd[12639]: Accepted publickey for john from 192.168.10.58 port 52072 ssh2: RSA SHA256:examplekey
+Jul 12 08:48:33 web01 sshd[12640]: Accepted password for ubuntu from 192.168.10.13 port 47789 ssh2
+Jul 12 08:48:41 app01 sshd[12641]: Accepted password for john from 192.168.10.64 port 42023 ssh2
+Jul 12 08:48:45 app01 sshd[12642]: Failed password for ubuntu from 192.168.10.28 port 51053 ssh2
+Jul 12 08:48:46 web02 sshd[12643]: Accepted password for ubuntu from 192.168.10.37 port 53473 ssh2
+Jul 12 08:48:49 app01 sshd[12644]: Failed password for bob from 192.168.10.47 port 54167 ssh2
+Jul 12 08:48:56 web01 sshd[12645]: Accepted password for backup from 192.168.10.55 port 40069 ssh2
+Jul 12 08:49:01 app01 sshd[12646]: Accepted publickey for devops from 192.168.10.28 port 51204 ssh2: RSA SHA256:examplekey
+Jul 12 08:49:03 web02 sshd[12647]: Accepted publickey for backup from 192.168.10.78 port 44319 ssh2: RSA SHA256:examplekey
+Jul 12 08:49:11 web01 sshd[12648]: Accepted password for alice from 192.168.10.68 port 51472 ssh2
+Jul 12 08:49:16 app01 sshd[12649]: Failed password for ubuntu from 192.168.10.69 port 41929 ssh2
+Jul 12 08:49:22 app01 sshd[12650]: Accepted password for bob from 192.168.10.29 port 48900 ssh2
+Jul 12 08:49:23 db01 sshd[12651]: Accepted publickey for ubuntu from 192.168.10.17 port 59301 ssh2: RSA SHA256:examplekey
+Jul 12 08:49:25 web02 sshd[12652]: Accepted password for bob from 192.168.10.40 port 42304 ssh2
+Jul 12 08:49:31 db01 sshd[12653]: Accepted password for ec2-user from 192.168.10.70 port 64309 ssh2
+Jul 12 08:49:32 web02 sshd[12654]: Accepted publickey for alice from 192.168.10.47 port 64176 ssh2: RSA SHA256:examplekey
+Jul 12 08:49:34 web02 sshd[12655]: Accepted publickey for bob from 192.168.10.26 port 49248 ssh2: RSA SHA256:examplekey
+Jul 12 08:49:40 app01 sshd[12656]: Accepted publickey for ubuntu from 192.168.10.67 port 40103 ssh2: RSA SHA256:examplekey
+Jul 12 08:49:42 web01 sshd[12657]: Accepted publickey for backup from 192.168.10.23 port 57028 ssh2: RSA SHA256:examplekey
+Jul 12 08:49:49 db01 sshd[12658]: Accepted password for ubuntu from 192.168.10.45 port 37251 ssh2
+Jul 12 08:49:52 web02 sshd[12659]: Accepted publickey for ubuntu from 192.168.10.67 port 40153 ssh2: RSA SHA256:examplekey
+Jul 12 08:49:57 web02 sshd[12660]: Accepted password for bob from 192.168.10.27 port 43542 ssh2
+Jul 12 08:50:03 db01 sshd[12661]: Accepted password for backup from 192.168.10.42 port 59684 ssh2
+Jul 12 08:50:10 web01 sshd[12662]: Failed password for ubuntu from 192.168.10.64 port 47223 ssh2
+Jul 12 08:50:17 app01 sshd[12663]: Accepted password for backup from 192.168.10.57 port 56757 ssh2
+Jul 12 08:50:24 db01 sshd[12664]: Accepted password for ubuntu from 192.168.10.43 port 60820 ssh2
+Jul 12 08:50:29 db01 sshd[12665]: Accepted password for bob from 192.168.10.13 port 31208 ssh2
+Jul 12 08:50:33 db01 sshd[12666]: Accepted password for john from 192.168.10.70 port 44129 ssh2
+Jul 12 08:50:38 db01 sshd[12667]: Accepted publickey for alice from 192.168.10.58 port 60645 ssh2: RSA SHA256:examplekey
+Jul 12 08:50:46 web02 sshd[12668]: Accepted publickey for ubuntu from 192.168.10.71 port 59835 ssh2: RSA SHA256:examplekey
+Jul 12 08:50:50 web02 sshd[12669]: Accepted password for backup from 192.168.10.37 port 32965 ssh2
+Jul 12 08:50:58 app01 sshd[12670]: Accepted publickey for john from 192.168.10.54 port 43703 ssh2: RSA SHA256:examplekey
+Jul 12 08:51:04 web01 sshd[12671]: Accepted publickey for bob from 192.168.10.70 port 56422 ssh2: RSA SHA256:examplekey
+Jul 12 08:51:06 web01 sshd[12672]: Accepted publickey for backup from 192.168.10.54 port 31981 ssh2: RSA SHA256:examplekey
+Jul 12 08:51:09 web01 sshd[12673]: Accepted password for devops from 192.168.10.41 port 64659 ssh2
+Jul 12 08:51:10 web02 sshd[12674]: Accepted publickey for ec2-user from 192.168.10.46 port 40930 ssh2: RSA SHA256:examplekey
+Jul 12 08:51:11 app01 sshd[12675]: Accepted publickey for devops from 192.168.10.31 port 60248 ssh2: RSA SHA256:examplekey
+Jul 12 08:51:19 app01 sshd[12676]: Accepted password for bob from 192.168.10.36 port 32762 ssh2
+Jul 12 08:51:23 app01 sshd[12677]: Accepted publickey for ubuntu from 192.168.10.14 port 41711 ssh2: RSA SHA256:examplekey
+Jul 12 08:51:24 web01 sshd[12678]: Accepted publickey for backup from 192.168.10.16 port 58520 ssh2: RSA SHA256:examplekey
+Jul 12 08:51:31 web01 sshd[12679]: Accepted password for ec2-user from 192.168.10.77 port 45711 ssh2
+Jul 12 08:51:34 web01 sshd[12680]: Accepted password for backup from 192.168.10.24 port 45825 ssh2
+Jul 12 08:51:36 web01 sshd[12681]: Accepted password for john from 192.168.10.65 port 34822 ssh2
+Jul 12 08:51:42 web02 sshd[12682]: Accepted password for john from 192.168.10.48 port 49959 ssh2
+Jul 12 08:51:48 web02 sshd[12683]: Accepted publickey for john from 192.168.10.48 port 59793 ssh2: RSA SHA256:examplekey
+Jul 12 08:51:54 app01 sshd[12684]: Accepted password for john from 192.168.10.51 port 36241 ssh2
+Jul 12 08:52:01 app01 sshd[12685]: Accepted password for ubuntu from 192.168.10.71 port 45513 ssh2
+Jul 12 08:52:03 db01 sshd[12686]: Accepted password for backup from 192.168.10.29 port 59973 ssh2
+Jul 12 08:52:07 db01 sshd[12687]: Accepted password for ubuntu from 192.168.10.54 port 42623 ssh2
+Jul 12 08:52:15 app01 sshd[12688]: Accepted password for ec2-user from 192.168.10.22 port 48762 ssh2
+Jul 12 08:52:22 web01 sshd[12689]: Accepted publickey for ec2-user from 192.168.10.24 port 41923 ssh2: RSA SHA256:examplekey
+Jul 12 08:52:28 db01 sshd[12690]: Failed password for bob from 192.168.10.53 port 42036 ssh2
+Jul 12 08:52:34 db01 sshd[12691]: Accepted publickey for ubuntu from 192.168.10.78 port 37922 ssh2: RSA SHA256:examplekey
+Jul 12 08:52:35 web01 sshd[12692]: Accepted password for devops from 192.168.10.70 port 47116 ssh2
+Jul 12 08:52:39 db01 sshd[12693]: Accepted password for john from 192.168.10.73 port 61282 ssh2
+Jul 12 08:52:46 web01 sshd[12694]: Accepted password for alice from 192.168.10.15 port 56360 ssh2
+Jul 12 08:52:53 web02 sshd[12695]: Accepted publickey for ec2-user from 192.168.10.37 port 38299 ssh2: RSA SHA256:examplekey
+Jul 12 08:52:59 app01 sshd[12696]: Accepted password for john from 192.168.10.33 port 44836 ssh2
+Jul 12 08:53:03 web02 sshd[12697]: Accepted password for backup from 192.168.10.73 port 33849 ssh2
+Jul 12 08:53:06 db01 sshd[12698]: Accepted publickey for bob from 192.168.10.48 port 46126 ssh2: RSA SHA256:examplekey
+Jul 12 08:53:10 db01 sshd[12699]: Failed password for ubuntu from 192.168.10.48 port 35951 ssh2
+Jul 12 08:53:12 app01 sshd[12700]: Accepted publickey for ec2-user from 192.168.10.64 port 60935 ssh2: RSA SHA256:examplekey
+Jul 12 08:53:13 db01 sshd[12701]: Accepted publickey for john from 192.168.10.21 port 31170 ssh2: RSA SHA256:examplekey
+Jul 12 08:53:16 app01 sshd[12702]: Failed password for john from 192.168.10.10 port 36035 ssh2
+Jul 12 08:53:17 db01 sshd[12703]: Accepted publickey for bob from 192.168.10.32 port 32076 ssh2: RSA SHA256:examplekey
+Jul 12 08:53:24 app01 sshd[12704]: Accepted publickey for backup from 192.168.10.79 port 30779 ssh2: RSA SHA256:examplekey
+Jul 12 08:53:26 web02 sshd[12705]: Accepted password for alice from 192.168.10.28 port 60687 ssh2
+Jul 12 08:53:33 web01 sshd[12706]: Accepted publickey for john from 192.168.10.34 port 46565 ssh2: RSA SHA256:examplekey
+Jul 12 08:53:36 web01 sshd[12707]: Accepted publickey for backup from 192.168.10.67 port 57344 ssh2: RSA SHA256:examplekey
+Jul 12 08:53:38 db01 sshd[12708]: Accepted password for ubuntu from 192.168.10.42 port 53980 ssh2
+Jul 12 08:53:44 web02 sshd[12709]: Accepted publickey for john from 192.168.10.10 port 63351 ssh2: RSA SHA256:examplekey
+Jul 12 08:53:47 web01 sshd[12710]: Accepted password for devops from 192.168.10.70 port 37752 ssh2
+Jul 12 08:53:51 db01 sshd[12711]: Accepted publickey for alice from 192.168.10.31 port 48801 ssh2: RSA SHA256:examplekey
+Jul 12 08:53:57 db01 sshd[12712]: Failed password for bob from 192.168.10.48 port 53191 ssh2
+Jul 12 08:54:04 web02 sshd[12713]: Accepted password for john from 192.168.10.20 port 50795 ssh2
+Jul 12 08:54:09 app01 sshd[12714]: Accepted publickey for ubuntu from 192.168.10.64 port 33699 ssh2: RSA SHA256:examplekey
+Jul 12 08:54:17 web02 sshd[12715]: Accepted publickey for john from 192.168.10.49 port 54247 ssh2: RSA SHA256:examplekey
+Jul 12 08:54:24 web01 sshd[12716]: Accepted publickey for devops from 192.168.10.58 port 45491 ssh2: RSA SHA256:examplekey
+Jul 12 08:54:27 web01 sshd[12717]: Accepted password for backup from 192.168.10.62 port 38999 ssh2
+Jul 12 08:54:32 web02 sshd[12718]: Accepted password for john from 192.168.10.13 port 64553 ssh2
+Jul 12 08:54:35 web02 sshd[12719]: Accepted password for backup from 192.168.10.50 port 43894 ssh2
+Jul 12 08:54:40 web02 sshd[12720]: Accepted password for backup from 192.168.10.33 port 45970 ssh2
+Jul 12 08:54:42 web02 sshd[12721]: Accepted password for backup from 192.168.10.51 port 40903 ssh2
+Jul 12 08:54:45 web02 sshd[12722]: Accepted publickey for ubuntu from 192.168.10.10 port 49560 ssh2: RSA SHA256:examplekey
+Jul 12 08:54:51 web01 sshd[12723]: Accepted publickey for ec2-user from 192.168.10.61 port 51689 ssh2: RSA SHA256:examplekey
+Jul 12 08:54:57 web01 sshd[12724]: Accepted password for ubuntu from 192.168.10.72 port 52959 ssh2
+Jul 12 08:55:04 web01 sshd[12725]: Accepted password for alice from 192.168.10.24 port 56943 ssh2
+Jul 12 08:55:06 web01 sshd[12726]: Accepted password for john from 192.168.10.64 port 45414 ssh2
+Jul 12 08:55:07 web02 sshd[12727]: Accepted publickey for john from 192.168.10.13 port 33510 ssh2: RSA SHA256:examplekey
+Jul 12 08:55:10 web01 sshd[12728]: Failed password for john from 192.168.10.45 port 47848 ssh2
+Jul 12 08:55:17 app01 sshd[12729]: Accepted publickey for bob from 192.168.10.23 port 58444 ssh2: RSA SHA256:examplekey
+Jul 12 08:55:24 web01 sshd[12730]: Accepted password for ubuntu from 192.168.10.36 port 30854 ssh2
+Jul 12 08:55:28 web01 sshd[12731]: Accepted publickey for ubuntu from 192.168.10.29 port 32379 ssh2: RSA SHA256:examplekey
+Jul 12 08:55:34 db01 sshd[12732]: Accepted publickey for ubuntu from 192.168.10.55 port 36884 ssh2: RSA SHA256:examplekey
+Jul 12 08:55:38 web02 sshd[12733]: Accepted publickey for ec2-user from 192.168.10.53 port 64791 ssh2: RSA SHA256:examplekey
+Jul 12 08:55:42 db01 sshd[12734]: Accepted publickey for ec2-user from 192.168.10.65 port 41528 ssh2: RSA SHA256:examplekey
+Jul 12 08:55:46 web02 sshd[12735]: Failed password for john from 192.168.10.74 port 60045 ssh2
+Jul 12 08:55:53 db01 sshd[12736]: Failed password for ec2-user from 192.168.10.42 port 51615 ssh2
+Jul 12 08:56:01 web01 sshd[12737]: Failed password for backup from 192.168.10.12 port 55950 ssh2
+Jul 12 08:56:08 db01 sshd[12738]: Accepted publickey for backup from 192.168.10.33 port 46504 ssh2: RSA SHA256:examplekey
+Jul 12 08:56:14 db01 sshd[12739]: Accepted password for john from 192.168.10.49 port 44323 ssh2
+Jul 12 08:56:17 web01 sshd[12740]: Accepted publickey for john from 192.168.10.76 port 32038 ssh2: RSA SHA256:examplekey
+Jul 12 08:56:21 db01 sshd[12741]: Accepted password for devops from 192.168.10.37 port 40221 ssh2
+Jul 12 08:56:26 web02 sshd[12742]: Failed password for devops from 192.168.10.37 port 35178 ssh2
+Jul 12 08:56:31 web02 sshd[12743]: Accepted password for bob from 192.168.10.79 port 38239 ssh2
+Jul 12 08:56:32 web02 sshd[12744]: Accepted password for john from 192.168.10.74 port 46700 ssh2
+Jul 12 08:56:38 web01 sshd[12745]: Accepted publickey for john from 192.168.10.64 port 55997 ssh2: RSA SHA256:examplekey
+Jul 12 08:56:42 app01 sshd[12746]: Accepted password for backup from 192.168.10.67 port 51814 ssh2
+Jul 12 08:56:44 app01 sshd[12747]: Accepted publickey for alice from 192.168.10.23 port 50828 ssh2: RSA SHA256:examplekey
+Jul 12 08:56:52 web02 sshd[12748]: Accepted publickey for alice from 192.168.10.41 port 44804 ssh2: RSA SHA256:examplekey
+Jul 12 08:56:56 db01 sshd[12749]: Accepted password for ubuntu from 192.168.10.78 port 38494 ssh2
+Jul 12 08:57:02 web02 sshd[12750]: Accepted publickey for ubuntu from 192.168.10.46 port 31792 ssh2: RSA SHA256:examplekey
+Jul 12 08:57:07 web02 sshd[12751]: Failed password for alice from 192.168.10.51 port 51553 ssh2
+Jul 12 08:57:08 web02 sshd[12752]: Accepted password for alice from 192.168.10.65 port 42003 ssh2
+Jul 12 08:57:14 db01 sshd[12753]: Accepted publickey for devops from 192.168.10.44 port 60872 ssh2: RSA SHA256:examplekey
+Jul 12 08:57:20 web01 sshd[12754]: Accepted publickey for backup from 192.168.10.39 port 43670 ssh2: RSA SHA256:examplekey
+Jul 12 08:57:21 db01 sshd[12755]: Accepted publickey for devops from 192.168.10.67 port 49443 ssh2: RSA SHA256:examplekey
+Jul 12 08:57:22 web01 sshd[12756]: Failed password for john from 192.168.10.38 port 44900 ssh2
+Jul 12 08:57:27 web01 sshd[12757]: Accepted publickey for john from 192.168.10.59 port 40249 ssh2: RSA SHA256:examplekey
+Jul 12 08:57:33 db01 sshd[12758]: Failed password for john from 192.168.10.74 port 61996 ssh2
+Jul 12 08:57:36 app01 sshd[12759]: Accepted password for devops from 192.168.10.54 port 31331 ssh2
+Jul 12 08:57:37 db01 sshd[12760]: Accepted password for bob from 192.168.10.27 port 40686 ssh2
+Jul 12 08:57:41 app01 sshd[12761]: Accepted password for john from 192.168.10.33 port 54728 ssh2
+Jul 12 08:57:42 db01 sshd[12762]: Accepted publickey for alice from 192.168.10.42 port 45213 ssh2: RSA SHA256:examplekey
+Jul 12 08:57:48 web01 sshd[12763]: Failed password for backup from 192.168.10.45 port 31456 ssh2
+Jul 12 08:57:55 db01 sshd[12764]: Failed password for ec2-user from 192.168.10.79 port 33117 ssh2
+Jul 12 08:57:56 web01 sshd[12765]: Accepted password for bob from 192.168.10.79 port 51663 ssh2
+Jul 12 08:57:58 web01 sshd[12766]: Accepted publickey for ubuntu from 192.168.10.14 port 34051 ssh2: RSA SHA256:examplekey
+Jul 12 08:58:04 db01 sshd[12767]: Accepted password for john from 192.168.10.79 port 51173 ssh2
+Jul 12 08:58:09 app01 sshd[12768]: Accepted password for john from 192.168.10.15 port 38913 ssh2
+Jul 12 08:58:16 db01 sshd[12769]: Accepted publickey for backup from 192.168.10.50 port 32649 ssh2: RSA SHA256:examplekey
+Jul 12 08:58:22 web01 sshd[12770]: Accepted publickey for bob from 192.168.10.14 port 59995 ssh2: RSA SHA256:examplekey
+Jul 12 08:58:25 web01 sshd[12771]: Accepted publickey for bob from 192.168.10.79 port 57299 ssh2: RSA SHA256:examplekey
+Jul 12 08:58:33 db01 sshd[12772]: Accepted publickey for ubuntu from 192.168.10.39 port 58974 ssh2: RSA SHA256:examplekey
+Jul 12 08:58:37 app01 sshd[12773]: Accepted password for ubuntu from 192.168.10.44 port 40217 ssh2
+Jul 12 08:58:41 db01 sshd[12774]: Accepted password for devops from 192.168.10.16 port 48213 ssh2
+Jul 12 08:58:44 db01 sshd[12775]: Accepted publickey for john from 192.168.10.40 port 62175 ssh2: RSA SHA256:examplekey
+Jul 12 08:58:45 db01 sshd[12776]: Accepted publickey for devops from 192.168.10.72 port 55263 ssh2: RSA SHA256:examplekey
+Jul 12 08:58:53 web02 sshd[12777]: Accepted publickey for bob from 192.168.10.59 port 55263 ssh2: RSA SHA256:examplekey
+Jul 12 08:59:00 web01 sshd[12778]: Accepted publickey for bob from 192.168.10.57 port 56209 ssh2: RSA SHA256:examplekey
+Jul 12 08:59:04 web01 sshd[12779]: Accepted password for bob from 192.168.10.23 port 61748 ssh2
+Jul 12 08:59:07 db01 sshd[12780]: Accepted password for devops from 192.168.10.64 port 51437 ssh2
+Jul 12 08:59:15 app01 sshd[12781]: Accepted password for backup from 192.168.10.48 port 36055 ssh2
+Jul 12 08:59:21 app01 sshd[12782]: Accepted password for backup from 192.168.10.55 port 58779 ssh2
+Jul 12 08:59:25 web02 sshd[12783]: Failed password for ec2-user from 192.168.10.69 port 52511 ssh2
+Jul 12 08:59:32 web02 sshd[12784]: Accepted password for backup from 192.168.10.24 port 35077 ssh2
+Jul 12 08:59:34 db01 sshd[12785]: Accepted publickey for john from 192.168.10.22 port 34614 ssh2: RSA SHA256:examplekey
+Jul 12 08:59:42 web02 sshd[12786]: Failed password for john from 192.168.10.55 port 42641 ssh2
+Jul 12 08:59:44 web02 sshd[12787]: Failed password for bob from 192.168.10.72 port 41393 ssh2
+Jul 12 08:59:46 db01 sshd[12788]: Accepted password for ec2-user from 192.168.10.69 port 60202 ssh2
+Jul 12 08:59:50 web01 sshd[12789]: Failed password for ec2-user from 192.168.10.19 port 60375 ssh2
+Jul 12 08:59:53 web02 sshd[12790]: Failed password for ubuntu from 192.168.10.79 port 52450 ssh2
+Jul 12 08:59:58 app01 sshd[12791]: Accepted publickey for alice from 192.168.10.49 port 55946 ssh2: RSA SHA256:examplekey
+Jul 12 09:00:01 web01 sshd[12792]: Accepted password for bob from 192.168.10.34 port 53232 ssh2
+Jul 12 09:00:06 web01 sshd[12793]: Accepted password for backup from 192.168.10.75 port 63362 ssh2
+Jul 12 09:00:07 web02 sshd[12794]: Failed password for ec2-user from 192.168.10.27 port 62742 ssh2
+Jul 12 09:00:15 web01 sshd[12795]: Accepted publickey for ubuntu from 192.168.10.13 port 31214 ssh2: RSA SHA256:examplekey
+Jul 12 09:00:18 web01 sshd[12796]: Failed password for bob from 192.168.10.29 port 40658 ssh2
+Jul 12 09:00:20 db01 sshd[12797]: Failed password for alice from 192.168.10.29 port 32461 ssh2
+Jul 12 09:00:26 app01 sshd[12798]: Accepted password for john from 192.168.10.42 port 33727 ssh2
+Jul 12 09:00:34 app01 sshd[12799]: Accepted publickey for alice from 192.168.10.68 port 64455 ssh2: RSA SHA256:examplekey
+Jul 12 09:00:42 web02 sshd[12800]: Accepted password for backup from 192.168.10.37 port 48377 ssh2
+Jul 12 09:00:44 web01 sshd[12801]: Accepted publickey for ec2-user from 192.168.10.35 port 62528 ssh2: RSA SHA256:examplekey
+Jul 12 09:00:52 db01 sshd[12802]: Accepted publickey for ubuntu from 192.168.10.77 port 64697 ssh2: RSA SHA256:examplekey
+Jul 12 09:00:59 web01 sshd[12803]: Accepted publickey for bob from 192.168.10.18 port 36260 ssh2: RSA SHA256:examplekey
+Jul 12 09:01:04 web01 sshd[12804]: Accepted publickey for backup from 192.168.10.32 port 32876 ssh2: RSA SHA256:examplekey
+Jul 12 09:01:07 app01 sshd[12805]: Accepted password for bob from 192.168.10.23 port 47148 ssh2
+Jul 12 09:01:11 web01 sshd[12806]: Accepted publickey for alice from 192.168.10.22 port 37397 ssh2: RSA SHA256:examplekey
+Jul 12 09:01:14 web01 sshd[12807]: Accepted publickey for john from 192.168.10.13 port 43548 ssh2: RSA SHA256:examplekey
+Jul 12 09:01:20 app01 sshd[12808]: Accepted publickey for bob from 192.168.10.57 port 52484 ssh2: RSA SHA256:examplekey
+Jul 12 09:01:21 app01 sshd[12809]: Accepted publickey for alice from 192.168.10.55 port 45449 ssh2: RSA SHA256:examplekey
+Jul 12 09:01:24 web02 sshd[12810]: Accepted password for bob from 192.168.10.13 port 37987 ssh2
+Jul 12 09:01:28 web02 sshd[12811]: Accepted password for devops from 192.168.10.54 port 63296 ssh2
+Jul 12 09:01:29 web01 sshd[12812]: Accepted password for backup from 192.168.10.58 port 36373 ssh2
+Jul 12 09:01:34 web02 sshd[12813]: Accepted password for ubuntu from 192.168.10.36 port 60934 ssh2
+Jul 12 09:01:41 web01 sshd[12814]: Accepted password for bob from 192.168.10.22 port 57951 ssh2
+Jul 12 09:01:42 web02 sshd[12815]: Failed password for ubuntu from 192.168.10.61 port 46625 ssh2
+Jul 12 09:01:48 web02 sshd[12816]: Accepted publickey for alice from 192.168.10.21 port 34902 ssh2: RSA SHA256:examplekey
+Jul 12 09:01:52 web02 sshd[12817]: Accepted password for john from 192.168.10.22 port 38750 ssh2
+Jul 12 09:01:59 web01 sshd[12818]: Accepted password for ubuntu from 192.168.10.52 port 52826 ssh2
+Jul 12 09:02:00 app01 sshd[12819]: Accepted password for bob from 192.168.10.74 port 64798 ssh2
+Jul 12 09:02:01 app01 sshd[12820]: Accepted publickey for ubuntu from 192.168.10.27 port 39220 ssh2: RSA SHA256:examplekey
+Jul 12 09:02:08 db01 sshd[12821]: Accepted password for alice from 192.168.10.58 port 40924 ssh2
+Jul 12 09:02:10 app01 sshd[12822]: Accepted password for devops from 192.168.10.23 port 48178 ssh2
+Jul 12 09:02:14 app01 sshd[12823]: Accepted password for john from 192.168.10.17 port 30581 ssh2
+Jul 12 09:02:18 app01 sshd[12824]: Accepted publickey for bob from 192.168.10.66 port 60501 ssh2: RSA SHA256:examplekey
+Jul 12 09:02:24 web01 sshd[12825]: Accepted password for bob from 192.168.10.59 port 30752 ssh2
+Jul 12 09:02:29 app01 sshd[12826]: Accepted password for bob from 192.168.10.43 port 40461 ssh2
+Jul 12 09:02:36 web01 sshd[12827]: Failed password for john from 192.168.10.45 port 31828 ssh2
+Jul 12 09:02:43 web02 sshd[12828]: Accepted publickey for devops from 192.168.10.43 port 52529 ssh2: RSA SHA256:examplekey
+Jul 12 09:02:49 db01 sshd[12829]: Accepted publickey for alice from 192.168.10.62 port 53188 ssh2: RSA SHA256:examplekey
+Jul 12 09:02:54 db01 sshd[12830]: Accepted password for devops from 192.168.10.28 port 47486 ssh2
+Jul 12 09:02:55 app01 sshd[12831]: Accepted password for bob from 192.168.10.48 port 37378 ssh2
+Jul 12 09:02:59 app01 sshd[12832]: Accepted publickey for bob from 192.168.10.51 port 53151 ssh2: RSA SHA256:examplekey
+Jul 12 09:03:02 app01 sshd[12833]: Accepted password for bob from 192.168.10.47 port 50931 ssh2
+Jul 12 09:03:09 web02 sshd[12834]: Accepted publickey for alice from 192.168.10.38 port 56460 ssh2: RSA SHA256:examplekey
+Jul 12 09:03:14 web01 sshd[12835]: Accepted publickey for alice from 192.168.10.45 port 60176 ssh2: RSA SHA256:examplekey
+Jul 12 09:03:17 web01 sshd[12836]: Accepted publickey for backup from 192.168.10.49 port 59022 ssh2: RSA SHA256:examplekey
+Jul 12 09:03:23 db01 sshd[12837]: Accepted password for devops from 192.168.10.64 port 47132 ssh2
+Jul 12 09:03:31 db01 sshd[12838]: Accepted publickey for ubuntu from 192.168.10.16 port 32152 ssh2: RSA SHA256:examplekey
+Jul 12 09:03:37 db01 sshd[12839]: Failed password for devops from 192.168.10.27 port 52452 ssh2
+Jul 12 09:03:40 db01 sshd[12840]: Accepted publickey for devops from 192.168.10.36 port 47016 ssh2: RSA SHA256:examplekey
+Jul 12 09:03:44 db01 sshd[12841]: Accepted publickey for ec2-user from 192.168.10.71 port 62900 ssh2: RSA SHA256:examplekey
+Jul 12 09:03:46 web01 sshd[12842]: Accepted publickey for john from 192.168.10.59 port 63949 ssh2: RSA SHA256:examplekey
+Jul 12 09:03:52 web02 sshd[12843]: Accepted password for alice from 192.168.10.73 port 55720 ssh2
+Jul 12 09:04:00 web02 sshd[12844]: Accepted password for devops from 192.168.10.31 port 58582 ssh2
+Jul 12 09:04:03 web02 sshd[12845]: Accepted password for devops from 192.168.10.57 port 37432 ssh2
+Jul 12 09:04:08 db01 sshd[12846]: Accepted publickey for ec2-user from 192.168.10.38 port 52258 ssh2: RSA SHA256:examplekey
+Jul 12 09:04:16 web02 sshd[12847]: Accepted password for backup from 192.168.10.70 port 50248 ssh2
+Jul 12 09:04:20 web01 sshd[12848]: Accepted publickey for bob from 192.168.10.26 port 45144 ssh2: RSA SHA256:examplekey
+Jul 12 09:04:25 web01 sshd[12849]: Failed password for bob from 192.168.10.78 port 39405 ssh2
+Jul 12 09:04:33 web01 sshd[12850]: Accepted publickey for devops from 192.168.10.33 port 58407 ssh2: RSA SHA256:examplekey
+Jul 12 09:04:34 web01 sshd[12851]: Failed password for invalid user guest from 185.220.101.15 port 40000 ssh2
+Jul 12 09:04:35 web01 sshd[12852]: Failed password for invalid user guest from 185.220.101.15 port 40002 ssh2
+Jul 12 09:04:36 web01 sshd[12853]: Failed password for invalid user ftp from 185.220.101.15 port 40004 ssh2
+Jul 12 09:04:37 web01 sshd[12854]: Failed password for invalid user test from 185.220.101.15 port 40006 ssh2
+Jul 12 09:04:38 web01 sshd[12855]: Failed password for invalid user test from 185.220.101.15 port 40008 ssh2
+Jul 12 09:04:39 web01 sshd[12856]: Failed password for invalid user git from 185.220.101.15 port 40010 ssh2
+Jul 12 09:04:40 web01 sshd[12857]: Failed password for invalid user mysql from 185.220.101.15 port 40012 ssh2
+Jul 12 09:04:41 web01 sshd[12858]: Failed password for invalid user ftp from 185.220.101.15 port 40014 ssh2
+Jul 12 09:04:42 web01 sshd[12859]: Failed password for invalid user test from 185.220.101.15 port 40016 ssh2
+Jul 12 09:04:43 web01 sshd[12860]: Failed password for invalid user postgres from 185.220.101.15 port 40018 ssh2
+Jul 12 09:04:44 web01 sshd[12861]: Failed password for invalid user support from 185.220.101.15 port 40020 ssh2
+Jul 12 09:04:45 web01 sshd[12862]: Failed password for invalid user test from 185.220.101.15 port 40022 ssh2
+Jul 12 09:04:46 web01 sshd[12863]: Failed password for invalid user oracle from 185.220.101.15 port 40024 ssh2
+Jul 12 09:04:47 web01 sshd[12864]: Failed password for invalid user oracle from 185.220.101.15 port 40026 ssh2
+Jul 12 09:04:48 web01 sshd[12865]: Failed password for invalid user admin from 185.220.101.15 port 40028 ssh2
+Jul 12 09:04:49 web01 sshd[12866]: Failed password for invalid user support from 185.220.101.15 port 40030 ssh2
+Jul 12 09:04:50 web01 sshd[12867]: Failed password for invalid user ftp from 185.220.101.15 port 40032 ssh2
+Jul 12 09:04:51 web01 sshd[12868]: Failed password for invalid user git from 185.220.101.15 port 40034 ssh2
+Jul 12 09:04:52 web01 sshd[12869]: Failed password for invalid user oracle from 185.220.101.15 port 40036 ssh2
+Jul 12 09:04:53 web01 sshd[12870]: Failed password for invalid user postgres from 185.220.101.15 port 40038 ssh2
+Jul 12 09:04:54 web01 sshd[12871]: Failed password for invalid user admin from 185.220.101.15 port 40040 ssh2
+Jul 12 09:04:55 web01 sshd[12872]: Failed password for invalid user oracle from 185.220.101.15 port 40042 ssh2
+Jul 12 09:04:56 web01 sshd[12873]: Failed password for invalid user support from 185.220.101.15 port 40044 ssh2
+Jul 12 09:04:57 web01 sshd[12874]: Failed password for invalid user git from 185.220.101.15 port 40046 ssh2
+Jul 12 09:04:58 web01 sshd[12875]: Failed password for invalid user postgres from 185.220.101.15 port 40048 ssh2
+Jul 12 09:04:59 web01 sshd[12876]: Failed password for invalid user admin from 185.220.101.15 port 40050 ssh2
+Jul 12 09:05:00 web01 sshd[12877]: Failed password for invalid user support from 185.220.101.15 port 40052 ssh2
+Jul 12 09:05:01 web01 sshd[12878]: Failed password for invalid user mysql from 185.220.101.15 port 40054 ssh2
+Jul 12 09:05:02 web01 sshd[12879]: Failed password for invalid user support from 185.220.101.15 port 40056 ssh2
+Jul 12 09:05:03 web01 sshd[12880]: Failed password for invalid user postgres from 185.220.101.15 port 40058 ssh2
+Jul 12 09:05:04 web01 sshd[12881]: Failed password for invalid user guest from 185.220.101.15 port 40060 ssh2
+Jul 12 09:05:05 web01 sshd[12882]: Failed password for invalid user guest from 185.220.101.15 port 40062 ssh2
+Jul 12 09:05:06 web01 sshd[12883]: Failed password for invalid user oracle from 185.220.101.15 port 40064 ssh2
+Jul 12 09:05:07 web01 sshd[12884]: Failed password for invalid user test from 185.220.101.15 port 40066 ssh2
+Jul 12 09:05:08 web01 sshd[12885]: Failed password for invalid user support from 185.220.101.15 port 40068 ssh2
+Jul 12 09:05:09 web01 sshd[12886]: Failed password for invalid user oracle from 185.220.101.15 port 40070 ssh2
+Jul 12 09:05:10 web01 sshd[12887]: Failed password for invalid user mysql from 185.220.101.15 port 40072 ssh2
+Jul 12 09:05:11 web01 sshd[12888]: Failed password for invalid user postgres from 185.220.101.15 port 40074 ssh2
+Jul 12 09:05:12 web01 sshd[12889]: Failed password for invalid user test from 185.220.101.15 port 40076 ssh2
+Jul 12 09:05:13 web01 sshd[12890]: Failed password for invalid user git from 185.220.101.15 port 40078 ssh2
+Jul 12 09:05:14 web01 sshd[12891]: Failed password for root from 185.220.101.15 port 40080 ssh2
+Jul 12 09:05:15 web01 sshd[12892]: Failed password for root from 185.220.101.15 port 40082 ssh2
+Jul 12 09:05:16 web01 sshd[12893]: Failed password for root from 185.220.101.15 port 40084 ssh2
+Jul 12 09:05:17 web01 sshd[12894]: Failed password for root from 185.220.101.15 port 40086 ssh2
+Jul 12 09:05:18 web01 sshd[12895]: Failed password for root from 185.220.101.15 port 40088 ssh2
+Jul 12 09:05:19 web01 sshd[12896]: Failed password for root from 185.220.101.15 port 40090 ssh2
+Jul 12 09:05:20 web01 sshd[12897]: Failed password for root from 185.220.101.15 port 40092 ssh2
+Jul 12 09:05:21 web01 sshd[12898]: Failed password for root from 185.220.101.15 port 40094 ssh2
+Jul 12 09:05:22 web01 sshd[12899]: Failed password for root from 185.220.101.15 port 40096 ssh2
+Jul 12 09:05:23 web01 sshd[12900]: Failed password for root from 185.220.101.15 port 40098 ssh2
+Jul 12 09:05:24 web01 sshd[12901]: Failed password for root from 185.220.101.15 port 40100 ssh2
+Jul 12 09:05:25 web01 sshd[12902]: Failed password for root from 185.220.101.15 port 40102 ssh2
+Jul 12 09:05:26 web01 sshd[12903]: Failed password for root from 185.220.101.15 port 40104 ssh2
+Jul 12 09:05:27 web01 sshd[12904]: Failed password for root from 185.220.101.15 port 40106 ssh2
+Jul 12 09:05:28 web01 sshd[12905]: Failed password for root from 185.220.101.15 port 40108 ssh2
+Jul 12 09:05:29 web01 sshd[12906]: Failed password for root from 185.220.101.15 port 40110 ssh2
+Jul 12 09:05:30 web01 sshd[12907]: Failed password for root from 185.220.101.15 port 40112 ssh2
+Jul 12 09:05:31 web01 sshd[12908]: Failed password for root from 185.220.101.15 port 40114 ssh2
+Jul 12 09:05:32 web01 sshd[12909]: Failed password for root from 185.220.101.15 port 40116 ssh2
+Jul 12 09:05:33 web01 sshd[12910]: Failed password for root from 185.220.101.15 port 40118 ssh2
+Jul 12 09:05:34 web01 sshd[12911]: Failed password for root from 185.220.101.15 port 40120 ssh2
+Jul 12 09:05:35 web01 sshd[12912]: Failed password for root from 185.220.101.15 port 40122 ssh2
+Jul 12 09:05:36 web01 sshd[12913]: Failed password for root from 185.220.101.15 port 40124 ssh2
+Jul 12 09:05:37 web01 sshd[12914]: Failed password for root from 185.220.101.15 port 40126 ssh2
+Jul 12 09:05:38 web01 sshd[12915]: Failed password for root from 185.220.101.15 port 40128 ssh2
+Jul 12 09:05:39 web01 sshd[12916]: Failed password for root from 185.220.101.15 port 40130 ssh2
+Jul 12 09:05:40 web01 sshd[12917]: Failed password for root from 185.220.101.15 port 40132 ssh2
+Jul 12 09:05:41 web01 sshd[12918]: Failed password for root from 185.220.101.15 port 40134 ssh2
+Jul 12 09:05:42 web01 sshd[12919]: Failed password for root from 185.220.101.15 port 40136 ssh2
+Jul 12 09:05:43 web01 sshd[12920]: Failed password for root from 185.220.101.15 port 40138 ssh2
+Jul 12 09:05:44 web01 sshd[12921]: Failed password for root from 185.220.101.15 port 40140 ssh2
+Jul 12 09:05:45 web01 sshd[12922]: Failed password for root from 185.220.101.15 port 40142 ssh2
+Jul 12 09:05:46 web01 sshd[12923]: Failed password for root from 185.220.101.15 port 40144 ssh2
+Jul 12 09:05:47 web01 sshd[12924]: Failed password for root from 185.220.101.15 port 40146 ssh2
+Jul 12 09:05:48 web01 sshd[12925]: Failed password for root from 185.220.101.15 port 40148 ssh2
+Jul 12 09:05:49 web01 sshd[12926]: Failed password for root from 185.220.101.15 port 40150 ssh2
+Jul 12 09:05:50 web01 sshd[12927]: Failed password for root from 185.220.101.15 port 40152 ssh2
+Jul 12 09:05:51 web01 sshd[12928]: Failed password for root from 185.220.101.15 port 40154 ssh2
+Jul 12 09:05:52 web01 sshd[12929]: Failed password for root from 185.220.101.15 port 40156 ssh2
+Jul 12 09:05:53 web01 sshd[12930]: Failed password for root from 185.220.101.15 port 40158 ssh2
+Jul 12 09:05:54 web01 sshd[12931]: Failed password for root from 185.220.101.15 port 40160 ssh2
+Jul 12 09:05:55 web01 sshd[12932]: Failed password for root from 185.220.101.15 port 40162 ssh2
+Jul 12 09:05:56 web01 sshd[12933]: Failed password for root from 185.220.101.15 port 40164 ssh2
+Jul 12 09:05:57 web01 sshd[12934]: Failed password for root from 185.220.101.15 port 40166 ssh2
+Jul 12 09:05:58 web01 sshd[12935]: Failed password for root from 185.220.101.15 port 40168 ssh2
+Jul 12 09:05:59 web01 sshd[12936]: Failed password for root from 185.220.101.15 port 40170 ssh2
+Jul 12 09:06:00 web01 sshd[12937]: Failed password for root from 185.220.101.15 port 40172 ssh2
+Jul 12 09:06:01 web01 sshd[12938]: Failed password for root from 185.220.101.15 port 40174 ssh2
+Jul 12 09:06:02 web01 sshd[12939]: Failed password for root from 185.220.101.15 port 40176 ssh2
+Jul 12 09:06:03 web01 sshd[12940]: Failed password for root from 185.220.101.15 port 40178 ssh2
+Jul 12 09:06:04 web01 sshd[12941]: Failed password for root from 185.220.101.15 port 40180 ssh2
+Jul 12 09:06:05 web01 sshd[12942]: Failed password for root from 185.220.101.15 port 40182 ssh2
+Jul 12 09:06:06 web01 sshd[12943]: Failed password for root from 185.220.101.15 port 40184 ssh2
+Jul 12 09:06:07 web01 sshd[12944]: Failed password for root from 185.220.101.15 port 40186 ssh2
+Jul 12 09:06:08 web01 sshd[12945]: Failed password for root from 185.220.101.15 port 40188 ssh2
+Jul 12 09:06:09 web01 sshd[12946]: Failed password for root from 185.220.101.15 port 40190 ssh2
+Jul 12 09:06:10 web01 sshd[12947]: Failed password for root from 185.220.101.15 port 40192 ssh2
+Jul 12 09:06:11 web01 sshd[12948]: Failed password for root from 185.220.101.15 port 40194 ssh2
+Jul 12 09:06:12 web01 sshd[12949]: Failed password for root from 185.220.101.15 port 40196 ssh2
+Jul 12 09:06:13 web01 sshd[12950]: Failed password for root from 185.220.101.15 port 40198 ssh2
+Jul 12 09:06:14 web01 sshd[12951]: Failed password for root from 185.220.101.15 port 40200 ssh2
+Jul 12 09:06:15 web01 sshd[12952]: Failed password for root from 185.220.101.15 port 40202 ssh2
+Jul 12 09:06:16 web01 sshd[12953]: Failed password for root from 185.220.101.15 port 40204 ssh2
+Jul 12 09:06:17 web01 sshd[12954]: Failed password for root from 185.220.101.15 port 40206 ssh2
+Jul 12 09:06:18 web01 sshd[12955]: Failed password for root from 185.220.101.15 port 40208 ssh2
+Jul 12 09:06:19 web01 sshd[12956]: Failed password for root from 185.220.101.15 port 40210 ssh2
+Jul 12 09:06:20 web01 sshd[12957]: Failed password for root from 185.220.101.15 port 40212 ssh2
+Jul 12 09:06:21 web01 sshd[12958]: Failed password for root from 185.220.101.15 port 40214 ssh2
+Jul 12 09:06:22 web01 sshd[12959]: Failed password for root from 185.220.101.15 port 40216 ssh2
+Jul 12 09:06:23 web01 sshd[12960]: Failed password for root from 185.220.101.15 port 40218 ssh2
+Jul 12 09:06:24 web01 sshd[12961]: Failed password for root from 185.220.101.15 port 40220 ssh2
+Jul 12 09:06:25 web01 sshd[12962]: Failed password for root from 185.220.101.15 port 40222 ssh2
+Jul 12 09:06:26 web01 sshd[12963]: Failed password for root from 185.220.101.15 port 40224 ssh2
+Jul 12 09:06:27 web01 sshd[12964]: Failed password for root from 185.220.101.15 port 40226 ssh2
+Jul 12 09:06:28 web01 sshd[12965]: Failed password for root from 185.220.101.15 port 40228 ssh2
+Jul 12 09:06:29 web01 sshd[12966]: Failed password for root from 185.220.101.15 port 40230 ssh2
+Jul 12 09:06:30 web01 sshd[12967]: Failed password for root from 185.220.101.15 port 40232 ssh2
+Jul 12 09:06:31 web01 sshd[12968]: Failed password for root from 185.220.101.15 port 40234 ssh2
+Jul 12 09:06:32 web01 sshd[12969]: Failed password for root from 185.220.101.15 port 40236 ssh2
+Jul 12 09:06:33 web01 sshd[12970]: Failed password for root from 185.220.101.15 port 40238 ssh2
+Jul 12 09:06:34 web01 sshd[12971]: Failed password for root from 185.220.101.15 port 40240 ssh2
+Jul 12 09:06:35 web01 sshd[12972]: Failed password for root from 185.220.101.15 port 40242 ssh2
+Jul 12 09:06:36 web01 sshd[12973]: Failed password for root from 185.220.101.15 port 40244 ssh2
+Jul 12 09:06:37 web01 sshd[12974]: Failed password for root from 185.220.101.15 port 40246 ssh2
+Jul 12 09:06:38 web01 sshd[12975]: Failed password for root from 185.220.101.15 port 40248 ssh2
+Jul 12 09:06:39 web01 sshd[12976]: Failed password for root from 185.220.101.15 port 40250 ssh2
+Jul 12 09:06:40 web01 sshd[12977]: Failed password for root from 185.220.101.15 port 40252 ssh2
+Jul 12 09:06:41 web01 sshd[12978]: Failed password for root from 185.220.101.15 port 40254 ssh2
+Jul 12 09:06:42 web01 sshd[12979]: Failed password for root from 185.220.101.15 port 40256 ssh2
+Jul 12 09:06:43 web01 sshd[12980]: Failed password for root from 185.220.101.15 port 40258 ssh2
+Jul 12 09:06:44 web01 sshd[12981]: Failed password for root from 185.220.101.15 port 40260 ssh2
+Jul 12 09:06:45 web01 sshd[12982]: Failed password for root from 185.220.101.15 port 40262 ssh2
+Jul 12 09:06:46 web01 sshd[12983]: Failed password for root from 185.220.101.15 port 40264 ssh2
+Jul 12 09:06:47 web01 sshd[12984]: Failed password for root from 185.220.101.15 port 40266 ssh2
+Jul 12 09:06:48 web01 sshd[12985]: Failed password for root from 185.220.101.15 port 40268 ssh2
+Jul 12 09:06:49 web01 sshd[12986]: Failed password for root from 185.220.101.15 port 40270 ssh2
+Jul 12 09:06:50 web01 sshd[12987]: Failed password for root from 185.220.101.15 port 40272 ssh2
+Jul 12 09:06:51 web01 sshd[12988]: Failed password for root from 185.220.101.15 port 40274 ssh2
+Jul 12 09:06:52 web01 sshd[12989]: Failed password for root from 185.220.101.15 port 40276 ssh2
+Jul 12 09:06:53 web01 sshd[12990]: Failed password for root from 185.220.101.15 port 40278 ssh2
+Jul 12 09:06:54 web01 sshd[12991]: Accepted password for root from 185.220.101.15 port 40500 ssh2
+Jul 12 09:06:54 web01 sshd[12992]: pam_unix(sshd:session): session opened for user root(uid=0) by (uid=0)
+Jul 12 09:07:01 app01 sshd[12993]: Accepted publickey for ubuntu from 192.168.10.46 port 58950 ssh2: ED25519 SHA256:examplekey
+Jul 12 09:07:09 db01 sshd[12994]: Accepted publickey for devops from 192.168.10.23 port 33593 ssh2: ED25519 SHA256:examplekey
+Jul 12 09:07:14 app01 sshd[12995]: Accepted publickey for john from 192.168.10.70 port 46711 ssh2: ED25519 SHA256:examplekey
+Jul 12 09:07:16 web01 sshd[12996]: Accepted publickey for alice from 192.168.10.77 port 49558 ssh2: ED25519 SHA256:examplekey
+Jul 12 09:07:19 db01 sshd[12997]: Accepted publickey for devops from 192.168.10.60 port 61667 ssh2: ED25519 SHA256:examplekey
+Jul 12 09:07:21 app01 sshd[12998]: Accepted publickey for ubuntu from 192.168.10.13 port 31793 ssh2: ED25519 SHA256:examplekey
+Jul 12 09:07:30 web01 sshd[12999]: Accepted publickey for devops from 192.168.10.12 port 59748 ssh2: ED25519 SHA256:examplekey
+Jul 12 09:07:33 web01 sshd[13000]: Accepted publickey for bob from 192.168.10.24 port 51710 ssh2: ED25519 SHA256:examplekey

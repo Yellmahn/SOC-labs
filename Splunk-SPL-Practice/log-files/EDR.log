@@ -1,0 +1,1000 @@
+2026-07-12 09:00:01 HR-PC02 EDR[3001]: Process Create: chrome.exe
+2026-07-12 09:00:03 FIN-PC01 EDR[3002]: Network Connection: chrome.exe -> 142.250.190.54:443
+2026-07-12 09:00:06 FIN-PC01 EDR[3003]: Network Connection: chrome.exe -> 142.250.190.177:443
+2026-07-12 09:00:07 FIN-PC01 EDR[3004]: Network Connection: chrome.exe -> 142.250.190.129:443
+2026-07-12 09:00:12 FIN-PC01 EDR[3005]: File Access: C:\Users\alice\Documents\data.csv
+2026-07-12 09:00:13 HR-PC02 EDR[3006]: Network Connection: chrome.exe -> 142.250.190.245:443
+2026-07-12 09:00:18 FIN-PC01 EDR[3007]: Network Connection: chrome.exe -> 142.250.190.116:443
+2026-07-12 09:00:23 ENG-PC03 EDR[3008]: File Access: C:\Users\charlie\Documents\notes.txt
+2026-07-12 09:00:24 HR-PC02 EDR[3009]: Process Exit: WINWORD.EXE
+2026-07-12 09:00:25 FIN-PC01 EDR[3010]: Process Create: explorer.exe -> WINWORD.EXE User=david
+2026-07-12 09:00:29 ENG-PC03 EDR[3011]: Process Create: explorer.exe -> WINWORD.EXE User=david
+2026-07-12 09:00:32 FIN-PC01 EDR[3012]: Network Connection: chrome.exe -> 142.250.190.44:443
+2026-07-12 09:00:33 HR-PC02 EDR[3013]: Process Create: chrome.exe
+2026-07-12 09:00:37 ENG-PC03 EDR[3014]: Process Exit: WINWORD.EXE
+2026-07-12 09:00:42 ENG-PC03 EDR[3015]: Process Create: chrome.exe
+2026-07-12 09:00:43 ENG-PC03 EDR[3016]: Network Connection: chrome.exe -> 142.250.190.54:443
+2026-07-12 09:00:44 ENG-PC03 EDR[3017]: Process Exit: WINWORD.EXE
+2026-07-12 09:00:49 HR-PC02 EDR[3018]: File Access: C:\Users\alice\Documents\report.docx
+2026-07-12 09:00:53 HR-PC02 EDR[3019]: File Access: C:\Users\alice\Documents\design.pptx
+2026-07-12 09:00:54 FIN-PC01 EDR[3020]: Process Exit: WINWORD.EXE
+2026-07-12 09:00:58 HR-PC02 EDR[3021]: Process Create: chrome.exe
+2026-07-12 09:01:01 FIN-PC01 EDR[3022]: Network Connection: chrome.exe -> 142.250.190.115:443
+2026-07-12 09:01:04 FIN-PC01 EDR[3023]: File Access: C:\Users\david\Documents\data.csv
+2026-07-12 09:01:06 HR-PC02 EDR[3024]: Network Connection: chrome.exe -> 142.250.190.168:443
+2026-07-12 09:01:08 HR-PC02 EDR[3025]: Network Connection: chrome.exe -> 142.250.190.39:443
+2026-07-12 09:01:09 ENG-PC03 EDR[3026]: Network Connection: chrome.exe -> 142.250.190.134:443
+2026-07-12 09:01:12 ENG-PC03 EDR[3027]: Process Create: chrome.exe
+2026-07-12 09:01:14 ENG-PC03 EDR[3028]: File Access: C:\Users\emma\Documents\invoice.pdf
+2026-07-12 09:01:19 ENG-PC03 EDR[3029]: Process Create: explorer.exe -> WINWORD.EXE User=emma
+2026-07-12 09:01:24 ENG-PC03 EDR[3030]: Process Create: explorer.exe -> WINWORD.EXE User=charlie
+2026-07-12 09:01:29 FIN-PC01 EDR[3031]: Process Exit: WINWORD.EXE
+2026-07-12 09:01:30 FIN-PC01 EDR[3032]: Process Exit: WINWORD.EXE
+2026-07-12 09:01:34 HR-PC02 EDR[3033]: Process Create: explorer.exe -> WINWORD.EXE User=emma
+2026-07-12 09:01:39 HR-PC02 EDR[3034]: File Access: C:\Users\david\Documents\design.pptx
+2026-07-12 09:01:41 ENG-PC03 EDR[3035]: Process Exit: WINWORD.EXE
+2026-07-12 09:01:46 HR-PC02 EDR[3036]: Network Connection: chrome.exe -> 142.250.190.146:443
+2026-07-12 09:01:49 ENG-PC03 EDR[3037]: Network Connection: chrome.exe -> 142.250.190.20:443
+2026-07-12 09:01:54 ENG-PC03 EDR[3038]: Process Exit: WINWORD.EXE
+2026-07-12 09:01:58 FIN-PC01 EDR[3039]: Process Create: chrome.exe
+2026-07-12 09:02:03 ENG-PC03 EDR[3040]: File Access: C:\Users\bob\Documents\data.csv
+2026-07-12 09:02:06 HR-PC02 EDR[3041]: Process Create: chrome.exe
+2026-07-12 09:02:11 HR-PC02 EDR[3042]: Process Exit: WINWORD.EXE
+2026-07-12 09:02:14 ENG-PC03 EDR[3043]: Process Create: chrome.exe
+2026-07-12 09:02:19 HR-PC02 EDR[3044]: File Access: C:\Users\bob\Documents\notes.txt
+2026-07-12 09:02:23 ENG-PC03 EDR[3045]: Network Connection: chrome.exe -> 142.250.190.51:443
+2026-07-12 09:02:28 FIN-PC01 EDR[3046]: Process Exit: WINWORD.EXE
+2026-07-12 09:02:30 HR-PC02 EDR[3047]: Process Exit: WINWORD.EXE
+2026-07-12 09:02:31 FIN-PC01 EDR[3048]: Process Create: chrome.exe
+2026-07-12 09:02:33 HR-PC02 EDR[3049]: Process Create: chrome.exe
+2026-07-12 09:02:34 ENG-PC03 EDR[3050]: Network Connection: chrome.exe -> 142.250.190.101:443
+2026-07-12 09:02:39 FIN-PC01 EDR[3051]: Process Create: chrome.exe
+2026-07-12 09:02:44 FIN-PC01 EDR[3052]: File Access: C:\Users\charlie\Documents\notes.txt
+2026-07-12 09:02:48 FIN-PC01 EDR[3053]: Process Create: chrome.exe
+2026-07-12 09:02:49 HR-PC02 EDR[3054]: Process Exit: WINWORD.EXE
+2026-07-12 09:02:53 HR-PC02 EDR[3055]: Process Exit: WINWORD.EXE
+2026-07-12 09:02:57 HR-PC02 EDR[3056]: File Access: C:\Users\alice\Documents\design.pptx
+2026-07-12 09:03:00 FIN-PC01 EDR[3057]: File Access: C:\Users\david\Documents\report.docx
+2026-07-12 09:03:02 FIN-PC01 EDR[3058]: Process Create: chrome.exe
+2026-07-12 09:03:03 FIN-PC01 EDR[3059]: Process Create: chrome.exe
+2026-07-12 09:03:08 ENG-PC03 EDR[3060]: Process Create: chrome.exe
+2026-07-12 09:03:11 FIN-PC01 EDR[3061]: Network Connection: chrome.exe -> 142.250.190.207:443
+2026-07-12 09:03:14 HR-PC02 EDR[3062]: Process Create: explorer.exe -> WINWORD.EXE User=bob
+2026-07-12 09:03:17 FIN-PC01 EDR[3063]: File Access: C:\Users\alice\Documents\budget.xlsx
+2026-07-12 09:03:18 FIN-PC01 EDR[3064]: File Access: C:\Users\bob\Documents\invoice.pdf
+2026-07-12 09:03:20 HR-PC02 EDR[3065]: Process Exit: WINWORD.EXE
+2026-07-12 09:03:21 ENG-PC03 EDR[3066]: Process Create: chrome.exe
+2026-07-12 09:03:22 HR-PC02 EDR[3067]: Process Create: explorer.exe -> WINWORD.EXE User=bob
+2026-07-12 09:03:25 ENG-PC03 EDR[3068]: Network Connection: chrome.exe -> 142.250.190.185:443
+2026-07-12 09:03:27 ENG-PC03 EDR[3069]: Process Exit: WINWORD.EXE
+2026-07-12 09:03:31 FIN-PC01 EDR[3070]: Process Create: chrome.exe
+2026-07-12 09:03:32 HR-PC02 EDR[3071]: Process Create: chrome.exe
+2026-07-12 09:03:36 HR-PC02 EDR[3072]: Process Exit: WINWORD.EXE
+2026-07-12 09:03:38 HR-PC02 EDR[3073]: Process Create: chrome.exe
+2026-07-12 09:03:39 ENG-PC03 EDR[3074]: Network Connection: chrome.exe -> 142.250.190.70:443
+2026-07-12 09:03:44 HR-PC02 EDR[3075]: Process Exit: WINWORD.EXE
+2026-07-12 09:03:46 FIN-PC01 EDR[3076]: Process Create: explorer.exe -> WINWORD.EXE User=david
+2026-07-12 09:03:48 ENG-PC03 EDR[3077]: File Access: C:\Users\alice\Documents\notes.txt
+2026-07-12 09:03:51 FIN-PC01 EDR[3078]: Network Connection: chrome.exe -> 142.250.190.222:443
+2026-07-12 09:03:52 HR-PC02 EDR[3079]: Process Exit: WINWORD.EXE
+2026-07-12 09:03:57 HR-PC02 EDR[3080]: Process Exit: WINWORD.EXE
+2026-07-12 09:04:02 FIN-PC01 EDR[3081]: Process Create: explorer.exe -> WINWORD.EXE User=charlie
+2026-07-12 09:04:06 ENG-PC03 EDR[3082]: Process Exit: WINWORD.EXE
+2026-07-12 09:04:08 HR-PC02 EDR[3083]: Process Exit: WINWORD.EXE
+2026-07-12 09:04:12 FIN-PC01 EDR[3084]: File Access: C:\Users\charlie\Documents\notes.txt
+2026-07-12 09:04:13 FIN-PC01 EDR[3085]: Process Create: explorer.exe -> WINWORD.EXE User=emma
+2026-07-12 09:04:18 FIN-PC01 EDR[3086]: File Access: C:\Users\bob\Documents\invoice.pdf
+2026-07-12 09:04:19 ENG-PC03 EDR[3087]: Process Create: chrome.exe
+2026-07-12 09:04:22 HR-PC02 EDR[3088]: Process Create: explorer.exe -> WINWORD.EXE User=charlie
+2026-07-12 09:04:26 FIN-PC01 EDR[3089]: Process Exit: WINWORD.EXE
+2026-07-12 09:04:31 ENG-PC03 EDR[3090]: Network Connection: chrome.exe -> 142.250.190.43:443
+2026-07-12 09:04:34 HR-PC02 EDR[3091]: Network Connection: chrome.exe -> 142.250.190.166:443
+2026-07-12 09:04:38 FIN-PC01 EDR[3092]: Network Connection: chrome.exe -> 142.250.190.3:443
+2026-07-12 09:04:42 HR-PC02 EDR[3093]: Process Create: chrome.exe
+2026-07-12 09:04:43 HR-PC02 EDR[3094]: File Access: C:\Users\david\Documents\budget.xlsx
+2026-07-12 09:04:47 FIN-PC01 EDR[3095]: Process Create: explorer.exe -> WINWORD.EXE User=emma
+2026-07-12 09:04:52 ENG-PC03 EDR[3096]: Process Create: chrome.exe
+2026-07-12 09:04:55 FIN-PC01 EDR[3097]: Process Create: explorer.exe -> WINWORD.EXE User=david
+2026-07-12 09:04:57 FIN-PC01 EDR[3098]: Process Create: chrome.exe
+2026-07-12 09:05:02 FIN-PC01 EDR[3099]: Network Connection: chrome.exe -> 142.250.190.212:443
+2026-07-12 09:05:03 HR-PC02 EDR[3100]: Process Create: explorer.exe -> WINWORD.EXE User=david
+2026-07-12 09:05:06 ENG-PC03 EDR[3101]: Process Exit: WINWORD.EXE
+2026-07-12 09:05:08 FIN-PC01 EDR[3102]: Process Exit: WINWORD.EXE
+2026-07-12 09:05:10 HR-PC02 EDR[3103]: Network Connection: chrome.exe -> 142.250.190.208:443
+2026-07-12 09:05:13 ENG-PC03 EDR[3104]: Process Create: explorer.exe -> WINWORD.EXE User=emma
+2026-07-12 09:05:14 HR-PC02 EDR[3105]: Process Create: explorer.exe -> WINWORD.EXE User=bob
+2026-07-12 09:05:17 HR-PC02 EDR[3106]: File Access: C:\Users\charlie\Documents\data.csv
+2026-07-12 09:05:18 HR-PC02 EDR[3107]: Process Create: explorer.exe -> WINWORD.EXE User=alice
+2026-07-12 09:05:20 ENG-PC03 EDR[3108]: Process Create: chrome.exe
+2026-07-12 09:05:23 FIN-PC01 EDR[3109]: Process Create: chrome.exe
+2026-07-12 09:05:25 HR-PC02 EDR[3110]: File Access: C:\Users\bob\Documents\budget.xlsx
+2026-07-12 09:05:29 ENG-PC03 EDR[3111]: Process Create: explorer.exe -> WINWORD.EXE User=bob
+2026-07-12 09:05:33 FIN-PC01 EDR[3112]: File Access: C:\Users\emma\Documents\notes.txt
+2026-07-12 09:05:35 ENG-PC03 EDR[3113]: Process Exit: WINWORD.EXE
+2026-07-12 09:05:36 ENG-PC03 EDR[3114]: Process Create: explorer.exe -> WINWORD.EXE User=bob
+2026-07-12 09:05:41 ENG-PC03 EDR[3115]: Process Create: explorer.exe -> WINWORD.EXE User=bob
+2026-07-12 09:05:46 ENG-PC03 EDR[3116]: Network Connection: chrome.exe -> 142.250.190.208:443
+2026-07-12 09:05:50 ENG-PC03 EDR[3117]: Network Connection: chrome.exe -> 142.250.190.16:443
+2026-07-12 09:05:54 HR-PC02 EDR[3118]: Network Connection: chrome.exe -> 142.250.190.29:443
+2026-07-12 09:05:57 FIN-PC01 EDR[3119]: Process Exit: WINWORD.EXE
+2026-07-12 09:05:58 ENG-PC03 EDR[3120]: Process Exit: WINWORD.EXE
+2026-07-12 09:05:59 FIN-PC01 EDR[3121]: Network Connection: chrome.exe -> 142.250.190.98:443
+2026-07-12 09:06:00 HR-PC02 EDR[3122]: File Access: C:\Users\charlie\Documents\notes.txt
+2026-07-12 09:06:04 ENG-PC03 EDR[3123]: Network Connection: chrome.exe -> 142.250.190.213:443
+2026-07-12 09:06:06 HR-PC02 EDR[3124]: Process Create: chrome.exe
+2026-07-12 09:06:08 HR-PC02 EDR[3125]: Process Create: chrome.exe
+2026-07-12 09:06:12 FIN-PC01 EDR[3126]: File Access: C:\Users\david\Documents\design.pptx
+2026-07-12 09:06:16 HR-PC02 EDR[3127]: Process Create: chrome.exe
+2026-07-12 09:06:18 FIN-PC01 EDR[3128]: Network Connection: chrome.exe -> 142.250.190.24:443
+2026-07-12 09:06:22 FIN-PC01 EDR[3129]: Network Connection: chrome.exe -> 142.250.190.165:443
+2026-07-12 09:06:24 ENG-PC03 EDR[3130]: Process Exit: WINWORD.EXE
+2026-07-12 09:06:28 ENG-PC03 EDR[3131]: File Access: C:\Users\emma\Documents\data.csv
+2026-07-12 09:06:31 HR-PC02 EDR[3132]: Network Connection: chrome.exe -> 142.250.190.187:443
+2026-07-12 09:06:33 HR-PC02 EDR[3133]: Network Connection: chrome.exe -> 142.250.190.79:443
+2026-07-12 09:06:37 ENG-PC03 EDR[3134]: File Access: C:\Users\bob\Documents\notes.txt
+2026-07-12 09:06:42 FIN-PC01 EDR[3135]: Process Create: explorer.exe -> WINWORD.EXE User=bob
+2026-07-12 09:06:44 FIN-PC01 EDR[3136]: Process Create: explorer.exe -> WINWORD.EXE User=emma
+2026-07-12 09:06:49 HR-PC02 EDR[3137]: Process Create: chrome.exe
+2026-07-12 09:06:52 ENG-PC03 EDR[3138]: Process Create: chrome.exe
+2026-07-12 09:06:53 HR-PC02 EDR[3139]: Network Connection: chrome.exe -> 142.250.190.69:443
+2026-07-12 09:06:54 HR-PC02 EDR[3140]: Network Connection: chrome.exe -> 142.250.190.72:443
+2026-07-12 09:06:58 HR-PC02 EDR[3141]: File Access: C:\Users\bob\Documents\report.docx
+2026-07-12 09:07:03 FIN-PC01 EDR[3142]: Process Exit: WINWORD.EXE
+2026-07-12 09:07:05 ENG-PC03 EDR[3143]: Process Create: chrome.exe
+2026-07-12 09:07:07 FIN-PC01 EDR[3144]: Process Exit: WINWORD.EXE
+2026-07-12 09:07:11 ENG-PC03 EDR[3145]: Network Connection: chrome.exe -> 142.250.190.105:443
+2026-07-12 09:07:12 FIN-PC01 EDR[3146]: Process Exit: WINWORD.EXE
+2026-07-12 09:07:17 HR-PC02 EDR[3147]: Process Create: chrome.exe
+2026-07-12 09:07:21 ENG-PC03 EDR[3148]: Process Create: explorer.exe -> WINWORD.EXE User=david
+2026-07-12 09:07:25 FIN-PC01 EDR[3149]: Process Exit: WINWORD.EXE
+2026-07-12 09:07:28 HR-PC02 EDR[3150]: File Access: C:\Users\alice\Documents\data.csv
+2026-07-12 09:07:30 ENG-PC03 EDR[3151]: Process Create: chrome.exe
+2026-07-12 09:07:35 FIN-PC01 EDR[3152]: Process Exit: WINWORD.EXE
+2026-07-12 09:07:39 ENG-PC03 EDR[3153]: Process Create: explorer.exe -> WINWORD.EXE User=emma
+2026-07-12 09:07:44 HR-PC02 EDR[3154]: File Access: C:\Users\charlie\Documents\data.csv
+2026-07-12 09:07:47 ENG-PC03 EDR[3155]: Process Exit: WINWORD.EXE
+2026-07-12 09:07:50 FIN-PC01 EDR[3156]: Process Exit: WINWORD.EXE
+2026-07-12 09:07:51 HR-PC02 EDR[3157]: Process Create: explorer.exe -> WINWORD.EXE User=emma
+2026-07-12 09:07:55 ENG-PC03 EDR[3158]: Process Exit: WINWORD.EXE
+2026-07-12 09:07:56 FIN-PC01 EDR[3159]: Process Create: chrome.exe
+2026-07-12 09:07:57 FIN-PC01 EDR[3160]: Process Exit: WINWORD.EXE
+2026-07-12 09:08:01 FIN-PC01 EDR[3161]: Process Exit: WINWORD.EXE
+2026-07-12 09:08:04 HR-PC02 EDR[3162]: Process Create: chrome.exe
+2026-07-12 09:08:07 HR-PC02 EDR[3163]: Process Create: explorer.exe -> WINWORD.EXE User=bob
+2026-07-12 09:08:09 ENG-PC03 EDR[3164]: Process Create: chrome.exe
+2026-07-12 09:08:14 ENG-PC03 EDR[3165]: Process Create: chrome.exe
+2026-07-12 09:08:19 FIN-PC01 EDR[3166]: Process Create: explorer.exe -> WINWORD.EXE User=alice
+2026-07-12 09:08:20 HR-PC02 EDR[3167]: Process Exit: WINWORD.EXE
+2026-07-12 09:08:21 ENG-PC03 EDR[3168]: Process Create: chrome.exe
+2026-07-12 09:08:25 FIN-PC01 EDR[3169]: Process Create: chrome.exe
+2026-07-12 09:08:29 HR-PC02 EDR[3170]: Network Connection: chrome.exe -> 142.250.190.67:443
+2026-07-12 09:08:31 ENG-PC03 EDR[3171]: Network Connection: chrome.exe -> 142.250.190.217:443
+2026-07-12 09:08:35 FIN-PC01 EDR[3172]: Process Create: explorer.exe -> WINWORD.EXE User=bob
+2026-07-12 09:08:38 FIN-PC01 EDR[3173]: Process Create: explorer.exe -> WINWORD.EXE User=david
+2026-07-12 09:08:39 FIN-PC01 EDR[3174]: Process Exit: WINWORD.EXE
+2026-07-12 09:08:41 ENG-PC03 EDR[3175]: File Access: C:\Users\david\Documents\report.docx
+2026-07-12 09:08:44 ENG-PC03 EDR[3176]: Network Connection: chrome.exe -> 142.250.190.101:443
+2026-07-12 09:08:46 FIN-PC01 EDR[3177]: Process Create: explorer.exe -> WINWORD.EXE User=emma
+2026-07-12 09:08:47 FIN-PC01 EDR[3178]: Process Create: chrome.exe
+2026-07-12 09:08:52 ENG-PC03 EDR[3179]: Network Connection: chrome.exe -> 142.250.190.184:443
+2026-07-12 09:08:57 ENG-PC03 EDR[3180]: Process Create: chrome.exe
+2026-07-12 09:08:58 ENG-PC03 EDR[3181]: Process Create: explorer.exe -> WINWORD.EXE User=alice
+2026-07-12 09:09:01 FIN-PC01 EDR[3182]: File Access: C:\Users\bob\Documents\data.csv
+2026-07-12 09:09:04 HR-PC02 EDR[3183]: Process Create: chrome.exe
+2026-07-12 09:09:09 HR-PC02 EDR[3184]: Process Create: chrome.exe
+2026-07-12 09:09:14 ENG-PC03 EDR[3185]: Process Create: explorer.exe -> WINWORD.EXE User=emma
+2026-07-12 09:09:17 HR-PC02 EDR[3186]: Process Create: explorer.exe -> WINWORD.EXE User=emma
+2026-07-12 09:09:21 FIN-PC01 EDR[3187]: Process Create: chrome.exe
+2026-07-12 09:09:24 HR-PC02 EDR[3188]: File Access: C:\Users\bob\Documents\notes.txt
+2026-07-12 09:09:26 FIN-PC01 EDR[3189]: Network Connection: chrome.exe -> 142.250.190.69:443
+2026-07-12 09:09:28 FIN-PC01 EDR[3190]: Network Connection: chrome.exe -> 142.250.190.36:443
+2026-07-12 09:09:33 ENG-PC03 EDR[3191]: Process Create: chrome.exe
+2026-07-12 09:09:35 FIN-PC01 EDR[3192]: Process Exit: WINWORD.EXE
+2026-07-12 09:09:37 HR-PC02 EDR[3193]: Process Create: explorer.exe -> WINWORD.EXE User=charlie
+2026-07-12 09:09:40 ENG-PC03 EDR[3194]: Process Exit: WINWORD.EXE
+2026-07-12 09:09:42 FIN-PC01 EDR[3195]: Process Create: chrome.exe
+2026-07-12 09:09:47 HR-PC02 EDR[3196]: Process Exit: WINWORD.EXE
+2026-07-12 09:09:51 ENG-PC03 EDR[3197]: Process Exit: WINWORD.EXE
+2026-07-12 09:09:56 ENG-PC03 EDR[3198]: Process Exit: WINWORD.EXE
+2026-07-12 09:10:00 FIN-PC01 EDR[3199]: Process Create: explorer.exe -> WINWORD.EXE User=bob
+2026-07-12 09:10:04 FIN-PC01 EDR[3200]: File Access: C:\Users\david\Documents\budget.xlsx
+2026-07-12 09:10:05 HR-PC02 EDR[3201]: Network Connection: chrome.exe -> 142.250.190.207:443
+2026-07-12 09:10:06 HR-PC02 EDR[3202]: Process Exit: WINWORD.EXE
+2026-07-12 09:10:11 HR-PC02 EDR[3203]: Process Exit: WINWORD.EXE
+2026-07-12 09:10:16 ENG-PC03 EDR[3204]: Process Create: chrome.exe
+2026-07-12 09:10:17 HR-PC02 EDR[3205]: Network Connection: chrome.exe -> 142.250.190.185:443
+2026-07-12 09:10:21 HR-PC02 EDR[3206]: File Access: C:\Users\bob\Documents\invoice.pdf
+2026-07-12 09:10:22 ENG-PC03 EDR[3207]: Network Connection: chrome.exe -> 142.250.190.240:443
+2026-07-12 09:10:24 HR-PC02 EDR[3208]: Process Exit: WINWORD.EXE
+2026-07-12 09:10:25 FIN-PC01 EDR[3209]: File Access: C:\Users\charlie\Documents\data.csv
+2026-07-12 09:10:27 FIN-PC01 EDR[3210]: Network Connection: chrome.exe -> 142.250.190.11:443
+2026-07-12 09:10:30 ENG-PC03 EDR[3211]: Process Create: explorer.exe -> WINWORD.EXE User=bob
+2026-07-12 09:10:32 HR-PC02 EDR[3212]: Network Connection: chrome.exe -> 142.250.190.147:443
+2026-07-12 09:10:36 FIN-PC01 EDR[3213]: Network Connection: chrome.exe -> 142.250.190.238:443
+2026-07-12 09:10:38 FIN-PC01 EDR[3214]: Network Connection: chrome.exe -> 142.250.190.31:443
+2026-07-12 09:10:40 HR-PC02 EDR[3215]: File Access: C:\Users\alice\Documents\data.csv
+2026-07-12 09:10:41 HR-PC02 EDR[3216]: File Access: C:\Users\bob\Documents\budget.xlsx
+2026-07-12 09:10:42 HR-PC02 EDR[3217]: Network Connection: chrome.exe -> 142.250.190.215:443
+2026-07-12 09:10:47 FIN-PC01 EDR[3218]: Process Create: explorer.exe -> WINWORD.EXE User=bob
+2026-07-12 09:10:49 ENG-PC03 EDR[3219]: File Access: C:\Users\david\Documents\data.csv
+2026-07-12 09:10:54 HR-PC02 EDR[3220]: Process Create: explorer.exe -> WINWORD.EXE User=david
+2026-07-12 09:10:56 HR-PC02 EDR[3221]: Process Create: explorer.exe -> WINWORD.EXE User=bob
+2026-07-12 09:10:58 FIN-PC01 EDR[3222]: Process Create: chrome.exe
+2026-07-12 09:11:03 FIN-PC01 EDR[3223]: Network Connection: chrome.exe -> 142.250.190.79:443
+2026-07-12 09:11:08 ENG-PC03 EDR[3224]: Process Create: chrome.exe
+2026-07-12 09:11:11 HR-PC02 EDR[3225]: Process Exit: WINWORD.EXE
+2026-07-12 09:11:14 FIN-PC01 EDR[3226]: Process Create: chrome.exe
+2026-07-12 09:11:18 ENG-PC03 EDR[3227]: File Access: C:\Users\emma\Documents\design.pptx
+2026-07-12 09:11:23 ENG-PC03 EDR[3228]: Process Exit: WINWORD.EXE
+2026-07-12 09:11:25 ENG-PC03 EDR[3229]: Network Connection: chrome.exe -> 142.250.190.2:443
+2026-07-12 09:11:27 HR-PC02 EDR[3230]: Process Create: explorer.exe -> WINWORD.EXE User=bob
+2026-07-12 09:11:30 HR-PC02 EDR[3231]: Network Connection: chrome.exe -> 142.250.190.3:443
+2026-07-12 09:11:35 FIN-PC01 EDR[3232]: Process Create: chrome.exe
+2026-07-12 09:11:38 ENG-PC03 EDR[3233]: Network Connection: chrome.exe -> 142.250.190.96:443
+2026-07-12 09:11:42 FIN-PC01 EDR[3234]: Network Connection: chrome.exe -> 142.250.190.204:443
+2026-07-12 09:11:44 ENG-PC03 EDR[3235]: Process Create: explorer.exe -> WINWORD.EXE User=charlie
+2026-07-12 09:11:45 FIN-PC01 EDR[3236]: File Access: C:\Users\emma\Documents\data.csv
+2026-07-12 09:11:49 HR-PC02 EDR[3237]: File Access: C:\Users\emma\Documents\design.pptx
+2026-07-12 09:11:53 ENG-PC03 EDR[3238]: Process Create: explorer.exe -> WINWORD.EXE User=alice
+2026-07-12 09:11:55 FIN-PC01 EDR[3239]: Process Create: chrome.exe
+2026-07-12 09:11:59 ENG-PC03 EDR[3240]: File Access: C:\Users\emma\Documents\data.csv
+2026-07-12 09:12:00 ENG-PC03 EDR[3241]: Process Exit: WINWORD.EXE
+2026-07-12 09:12:02 ENG-PC03 EDR[3242]: Process Create: explorer.exe -> WINWORD.EXE User=emma
+2026-07-12 09:12:03 HR-PC02 EDR[3243]: Process Exit: WINWORD.EXE
+2026-07-12 09:12:06 ENG-PC03 EDR[3244]: Process Exit: WINWORD.EXE
+2026-07-12 09:12:09 FIN-PC01 EDR[3245]: Process Create: chrome.exe
+2026-07-12 09:12:12 HR-PC02 EDR[3246]: Process Create: chrome.exe
+2026-07-12 09:12:15 ENG-PC03 EDR[3247]: Network Connection: chrome.exe -> 142.250.190.157:443
+2026-07-12 09:12:18 ENG-PC03 EDR[3248]: Process Exit: WINWORD.EXE
+2026-07-12 09:12:19 ENG-PC03 EDR[3249]: Network Connection: chrome.exe -> 142.250.190.158:443
+2026-07-12 09:12:22 FIN-PC01 EDR[3250]: File Access: C:\Users\emma\Documents\design.pptx
+2026-07-12 09:12:24 FIN-PC01 EDR[3251]: Process Exit: WINWORD.EXE
+2026-07-12 09:12:26 HR-PC02 EDR[3252]: Process Create: explorer.exe -> WINWORD.EXE User=charlie
+2026-07-12 09:12:30 HR-PC02 EDR[3253]: Process Exit: WINWORD.EXE
+2026-07-12 09:12:33 FIN-PC01 EDR[3254]: Process Exit: WINWORD.EXE
+2026-07-12 09:12:38 FIN-PC01 EDR[3255]: Process Create: explorer.exe -> WINWORD.EXE User=emma
+2026-07-12 09:12:42 FIN-PC01 EDR[3256]: Process Create: chrome.exe
+2026-07-12 09:12:47 HR-PC02 EDR[3257]: File Access: C:\Users\bob\Documents\invoice.pdf
+2026-07-12 09:12:50 FIN-PC01 EDR[3258]: Network Connection: chrome.exe -> 142.250.190.150:443
+2026-07-12 09:12:52 FIN-PC01 EDR[3259]: Process Create: explorer.exe -> WINWORD.EXE User=emma
+2026-07-12 09:12:57 HR-PC02 EDR[3260]: Process Create: explorer.exe -> WINWORD.EXE User=charlie
+2026-07-12 09:13:01 ENG-PC03 EDR[3261]: Process Exit: WINWORD.EXE
+2026-07-12 09:13:04 ENG-PC03 EDR[3262]: Network Connection: chrome.exe -> 142.250.190.7:443
+2026-07-12 09:13:06 ENG-PC03 EDR[3263]: Process Exit: WINWORD.EXE
+2026-07-12 09:13:10 ENG-PC03 EDR[3264]: Process Create: chrome.exe
+2026-07-12 09:13:11 ENG-PC03 EDR[3265]: Process Create: explorer.exe -> WINWORD.EXE User=bob
+2026-07-12 09:13:14 HR-PC02 EDR[3266]: Process Create: explorer.exe -> WINWORD.EXE User=emma
+2026-07-12 09:13:17 FIN-PC01 EDR[3267]: Network Connection: chrome.exe -> 142.250.190.211:443
+2026-07-12 09:13:21 ENG-PC03 EDR[3268]: Network Connection: chrome.exe -> 142.250.190.139:443
+2026-07-12 09:13:23 HR-PC02 EDR[3269]: File Access: C:\Users\alice\Documents\data.csv
+2026-07-12 09:13:26 ENG-PC03 EDR[3270]: Process Exit: WINWORD.EXE
+2026-07-12 09:13:27 HR-PC02 EDR[3271]: Process Exit: WINWORD.EXE
+2026-07-12 09:13:30 FIN-PC01 EDR[3272]: File Access: C:\Users\charlie\Documents\invoice.pdf
+2026-07-12 09:13:32 ENG-PC03 EDR[3273]: Network Connection: chrome.exe -> 142.250.190.1:443
+2026-07-12 09:13:34 ENG-PC03 EDR[3274]: File Access: C:\Users\david\Documents\budget.xlsx
+2026-07-12 09:13:35 HR-PC02 EDR[3275]: Process Create: chrome.exe
+2026-07-12 09:13:36 HR-PC02 EDR[3276]: File Access: C:\Users\emma\Documents\data.csv
+2026-07-12 09:13:39 HR-PC02 EDR[3277]: Process Exit: WINWORD.EXE
+2026-07-12 09:13:41 HR-PC02 EDR[3278]: Process Exit: WINWORD.EXE
+2026-07-12 09:13:44 ENG-PC03 EDR[3279]: Network Connection: chrome.exe -> 142.250.190.238:443
+2026-07-12 09:13:47 ENG-PC03 EDR[3280]: Process Create: explorer.exe -> WINWORD.EXE User=emma
+2026-07-12 09:13:50 FIN-PC01 EDR[3281]: File Access: C:\Users\emma\Documents\notes.txt
+2026-07-12 09:13:54 FIN-PC01 EDR[3282]: Process Create: explorer.exe -> WINWORD.EXE User=charlie
+2026-07-12 09:13:57 HR-PC02 EDR[3283]: Network Connection: chrome.exe -> 142.250.190.166:443
+2026-07-12 09:14:02 HR-PC02 EDR[3284]: Network Connection: chrome.exe -> 142.250.190.42:443
+2026-07-12 09:14:06 HR-PC02 EDR[3285]: File Access: C:\Users\charlie\Documents\invoice.pdf
+2026-07-12 09:14:09 FIN-PC01 EDR[3286]: Process Create: explorer.exe -> WINWORD.EXE User=david
+2026-07-12 09:14:11 FIN-PC01 EDR[3287]: File Access: C:\Users\emma\Documents\design.pptx
+2026-07-12 09:14:12 HR-PC02 EDR[3288]: File Access: C:\Users\emma\Documents\report.docx
+2026-07-12 09:14:16 HR-PC02 EDR[3289]: Process Create: explorer.exe -> WINWORD.EXE User=charlie
+2026-07-12 09:14:19 ENG-PC03 EDR[3290]: File Access: C:\Users\charlie\Documents\design.pptx
+2026-07-12 09:14:21 HR-PC02 EDR[3291]: File Access: C:\Users\bob\Documents\data.csv
+2026-07-12 09:14:26 HR-PC02 EDR[3292]: Process Create: chrome.exe
+2026-07-12 09:14:27 FIN-PC01 EDR[3293]: Network Connection: chrome.exe -> 142.250.190.78:443
+2026-07-12 09:14:30 HR-PC02 EDR[3294]: Network Connection: chrome.exe -> 142.250.190.101:443
+2026-07-12 09:14:32 HR-PC02 EDR[3295]: Process Create: explorer.exe -> WINWORD.EXE User=charlie
+2026-07-12 09:14:36 ENG-PC03 EDR[3296]: Process Create: explorer.exe -> WINWORD.EXE User=bob
+2026-07-12 09:14:39 HR-PC02 EDR[3297]: Process Create: chrome.exe
+2026-07-12 09:14:41 FIN-PC01 EDR[3298]: Process Exit: WINWORD.EXE
+2026-07-12 09:14:44 FIN-PC01 EDR[3299]: Network Connection: chrome.exe -> 142.250.190.182:443
+2026-07-12 09:14:46 FIN-PC01 EDR[3300]: Process Exit: WINWORD.EXE
+2026-07-12 09:14:49 HR-PC02 EDR[3301]: Process Exit: WINWORD.EXE
+2026-07-12 09:14:51 ENG-PC03 EDR[3302]: Network Connection: chrome.exe -> 142.250.190.86:443
+2026-07-12 09:14:56 ENG-PC03 EDR[3303]: Process Exit: WINWORD.EXE
+2026-07-12 09:14:59 FIN-PC01 EDR[3304]: Network Connection: chrome.exe -> 142.250.190.58:443
+2026-07-12 09:15:03 FIN-PC01 EDR[3305]: Network Connection: chrome.exe -> 142.250.190.5:443
+2026-07-12 09:15:07 HR-PC02 EDR[3306]: Process Create: explorer.exe -> WINWORD.EXE User=david
+2026-07-12 09:15:11 HR-PC02 EDR[3307]: Process Create: chrome.exe
+2026-07-12 09:15:12 ENG-PC03 EDR[3308]: Process Create: explorer.exe -> WINWORD.EXE User=charlie
+2026-07-12 09:15:14 HR-PC02 EDR[3309]: File Access: C:\Users\david\Documents\report.docx
+2026-07-12 09:15:15 HR-PC02 EDR[3310]: Process Exit: WINWORD.EXE
+2026-07-12 09:15:17 ENG-PC03 EDR[3311]: Process Exit: WINWORD.EXE
+2026-07-12 09:15:22 ENG-PC03 EDR[3312]: Process Create: explorer.exe -> WINWORD.EXE User=bob
+2026-07-12 09:15:25 FIN-PC01 EDR[3313]: Network Connection: chrome.exe -> 142.250.190.52:443
+2026-07-12 09:15:30 ENG-PC03 EDR[3314]: Process Create: chrome.exe
+2026-07-12 09:15:32 ENG-PC03 EDR[3315]: Process Create: explorer.exe -> WINWORD.EXE User=emma
+2026-07-12 09:15:34 FIN-PC01 EDR[3316]: Network Connection: chrome.exe -> 142.250.190.202:443
+2026-07-12 09:15:36 ENG-PC03 EDR[3317]: Process Exit: WINWORD.EXE
+2026-07-12 09:15:41 FIN-PC01 EDR[3318]: Process Create: explorer.exe -> WINWORD.EXE User=bob
+2026-07-12 09:15:44 ENG-PC03 EDR[3319]: Process Create: explorer.exe -> WINWORD.EXE User=emma
+2026-07-12 09:15:49 FIN-PC01 EDR[3320]: Network Connection: chrome.exe -> 142.250.190.247:443
+2026-07-12 09:15:51 ENG-PC03 EDR[3321]: Process Exit: WINWORD.EXE
+2026-07-12 09:15:55 HR-PC02 EDR[3322]: Process Exit: WINWORD.EXE
+2026-07-12 09:15:56 ENG-PC03 EDR[3323]: File Access: C:\Users\bob\Documents\notes.txt
+2026-07-12 09:16:00 ENG-PC03 EDR[3324]: Network Connection: chrome.exe -> 142.250.190.85:443
+2026-07-12 09:16:04 ENG-PC03 EDR[3325]: File Access: C:\Users\emma\Documents\design.pptx
+2026-07-12 09:16:08 FIN-PC01 EDR[3326]: Network Connection: chrome.exe -> 142.250.190.200:443
+2026-07-12 09:16:10 ENG-PC03 EDR[3327]: Process Create: chrome.exe
+2026-07-12 09:16:11 HR-PC02 EDR[3328]: Process Create: chrome.exe
+2026-07-12 09:16:12 ENG-PC03 EDR[3329]: File Access: C:\Users\charlie\Documents\design.pptx
+2026-07-12 09:16:14 HR-PC02 EDR[3330]: Process Create: chrome.exe
+2026-07-12 09:16:18 FIN-PC01 EDR[3331]: Process Create: chrome.exe
+2026-07-12 09:16:23 ENG-PC03 EDR[3332]: Process Create: explorer.exe -> WINWORD.EXE User=bob
+2026-07-12 09:16:24 ENG-PC03 EDR[3333]: Network Connection: chrome.exe -> 142.250.190.181:443
+2026-07-12 09:16:25 HR-PC02 EDR[3334]: Process Exit: WINWORD.EXE
+2026-07-12 09:16:26 HR-PC02 EDR[3335]: File Access: C:\Users\charlie\Documents\invoice.pdf
+2026-07-12 09:16:31 ENG-PC03 EDR[3336]: Process Create: chrome.exe
+2026-07-12 09:16:32 ENG-PC03 EDR[3337]: Network Connection: chrome.exe -> 142.250.190.159:443
+2026-07-12 09:16:36 ENG-PC03 EDR[3338]: Process Create: explorer.exe -> WINWORD.EXE User=emma
+2026-07-12 09:16:40 FIN-PC01 EDR[3339]: Network Connection: chrome.exe -> 142.250.190.247:443
+2026-07-12 09:16:44 HR-PC02 EDR[3340]: Network Connection: chrome.exe -> 142.250.190.34:443
+2026-07-12 09:16:48 HR-PC02 EDR[3341]: Process Exit: WINWORD.EXE
+2026-07-12 09:16:51 ENG-PC03 EDR[3342]: Process Create: explorer.exe -> WINWORD.EXE User=emma
+2026-07-12 09:16:56 FIN-PC01 EDR[3343]: Network Connection: chrome.exe -> 142.250.190.120:443
+2026-07-12 09:17:00 ENG-PC03 EDR[3344]: Process Exit: WINWORD.EXE
+2026-07-12 09:17:03 ENG-PC03 EDR[3345]: Process Create: chrome.exe
+2026-07-12 09:17:06 ENG-PC03 EDR[3346]: Network Connection: chrome.exe -> 142.250.190.218:443
+2026-07-12 09:17:11 FIN-PC01 EDR[3347]: File Access: C:\Users\david\Documents\notes.txt
+2026-07-12 09:17:15 HR-PC02 EDR[3348]: File Access: C:\Users\emma\Documents\data.csv
+2026-07-12 09:17:16 FIN-PC01 EDR[3349]: Network Connection: chrome.exe -> 142.250.190.54:443
+2026-07-12 09:17:18 FIN-PC01 EDR[3350]: Process Create: explorer.exe -> WINWORD.EXE User=alice
+2026-07-12 09:17:23 ENG-PC03 EDR[3351]: File Access: C:\Users\charlie\Documents\design.pptx
+2026-07-12 09:17:28 ENG-PC03 EDR[3352]: Process Create: explorer.exe -> WINWORD.EXE User=charlie
+2026-07-12 09:17:32 HR-PC02 EDR[3353]: Network Connection: chrome.exe -> 142.250.190.24:443
+2026-07-12 09:17:37 ENG-PC03 EDR[3354]: Process Create: explorer.exe -> WINWORD.EXE User=charlie
+2026-07-12 09:17:42 HR-PC02 EDR[3355]: File Access: C:\Users\emma\Documents\data.csv
+2026-07-12 09:17:43 HR-PC02 EDR[3356]: Process Create: chrome.exe
+2026-07-12 09:17:46 FIN-PC01 EDR[3357]: Process Create: explorer.exe -> WINWORD.EXE User=charlie
+2026-07-12 09:17:50 FIN-PC01 EDR[3358]: Network Connection: chrome.exe -> 142.250.190.70:443
+2026-07-12 09:17:51 FIN-PC01 EDR[3359]: Network Connection: chrome.exe -> 142.250.190.189:443
+2026-07-12 09:17:53 HR-PC02 EDR[3360]: Process Exit: WINWORD.EXE
+2026-07-12 09:17:56 ENG-PC03 EDR[3361]: Process Create: chrome.exe
+2026-07-12 09:18:00 ENG-PC03 EDR[3362]: Process Exit: WINWORD.EXE
+2026-07-12 09:18:04 FIN-PC01 EDR[3363]: File Access: C:\Users\alice\Documents\data.csv
+2026-07-12 09:18:05 HR-PC02 EDR[3364]: Process Create: chrome.exe
+2026-07-12 09:18:09 HR-PC02 EDR[3365]: Process Create: explorer.exe -> WINWORD.EXE User=emma
+2026-07-12 09:18:11 FIN-PC01 EDR[3366]: Process Create: explorer.exe -> WINWORD.EXE User=emma
+2026-07-12 09:18:13 FIN-PC01 EDR[3367]: Process Exit: WINWORD.EXE
+2026-07-12 09:18:16 ENG-PC03 EDR[3368]: Process Create: chrome.exe
+2026-07-12 09:18:21 HR-PC02 EDR[3369]: Process Create: explorer.exe -> WINWORD.EXE User=alice
+2026-07-12 09:18:23 ENG-PC03 EDR[3370]: Process Exit: WINWORD.EXE
+2026-07-12 09:18:26 FIN-PC01 EDR[3371]: Process Create: explorer.exe -> WINWORD.EXE User=bob
+2026-07-12 09:18:27 HR-PC02 EDR[3372]: Network Connection: chrome.exe -> 142.250.190.39:443
+2026-07-12 09:18:30 FIN-PC01 EDR[3373]: Process Create: chrome.exe
+2026-07-12 09:18:35 ENG-PC03 EDR[3374]: Process Create: chrome.exe
+2026-07-12 09:18:37 HR-PC02 EDR[3375]: Network Connection: chrome.exe -> 142.250.190.219:443
+2026-07-12 09:18:41 FIN-PC01 EDR[3376]: Process Exit: WINWORD.EXE
+2026-07-12 09:18:45 HR-PC02 EDR[3377]: Network Connection: chrome.exe -> 142.250.190.235:443
+2026-07-12 09:18:46 FIN-PC01 EDR[3378]: Network Connection: chrome.exe -> 142.250.190.11:443
+2026-07-12 09:18:51 ENG-PC03 EDR[3379]: Process Create: chrome.exe
+2026-07-12 09:18:55 ENG-PC03 EDR[3380]: Process Create: chrome.exe
+2026-07-12 09:18:57 ENG-PC03 EDR[3381]: Network Connection: chrome.exe -> 142.250.190.177:443
+2026-07-12 09:19:02 HR-PC02 EDR[3382]: File Access: C:\Users\charlie\Documents\design.pptx
+2026-07-12 09:19:07 HR-PC02 EDR[3383]: File Access: C:\Users\emma\Documents\notes.txt
+2026-07-12 09:19:12 HR-PC02 EDR[3384]: Process Create: explorer.exe -> WINWORD.EXE User=bob
+2026-07-12 09:19:15 ENG-PC03 EDR[3385]: File Access: C:\Users\alice\Documents\design.pptx
+2026-07-12 09:19:20 ENG-PC03 EDR[3386]: Process Exit: WINWORD.EXE
+2026-07-12 09:19:24 HR-PC02 EDR[3387]: Process Create: explorer.exe -> WINWORD.EXE User=bob
+2026-07-12 09:19:26 ENG-PC03 EDR[3388]: Process Exit: WINWORD.EXE
+2026-07-12 09:19:29 ENG-PC03 EDR[3389]: Process Exit: WINWORD.EXE
+2026-07-12 09:19:31 ENG-PC03 EDR[3390]: Process Create: chrome.exe
+2026-07-12 09:19:34 FIN-PC01 EDR[3391]: Process Create: explorer.exe -> WINWORD.EXE User=david
+2026-07-12 09:19:35 FIN-PC01 EDR[3392]: Process Exit: WINWORD.EXE
+2026-07-12 09:19:40 FIN-PC01 EDR[3393]: Process Create: chrome.exe
+2026-07-12 09:19:43 ENG-PC03 EDR[3394]: Process Exit: WINWORD.EXE
+2026-07-12 09:19:48 ENG-PC03 EDR[3395]: Process Create: explorer.exe -> WINWORD.EXE User=alice
+2026-07-12 09:19:50 ENG-PC03 EDR[3396]: Process Exit: WINWORD.EXE
+2026-07-12 09:19:52 FIN-PC01 EDR[3397]: Process Create: explorer.exe -> WINWORD.EXE User=charlie
+2026-07-12 09:19:53 FIN-PC01 EDR[3398]: Process Create: chrome.exe
+2026-07-12 09:19:54 FIN-PC01 EDR[3399]: Process Exit: WINWORD.EXE
+2026-07-12 09:19:58 FIN-PC01 EDR[3400]: Process Create: chrome.exe
+2026-07-12 09:20:01 FIN-PC01 EDR[3401]: Process Create: explorer.exe -> WINWORD.EXE User=david
+2026-07-12 09:20:06 FIN-PC01 EDR[3402]: Network Connection: chrome.exe -> 142.250.190.239:443
+2026-07-12 09:20:10 ENG-PC03 EDR[3403]: Process Create: explorer.exe -> WINWORD.EXE User=emma
+2026-07-12 09:20:15 ENG-PC03 EDR[3404]: Process Create: chrome.exe
+2026-07-12 09:20:17 ENG-PC03 EDR[3405]: File Access: C:\Users\bob\Documents\notes.txt
+2026-07-12 09:20:21 HR-PC02 EDR[3406]: Network Connection: chrome.exe -> 142.250.190.224:443
+2026-07-12 09:20:25 ENG-PC03 EDR[3407]: Network Connection: chrome.exe -> 142.250.190.228:443
+2026-07-12 09:20:27 HR-PC02 EDR[3408]: Network Connection: chrome.exe -> 142.250.190.235:443
+2026-07-12 09:20:30 ENG-PC03 EDR[3409]: File Access: C:\Users\david\Documents\report.docx
+2026-07-12 09:20:32 ENG-PC03 EDR[3410]: Network Connection: chrome.exe -> 142.250.190.10:443
+2026-07-12 09:20:34 ENG-PC03 EDR[3411]: Process Create: chrome.exe
+2026-07-12 09:20:38 FIN-PC01 EDR[3412]: File Access: C:\Users\alice\Documents\data.csv
+2026-07-12 09:20:43 HR-PC02 EDR[3413]: Process Create: chrome.exe
+2026-07-12 09:20:48 HR-PC02 EDR[3414]: Process Exit: WINWORD.EXE
+2026-07-12 09:20:52 HR-PC02 EDR[3415]: Process Create: chrome.exe
+2026-07-12 09:20:56 ENG-PC03 EDR[3416]: Process Create: chrome.exe
+2026-07-12 09:21:00 HR-PC02 EDR[3417]: Process Exit: WINWORD.EXE
+2026-07-12 09:21:03 FIN-PC01 EDR[3418]: File Access: C:\Users\bob\Documents\invoice.pdf
+2026-07-12 09:21:04 HR-PC02 EDR[3419]: File Access: C:\Users\charlie\Documents\design.pptx
+2026-07-12 09:21:07 FIN-PC01 EDR[3420]: File Access: C:\Users\david\Documents\invoice.pdf
+2026-07-12 09:21:09 ENG-PC03 EDR[3421]: Process Create: explorer.exe -> WINWORD.EXE User=david
+2026-07-12 09:21:12 HR-PC02 EDR[3422]: File Access: C:\Users\bob\Documents\notes.txt
+2026-07-12 09:21:14 FIN-PC01 EDR[3423]: Process Create: chrome.exe
+2026-07-12 09:21:17 ENG-PC03 EDR[3424]: Process Exit: WINWORD.EXE
+2026-07-12 09:21:22 ENG-PC03 EDR[3425]: Network Connection: chrome.exe -> 142.250.190.58:443
+2026-07-12 09:21:26 ENG-PC03 EDR[3426]: Process Create: explorer.exe -> WINWORD.EXE User=emma
+2026-07-12 09:21:31 FIN-PC01 EDR[3427]: Network Connection: chrome.exe -> 142.250.190.241:443
+2026-07-12 09:21:35 ENG-PC03 EDR[3428]: File Access: C:\Users\emma\Documents\invoice.pdf
+2026-07-12 09:21:36 HR-PC02 EDR[3429]: Process Exit: WINWORD.EXE
+2026-07-12 09:21:37 FIN-PC01 EDR[3430]: Process Create: chrome.exe
+2026-07-12 09:21:39 FIN-PC01 EDR[3431]: Network Connection: chrome.exe -> 142.250.190.55:443
+2026-07-12 09:21:43 FIN-PC01 EDR[3432]: File Access: C:\Users\bob\Documents\report.docx
+2026-07-12 09:21:48 HR-PC02 EDR[3433]: Network Connection: chrome.exe -> 142.250.190.76:443
+2026-07-12 09:21:51 ENG-PC03 EDR[3434]: Process Create: explorer.exe -> WINWORD.EXE User=alice
+2026-07-12 09:21:55 HR-PC02 EDR[3435]: Process Exit: WINWORD.EXE
+2026-07-12 09:21:59 HR-PC02 EDR[3436]: Process Create: explorer.exe -> WINWORD.EXE User=david
+2026-07-12 09:22:03 HR-PC02 EDR[3437]: Process Exit: WINWORD.EXE
+2026-07-12 09:22:07 ENG-PC03 EDR[3438]: Process Exit: WINWORD.EXE
+2026-07-12 09:22:11 FIN-PC01 EDR[3439]: Process Exit: WINWORD.EXE
+2026-07-12 09:22:14 ENG-PC03 EDR[3440]: Network Connection: chrome.exe -> 142.250.190.43:443
+2026-07-12 09:22:18 ENG-PC03 EDR[3441]: Process Create: chrome.exe
+2026-07-12 09:22:20 HR-PC02 EDR[3442]: Process Create: chrome.exe
+2026-07-12 09:22:21 ENG-PC03 EDR[3443]: Process Create: chrome.exe
+2026-07-12 09:22:26 ENG-PC03 EDR[3444]: File Access: C:\Users\charlie\Documents\design.pptx
+2026-07-12 09:22:30 HR-PC02 EDR[3445]: Process Create: chrome.exe
+2026-07-12 09:22:33 HR-PC02 EDR[3446]: File Access: C:\Users\david\Documents\invoice.pdf
+2026-07-12 09:22:38 ENG-PC03 EDR[3447]: File Access: C:\Users\alice\Documents\notes.txt
+2026-07-12 09:22:42 HR-PC02 EDR[3448]: Process Exit: WINWORD.EXE
+2026-07-12 09:22:45 ENG-PC03 EDR[3449]: Process Exit: WINWORD.EXE
+2026-07-12 09:22:50 ENG-PC03 EDR[3450]: Network Connection: chrome.exe -> 142.250.190.198:443
+2026-07-12 09:22:51 ENG-PC03 EDR[3451]: Process Create: explorer.exe -> WINWORD.EXE User=emma
+2026-07-12 09:22:55 HR-PC02 EDR[3452]: File Access: C:\Users\alice\Documents\design.pptx
+2026-07-12 09:22:56 FIN-PC01 EDR[3453]: Process Create: explorer.exe -> WINWORD.EXE User=emma
+2026-07-12 09:22:58 ENG-PC03 EDR[3454]: Process Create: chrome.exe
+2026-07-12 09:23:00 HR-PC02 EDR[3455]: Process Exit: WINWORD.EXE
+2026-07-12 09:23:01 FIN-PC01 EDR[3456]: File Access: C:\Users\emma\Documents\design.pptx
+2026-07-12 09:23:05 FIN-PC01 EDR[3457]: Process Create: explorer.exe -> WINWORD.EXE User=bob
+2026-07-12 09:23:07 ENG-PC03 EDR[3458]: Process Create: chrome.exe
+2026-07-12 09:23:11 FIN-PC01 EDR[3459]: Process Create: chrome.exe
+2026-07-12 09:23:13 FIN-PC01 EDR[3460]: Process Exit: WINWORD.EXE
+2026-07-12 09:23:14 ENG-PC03 EDR[3461]: Network Connection: chrome.exe -> 142.250.190.120:443
+2026-07-12 09:23:16 HR-PC02 EDR[3462]: File Access: C:\Users\david\Documents\notes.txt
+2026-07-12 09:23:19 FIN-PC01 EDR[3463]: Process Create: chrome.exe
+2026-07-12 09:23:21 FIN-PC01 EDR[3464]: File Access: C:\Users\emma\Documents\design.pptx
+2026-07-12 09:23:24 FIN-PC01 EDR[3465]: File Access: C:\Users\charlie\Documents\design.pptx
+2026-07-12 09:23:26 FIN-PC01 EDR[3466]: Process Create: explorer.exe -> WINWORD.EXE User=bob
+2026-07-12 09:23:27 ENG-PC03 EDR[3467]: Process Create: chrome.exe
+2026-07-12 09:23:29 ENG-PC03 EDR[3468]: Process Exit: WINWORD.EXE
+2026-07-12 09:23:32 ENG-PC03 EDR[3469]: Process Exit: WINWORD.EXE
+2026-07-12 09:23:33 ENG-PC03 EDR[3470]: Network Connection: chrome.exe -> 142.250.190.209:443
+2026-07-12 09:23:35 HR-PC02 EDR[3471]: Process Create: chrome.exe
+2026-07-12 09:23:39 HR-PC02 EDR[3472]: Network Connection: chrome.exe -> 142.250.190.120:443
+2026-07-12 09:23:40 FIN-PC01 EDR[3473]: Process Create: chrome.exe
+2026-07-12 09:23:43 HR-PC02 EDR[3474]: Process Create: explorer.exe -> WINWORD.EXE User=bob
+2026-07-12 09:23:47 HR-PC02 EDR[3475]: Process Create: chrome.exe
+2026-07-12 09:23:51 ENG-PC03 EDR[3476]: Process Exit: WINWORD.EXE
+2026-07-12 09:23:53 FIN-PC01 EDR[3477]: Process Create: explorer.exe -> WINWORD.EXE User=emma
+2026-07-12 09:23:57 FIN-PC01 EDR[3478]: File Access: C:\Users\alice\Documents\data.csv
+2026-07-12 09:24:00 ENG-PC03 EDR[3479]: Process Exit: WINWORD.EXE
+2026-07-12 09:24:01 ENG-PC03 EDR[3480]: Network Connection: chrome.exe -> 142.250.190.241:443
+2026-07-12 09:24:06 HR-PC02 EDR[3481]: File Access: C:\Users\charlie\Documents\data.csv
+2026-07-12 09:24:08 FIN-PC01 EDR[3482]: Process Create: explorer.exe -> WINWORD.EXE User=bob
+2026-07-12 09:24:10 FIN-PC01 EDR[3483]: File Access: C:\Users\alice\Documents\report.docx
+2026-07-12 09:24:15 HR-PC02 EDR[3484]: Process Exit: WINWORD.EXE
+2026-07-12 09:24:20 HR-PC02 EDR[3485]: Process Create: chrome.exe
+2026-07-12 09:24:25 FIN-PC01 EDR[3486]: Process Exit: WINWORD.EXE
+2026-07-12 09:24:30 ENG-PC03 EDR[3487]: Process Exit: WINWORD.EXE
+2026-07-12 09:24:31 ENG-PC03 EDR[3488]: Process Create: explorer.exe -> WINWORD.EXE User=alice
+2026-07-12 09:24:34 FIN-PC01 EDR[3489]: Process Create: explorer.exe -> WINWORD.EXE User=charlie
+2026-07-12 09:24:35 HR-PC02 EDR[3490]: Network Connection: chrome.exe -> 142.250.190.78:443
+2026-07-12 09:24:37 FIN-PC01 EDR[3491]: Process Exit: WINWORD.EXE
+2026-07-12 09:24:42 HR-PC02 EDR[3492]: Process Exit: WINWORD.EXE
+2026-07-12 09:24:46 HR-PC02 EDR[3493]: Process Create: chrome.exe
+2026-07-12 09:24:48 HR-PC02 EDR[3494]: Process Exit: WINWORD.EXE
+2026-07-12 09:24:51 HR-PC02 EDR[3495]: Process Exit: WINWORD.EXE
+2026-07-12 09:24:53 HR-PC02 EDR[3496]: Process Exit: WINWORD.EXE
+2026-07-12 09:24:55 ENG-PC03 EDR[3497]: Network Connection: chrome.exe -> 142.250.190.222:443
+2026-07-12 09:24:57 HR-PC02 EDR[3498]: Process Create: chrome.exe
+2026-07-12 09:24:59 FIN-PC01 EDR[3499]: File Access: C:\Users\david\Documents\notes.txt
+2026-07-12 09:25:02 HR-PC02 EDR[3500]: Network Connection: chrome.exe -> 142.250.190.67:443
+2026-07-12 09:25:04 HR-PC02 EDR[3501]: Process Create: chrome.exe
+2026-07-12 09:25:05 FIN-PC01 EDR[3502]: Process Create: chrome.exe
+2026-07-12 09:25:09 HR-PC02 EDR[3503]: File Access: C:\Users\charlie\Documents\invoice.pdf
+2026-07-12 09:25:13 ENG-PC03 EDR[3504]: Process Create: chrome.exe
+2026-07-12 09:25:15 HR-PC02 EDR[3505]: Process Create: chrome.exe
+2026-07-12 09:25:16 HR-PC02 EDR[3506]: File Access: C:\Users\emma\Documents\invoice.pdf
+2026-07-12 09:25:17 HR-PC02 EDR[3507]: Process Create: explorer.exe -> WINWORD.EXE User=david
+2026-07-12 09:25:18 HR-PC02 EDR[3508]: Network Connection: chrome.exe -> 142.250.190.25:443
+2026-07-12 09:25:23 HR-PC02 EDR[3509]: Process Create: explorer.exe -> WINWORD.EXE User=emma
+2026-07-12 09:25:27 ENG-PC03 EDR[3510]: Process Create: explorer.exe -> WINWORD.EXE User=david
+2026-07-12 09:25:31 FIN-PC01 EDR[3511]: File Access: C:\Users\bob\Documents\design.pptx
+2026-07-12 09:25:35 FIN-PC01 EDR[3512]: File Access: C:\Users\emma\Documents\report.docx
+2026-07-12 09:25:37 HR-PC02 EDR[3513]: Process Create: chrome.exe
+2026-07-12 09:25:38 HR-PC02 EDR[3514]: Process Create: explorer.exe -> WINWORD.EXE User=charlie
+2026-07-12 09:25:40 HR-PC02 EDR[3515]: Process Create: chrome.exe
+2026-07-12 09:25:45 HR-PC02 EDR[3516]: Process Create: explorer.exe -> WINWORD.EXE User=charlie
+2026-07-12 09:25:46 FIN-PC01 EDR[3517]: File Access: C:\Users\emma\Documents\report.docx
+2026-07-12 09:25:47 FIN-PC01 EDR[3518]: File Access: C:\Users\alice\Documents\data.csv
+2026-07-12 09:25:50 HR-PC02 EDR[3519]: Network Connection: chrome.exe -> 142.250.190.24:443
+2026-07-12 09:25:52 HR-PC02 EDR[3520]: Process Exit: WINWORD.EXE
+2026-07-12 09:25:53 HR-PC02 EDR[3521]: Network Connection: chrome.exe -> 142.250.190.193:443
+2026-07-12 09:25:54 ENG-PC03 EDR[3522]: Process Create: chrome.exe
+2026-07-12 09:25:58 ENG-PC03 EDR[3523]: Process Create: explorer.exe -> WINWORD.EXE User=bob
+2026-07-12 09:25:59 FIN-PC01 EDR[3524]: Process Create: explorer.exe -> WINWORD.EXE User=emma
+2026-07-12 09:26:03 FIN-PC01 EDR[3525]: File Access: C:\Users\david\Documents\notes.txt
+2026-07-12 09:26:06 ENG-PC03 EDR[3526]: Process Exit: WINWORD.EXE
+2026-07-12 09:26:07 FIN-PC01 EDR[3527]: Process Create: chrome.exe
+2026-07-12 09:26:10 HR-PC02 EDR[3528]: Network Connection: chrome.exe -> 142.250.190.165:443
+2026-07-12 09:26:13 FIN-PC01 EDR[3529]: Network Connection: chrome.exe -> 142.250.190.31:443
+2026-07-12 09:26:17 ENG-PC03 EDR[3530]: Process Create: chrome.exe
+2026-07-12 09:26:21 FIN-PC01 EDR[3531]: Process Create: explorer.exe -> WINWORD.EXE User=bob
+2026-07-12 09:26:24 ENG-PC03 EDR[3532]: Process Create: chrome.exe
+2026-07-12 09:26:25 HR-PC02 EDR[3533]: Process Create: explorer.exe -> WINWORD.EXE User=charlie
+2026-07-12 09:26:27 HR-PC02 EDR[3534]: Process Create: explorer.exe -> WINWORD.EXE User=david
+2026-07-12 09:26:30 HR-PC02 EDR[3535]: Process Create: chrome.exe
+2026-07-12 09:26:31 FIN-PC01 EDR[3536]: File Access: C:\Users\bob\Documents\report.docx
+2026-07-12 09:26:36 FIN-PC01 EDR[3537]: Process Create: chrome.exe
+2026-07-12 09:26:37 ENG-PC03 EDR[3538]: Process Exit: WINWORD.EXE
+2026-07-12 09:26:42 HR-PC02 EDR[3539]: File Access: C:\Users\emma\Documents\budget.xlsx
+2026-07-12 09:26:46 HR-PC02 EDR[3540]: Process Create: explorer.exe -> WINWORD.EXE User=emma
+2026-07-12 09:26:48 FIN-PC01 EDR[3541]: Process Exit: WINWORD.EXE
+2026-07-12 09:26:52 ENG-PC03 EDR[3542]: Network Connection: chrome.exe -> 142.250.190.52:443
+2026-07-12 09:26:54 ENG-PC03 EDR[3543]: Network Connection: chrome.exe -> 142.250.190.207:443
+2026-07-12 09:26:58 ENG-PC03 EDR[3544]: Process Create: chrome.exe
+2026-07-12 09:27:02 ENG-PC03 EDR[3545]: Network Connection: chrome.exe -> 142.250.190.110:443
+2026-07-12 09:27:04 FIN-PC01 EDR[3546]: Process Create: explorer.exe -> WINWORD.EXE User=bob
+2026-07-12 09:27:05 FIN-PC01 EDR[3547]: Process Create: explorer.exe -> WINWORD.EXE User=emma
+2026-07-12 09:27:09 HR-PC02 EDR[3548]: Process Create: explorer.exe -> WINWORD.EXE User=emma
+2026-07-12 09:27:14 HR-PC02 EDR[3549]: Network Connection: chrome.exe -> 142.250.190.18:443
+2026-07-12 09:27:17 HR-PC02 EDR[3550]: Process Create: explorer.exe -> WINWORD.EXE User=bob
+2026-07-12 09:27:19 HR-PC02 EDR[3551]: Process Create: chrome.exe
+2026-07-12 09:27:22 HR-PC02 EDR[3552]: File Access: C:\Users\alice\Documents\report.docx
+2026-07-12 09:27:23 HR-PC02 EDR[3553]: File Access: C:\Users\david\Documents\budget.xlsx
+2026-07-12 09:27:27 HR-PC02 EDR[3554]: Process Exit: WINWORD.EXE
+2026-07-12 09:27:29 ENG-PC03 EDR[3555]: File Access: C:\Users\david\Documents\data.csv
+2026-07-12 09:27:30 FIN-PC01 EDR[3556]: Network Connection: chrome.exe -> 142.250.190.81:443
+2026-07-12 09:27:35 ENG-PC03 EDR[3557]: Process Create: chrome.exe
+2026-07-12 09:27:39 HR-PC02 EDR[3558]: Process Create: chrome.exe
+2026-07-12 09:27:41 ENG-PC03 EDR[3559]: Network Connection: chrome.exe -> 142.250.190.114:443
+2026-07-12 09:27:44 ENG-PC03 EDR[3560]: File Access: C:\Users\charlie\Documents\invoice.pdf
+2026-07-12 09:27:48 FIN-PC01 EDR[3561]: Process Create: chrome.exe
+2026-07-12 09:27:51 FIN-PC01 EDR[3562]: Process Create: explorer.exe -> WINWORD.EXE User=bob
+2026-07-12 09:27:56 ENG-PC03 EDR[3563]: Process Create: chrome.exe
+2026-07-12 09:27:58 FIN-PC01 EDR[3564]: Process Create: chrome.exe
+2026-07-12 09:28:02 FIN-PC01 EDR[3565]: Process Create: chrome.exe
+2026-07-12 09:28:04 FIN-PC01 EDR[3566]: Process Create: chrome.exe
+2026-07-12 09:28:06 HR-PC02 EDR[3567]: Network Connection: chrome.exe -> 142.250.190.39:443
+2026-07-12 09:28:10 ENG-PC03 EDR[3568]: File Access: C:\Users\charlie\Documents\report.docx
+2026-07-12 09:28:13 HR-PC02 EDR[3569]: Network Connection: chrome.exe -> 142.250.190.218:443
+2026-07-12 09:28:15 HR-PC02 EDR[3570]: File Access: C:\Users\charlie\Documents\invoice.pdf
+2026-07-12 09:28:19 HR-PC02 EDR[3571]: Process Exit: WINWORD.EXE
+2026-07-12 09:28:20 FIN-PC01 EDR[3572]: Network Connection: chrome.exe -> 142.250.190.94:443
+2026-07-12 09:28:23 HR-PC02 EDR[3573]: Process Create: chrome.exe
+2026-07-12 09:28:25 FIN-PC01 EDR[3574]: Process Create: chrome.exe
+2026-07-12 09:28:28 HR-PC02 EDR[3575]: Process Exit: WINWORD.EXE
+2026-07-12 09:28:31 FIN-PC01 EDR[3576]: File Access: C:\Users\charlie\Documents\notes.txt
+2026-07-12 09:28:36 HR-PC02 EDR[3577]: Process Exit: WINWORD.EXE
+2026-07-12 09:28:39 HR-PC02 EDR[3578]: Process Create: chrome.exe
+2026-07-12 09:28:40 HR-PC02 EDR[3579]: File Access: C:\Users\david\Documents\data.csv
+2026-07-12 09:28:41 HR-PC02 EDR[3580]: Process Exit: WINWORD.EXE
+2026-07-12 09:28:45 ENG-PC03 EDR[3581]: Process Create: explorer.exe -> WINWORD.EXE User=alice
+2026-07-12 09:28:48 HR-PC02 EDR[3582]: Network Connection: chrome.exe -> 142.250.190.99:443
+2026-07-12 09:28:52 ENG-PC03 EDR[3583]: Network Connection: chrome.exe -> 142.250.190.53:443
+2026-07-12 09:28:53 HR-PC02 EDR[3584]: Process Exit: WINWORD.EXE
+2026-07-12 09:28:57 FIN-PC01 EDR[3585]: Process Create: chrome.exe
+2026-07-12 09:29:01 ENG-PC03 EDR[3586]: Process Create: chrome.exe
+2026-07-12 09:29:04 FIN-PC01 EDR[3587]: Process Create: chrome.exe
+2026-07-12 09:29:08 FIN-PC01 EDR[3588]: Process Create: chrome.exe
+2026-07-12 09:29:10 FIN-PC01 EDR[3589]: Process Create: chrome.exe
+2026-07-12 09:29:12 FIN-PC01 EDR[3590]: Process Create: explorer.exe -> WINWORD.EXE User=alice
+2026-07-12 09:29:14 FIN-PC01 EDR[3591]: Process Create: chrome.exe
+2026-07-12 09:29:19 HR-PC02 EDR[3592]: Process Create: chrome.exe
+2026-07-12 09:29:24 HR-PC02 EDR[3593]: File Access: C:\Users\david\Documents\budget.xlsx
+2026-07-12 09:29:29 HR-PC02 EDR[3594]: File Access: C:\Users\charlie\Documents\design.pptx
+2026-07-12 09:29:32 FIN-PC01 EDR[3595]: Network Connection: chrome.exe -> 142.250.190.56:443
+2026-07-12 09:29:33 FIN-PC01 EDR[3596]: File Access: C:\Users\david\Documents\budget.xlsx
+2026-07-12 09:29:34 FIN-PC01 EDR[3597]: Process Create: chrome.exe
+2026-07-12 09:29:38 FIN-PC01 EDR[3598]: Process Create: explorer.exe -> WINWORD.EXE User=charlie
+2026-07-12 09:29:41 ENG-PC03 EDR[3599]: Network Connection: chrome.exe -> 142.250.190.43:443
+2026-07-12 09:29:43 HR-PC02 EDR[3600]: Process Create: explorer.exe -> WINWORD.EXE User=bob
+2026-07-12 09:29:48 HR-PC02 EDR[3601]: Process Create: chrome.exe
+2026-07-12 09:29:53 FIN-PC01 EDR[3602]: File Access: C:\Users\david\Documents\notes.txt
+2026-07-12 09:29:56 HR-PC02 EDR[3603]: File Access: C:\Users\david\Documents\budget.xlsx
+2026-07-12 09:29:57 FIN-PC01 EDR[3604]: Process Create: chrome.exe
+2026-07-12 09:30:02 ENG-PC03 EDR[3605]: Process Create: chrome.exe
+2026-07-12 09:30:03 FIN-PC01 EDR[3606]: Process Create: explorer.exe -> WINWORD.EXE User=bob
+2026-07-12 09:30:07 FIN-PC01 EDR[3607]: Process Exit: WINWORD.EXE
+2026-07-12 09:30:08 ENG-PC03 EDR[3608]: Process Create: chrome.exe
+2026-07-12 09:30:11 ENG-PC03 EDR[3609]: Process Exit: WINWORD.EXE
+2026-07-12 09:30:16 HR-PC02 EDR[3610]: Process Create: explorer.exe -> WINWORD.EXE User=alice
+2026-07-12 09:30:18 ENG-PC03 EDR[3611]: File Access: C:\Users\alice\Documents\notes.txt
+2026-07-12 09:30:19 HR-PC02 EDR[3612]: Process Exit: WINWORD.EXE
+2026-07-12 09:30:20 HR-PC02 EDR[3613]: Network Connection: chrome.exe -> 142.250.190.20:443
+2026-07-12 09:30:22 HR-PC02 EDR[3614]: Process Exit: WINWORD.EXE
+2026-07-12 09:30:26 FIN-PC01 EDR[3615]: Process Create: explorer.exe -> WINWORD.EXE User=alice
+2026-07-12 09:30:28 ENG-PC03 EDR[3616]: Process Create: chrome.exe
+2026-07-12 09:30:29 ENG-PC03 EDR[3617]: Network Connection: chrome.exe -> 142.250.190.232:443
+2026-07-12 09:30:30 FIN-PC01 EDR[3618]: File Access: C:\Users\alice\Documents\notes.txt
+2026-07-12 09:30:31 HR-PC02 EDR[3619]: Network Connection: chrome.exe -> 142.250.190.65:443
+2026-07-12 09:30:33 FIN-PC01 EDR[3620]: File Access: C:\Users\david\Documents\data.csv
+2026-07-12 09:30:34 HR-PC02 EDR[3621]: Process Exit: WINWORD.EXE
+2026-07-12 09:30:39 FIN-PC01 EDR[3622]: Process Exit: WINWORD.EXE
+2026-07-12 09:30:40 FIN-PC01 EDR[3623]: File Access: C:\Users\charlie\Documents\notes.txt
+2026-07-12 09:30:44 FIN-PC01 EDR[3624]: Network Connection: chrome.exe -> 142.250.190.163:443
+2026-07-12 09:30:47 FIN-PC01 EDR[3625]: Process Create: chrome.exe
+2026-07-12 09:30:49 HR-PC02 EDR[3626]: Network Connection: chrome.exe -> 142.250.190.184:443
+2026-07-12 09:30:50 HR-PC02 EDR[3627]: Process Exit: WINWORD.EXE
+2026-07-12 09:30:51 HR-PC02 EDR[3628]: Process Create: explorer.exe -> WINWORD.EXE User=david
+2026-07-12 09:30:56 ENG-PC03 EDR[3629]: Process Exit: WINWORD.EXE
+2026-07-12 09:31:00 ENG-PC03 EDR[3630]: Network Connection: chrome.exe -> 142.250.190.214:443
+2026-07-12 09:31:04 FIN-PC01 EDR[3631]: Process Create: chrome.exe
+2026-07-12 09:31:09 ENG-PC03 EDR[3632]: Process Create: explorer.exe -> WINWORD.EXE User=david
+2026-07-12 09:31:10 HR-PC02 EDR[3633]: Process Create: explorer.exe -> WINWORD.EXE User=alice
+2026-07-12 09:31:12 FIN-PC01 EDR[3634]: File Access: C:\Users\alice\Documents\notes.txt
+2026-07-12 09:31:13 FIN-PC01 EDR[3635]: Process Create: chrome.exe
+2026-07-12 09:31:15 HR-PC02 EDR[3636]: Process Create: chrome.exe
+2026-07-12 09:31:19 ENG-PC03 EDR[3637]: Process Create: chrome.exe
+2026-07-12 09:31:24 HR-PC02 EDR[3638]: Process Create: chrome.exe
+2026-07-12 09:31:25 HR-PC02 EDR[3639]: Process Create: chrome.exe
+2026-07-12 09:31:26 FIN-PC01 EDR[3640]: Process Create: explorer.exe -> WINWORD.EXE User=david
+2026-07-12 09:31:29 FIN-PC01 EDR[3641]: Process Exit: WINWORD.EXE
+2026-07-12 09:31:30 ENG-PC03 EDR[3642]: Process Create: chrome.exe
+2026-07-12 09:31:34 FIN-PC01 EDR[3643]: Process Exit: WINWORD.EXE
+2026-07-12 09:31:38 ENG-PC03 EDR[3644]: Process Create: chrome.exe
+2026-07-12 09:31:39 HR-PC02 EDR[3645]: Process Create: explorer.exe -> WINWORD.EXE User=emma
+2026-07-12 09:31:44 FIN-PC01 EDR[3646]: Process Exit: WINWORD.EXE
+2026-07-12 09:31:45 HR-PC02 EDR[3647]: File Access: C:\Users\alice\Documents\report.docx
+2026-07-12 09:31:46 FIN-PC01 EDR[3648]: File Access: C:\Users\david\Documents\notes.txt
+2026-07-12 09:31:47 FIN-PC01 EDR[3649]: Process Create: explorer.exe -> WINWORD.EXE User=alice
+2026-07-12 09:31:51 HR-PC02 EDR[3650]: File Access: C:\Users\david\Documents\data.csv
+2026-07-12 09:31:52 FIN-PC01 EDR[3651]: Process Exit: WINWORD.EXE
+2026-07-12 09:31:56 HR-PC02 EDR[3652]: Process Create: chrome.exe
+2026-07-12 09:32:01 ENG-PC03 EDR[3653]: Process Create: chrome.exe
+2026-07-12 09:32:02 ENG-PC03 EDR[3654]: Network Connection: chrome.exe -> 142.250.190.237:443
+2026-07-12 09:32:04 FIN-PC01 EDR[3655]: Process Create: explorer.exe -> WINWORD.EXE User=david
+2026-07-12 09:32:06 ENG-PC03 EDR[3656]: Process Create: explorer.exe -> WINWORD.EXE User=bob
+2026-07-12 09:32:10 FIN-PC01 EDR[3657]: Network Connection: chrome.exe -> 142.250.190.250:443
+2026-07-12 09:32:12 ENG-PC03 EDR[3658]: File Access: C:\Users\david\Documents\budget.xlsx
+2026-07-12 09:32:14 FIN-PC01 EDR[3659]: File Access: C:\Users\charlie\Documents\notes.txt
+2026-07-12 09:32:16 ENG-PC03 EDR[3660]: File Access: C:\Users\bob\Documents\notes.txt
+2026-07-12 09:32:18 HR-PC02 EDR[3661]: Process Exit: WINWORD.EXE
+2026-07-12 09:32:22 ENG-PC03 EDR[3662]: Process Create: chrome.exe
+2026-07-12 09:32:27 FIN-PC01 EDR[3663]: Process Create: explorer.exe -> WINWORD.EXE User=bob
+2026-07-12 09:32:28 HR-PC02 EDR[3664]: File Access: C:\Users\bob\Documents\report.docx
+2026-07-12 09:32:30 ENG-PC03 EDR[3665]: Process Exit: WINWORD.EXE
+2026-07-12 09:32:31 HR-PC02 EDR[3666]: Network Connection: chrome.exe -> 142.250.190.69:443
+2026-07-12 09:32:32 HR-PC02 EDR[3667]: Process Create: chrome.exe
+2026-07-12 09:32:36 ENG-PC03 EDR[3668]: Network Connection: chrome.exe -> 142.250.190.229:443
+2026-07-12 09:32:38 ENG-PC03 EDR[3669]: File Access: C:\Users\charlie\Documents\invoice.pdf
+2026-07-12 09:32:39 FIN-PC01 EDR[3670]: File Access: C:\Users\alice\Documents\invoice.pdf
+2026-07-12 09:32:44 HR-PC02 EDR[3671]: Network Connection: chrome.exe -> 142.250.190.111:443
+2026-07-12 09:32:47 ENG-PC03 EDR[3672]: Process Exit: WINWORD.EXE
+2026-07-12 09:32:49 HR-PC02 EDR[3673]: Network Connection: chrome.exe -> 142.250.190.81:443
+2026-07-12 09:32:54 FIN-PC01 EDR[3674]: Process Create: chrome.exe
+2026-07-12 09:32:59 FIN-PC01 EDR[3675]: Network Connection: chrome.exe -> 142.250.190.70:443
+2026-07-12 09:33:00 FIN-PC01 EDR[3676]: Network Connection: chrome.exe -> 142.250.190.254:443
+2026-07-12 09:33:03 HR-PC02 EDR[3677]: Process Create: chrome.exe
+2026-07-12 09:33:06 ENG-PC03 EDR[3678]: Network Connection: chrome.exe -> 142.250.190.37:443
+2026-07-12 09:33:11 HR-PC02 EDR[3679]: Network Connection: chrome.exe -> 142.250.190.247:443
+2026-07-12 09:33:13 FIN-PC01 EDR[3680]: File Access: C:\Users\david\Documents\design.pptx
+2026-07-12 09:33:17 HR-PC02 EDR[3681]: Process Create: explorer.exe -> WINWORD.EXE User=bob
+2026-07-12 09:33:20 ENG-PC03 EDR[3682]: Network Connection: chrome.exe -> 142.250.190.243:443
+2026-07-12 09:33:22 HR-PC02 EDR[3683]: Network Connection: chrome.exe -> 142.250.190.222:443
+2026-07-12 09:33:26 HR-PC02 EDR[3684]: Process Create: chrome.exe
+2026-07-12 09:33:27 FIN-PC01 EDR[3685]: Network Connection: chrome.exe -> 142.250.190.5:443
+2026-07-12 09:33:31 HR-PC02 EDR[3686]: File Access: C:\Users\david\Documents\data.csv
+2026-07-12 09:33:35 HR-PC02 EDR[3687]: Network Connection: chrome.exe -> 142.250.190.11:443
+2026-07-12 09:33:38 FIN-PC01 EDR[3688]: File Access: C:\Users\alice\Documents\notes.txt
+2026-07-12 09:33:42 ENG-PC03 EDR[3689]: Process Exit: WINWORD.EXE
+2026-07-12 09:33:47 FIN-PC01 EDR[3690]: Network Connection: chrome.exe -> 142.250.190.22:443
+2026-07-12 09:33:50 ENG-PC03 EDR[3691]: Process Create: chrome.exe
+2026-07-12 09:33:54 ENG-PC03 EDR[3692]: Process Exit: WINWORD.EXE
+2026-07-12 09:33:59 HR-PC02 EDR[3693]: Process Exit: WINWORD.EXE
+2026-07-12 09:34:01 HR-PC02 EDR[3694]: Process Exit: WINWORD.EXE
+2026-07-12 09:34:05 ENG-PC03 EDR[3695]: Process Create: explorer.exe -> WINWORD.EXE User=david
+2026-07-12 09:34:06 ENG-PC03 EDR[3696]: Process Create: chrome.exe
+2026-07-12 09:34:10 FIN-PC01 EDR[3697]: Process Create: chrome.exe
+2026-07-12 09:34:11 FIN-PC01 EDR[3698]: Process Create: chrome.exe
+2026-07-12 09:34:12 ENG-PC03 EDR[3699]: File Access: C:\Users\bob\Documents\data.csv
+2026-07-12 09:34:17 FIN-PC01 EDR[3700]: Process Exit: WINWORD.EXE
+2026-07-12 09:34:18 ENG-PC03 EDR[3701]: Network Connection: chrome.exe -> 142.250.190.105:443
+2026-07-12 09:34:23 FIN-PC01 EDR[3702]: Network Connection: chrome.exe -> 142.250.190.160:443
+2026-07-12 09:34:28 FIN-PC01 EDR[3703]: Process Create: explorer.exe -> WINWORD.EXE User=emma
+2026-07-12 09:34:33 FIN-PC01 EDR[3704]: Process Exit: WINWORD.EXE
+2026-07-12 09:34:34 HR-PC02 EDR[3705]: File Access: C:\Users\david\Documents\design.pptx
+2026-07-12 09:34:35 ENG-PC03 EDR[3706]: Process Exit: WINWORD.EXE
+2026-07-12 09:34:38 FIN-PC01 EDR[3707]: File Access: C:\Users\david\Documents\design.pptx
+2026-07-12 09:34:41 FIN-PC01 EDR[3708]: Process Create: explorer.exe -> WINWORD.EXE User=emma
+2026-07-12 09:34:46 FIN-PC01 EDR[3709]: Process Create: explorer.exe -> WINWORD.EXE User=charlie
+2026-07-12 09:34:50 FIN-PC01 EDR[3710]: Process Create: chrome.exe
+2026-07-12 09:34:55 HR-PC02 EDR[3711]: Process Create: chrome.exe
+2026-07-12 09:34:59 ENG-PC03 EDR[3712]: Process Create: chrome.exe
+2026-07-12 09:35:02 HR-PC02 EDR[3713]: File Access: C:\Users\charlie\Documents\notes.txt
+2026-07-12 09:35:05 HR-PC02 EDR[3714]: Process Create: chrome.exe
+2026-07-12 09:35:09 FIN-PC01 EDR[3715]: Process Create: chrome.exe
+2026-07-12 09:35:10 HR-PC02 EDR[3716]: Process Exit: WINWORD.EXE
+2026-07-12 09:35:14 HR-PC02 EDR[3717]: Process Exit: WINWORD.EXE
+2026-07-12 09:35:17 ENG-PC03 EDR[3718]: Process Create: chrome.exe
+2026-07-12 09:35:22 HR-PC02 EDR[3719]: Network Connection: chrome.exe -> 142.250.190.15:443
+2026-07-12 09:35:23 ENG-PC03 EDR[3720]: File Access: C:\Users\charlie\Documents\design.pptx
+2026-07-12 09:35:27 HR-PC02 EDR[3721]: Process Create: explorer.exe -> WINWORD.EXE User=alice
+2026-07-12 09:35:32 FIN-PC01 EDR[3722]: File Access: C:\Users\bob\Documents\notes.txt
+2026-07-12 09:35:36 ENG-PC03 EDR[3723]: Process Exit: WINWORD.EXE
+2026-07-12 09:35:37 HR-PC02 EDR[3724]: Process Exit: WINWORD.EXE
+2026-07-12 09:35:41 FIN-PC01 EDR[3725]: Process Create: chrome.exe
+2026-07-12 09:35:46 FIN-PC01 EDR[3726]: Process Exit: WINWORD.EXE
+2026-07-12 09:35:50 HR-PC02 EDR[3727]: Process Exit: WINWORD.EXE
+2026-07-12 09:35:52 FIN-PC01 EDR[3728]: Network Connection: chrome.exe -> 142.250.190.91:443
+2026-07-12 09:35:55 HR-PC02 EDR[3729]: Process Create: explorer.exe -> WINWORD.EXE User=bob
+2026-07-12 09:35:58 ENG-PC03 EDR[3730]: Process Create: chrome.exe
+2026-07-12 09:36:01 ENG-PC03 EDR[3731]: Process Create: chrome.exe
+2026-07-12 09:36:02 HR-PC02 EDR[3732]: Process Exit: WINWORD.EXE
+2026-07-12 09:36:05 ENG-PC03 EDR[3733]: Network Connection: chrome.exe -> 142.250.190.181:443
+2026-07-12 09:36:08 ENG-PC03 EDR[3734]: Process Create: explorer.exe -> WINWORD.EXE User=david
+2026-07-12 09:36:13 HR-PC02 EDR[3735]: Process Create: chrome.exe
+2026-07-12 09:36:15 HR-PC02 EDR[3736]: Process Create: chrome.exe
+2026-07-12 09:36:19 ENG-PC03 EDR[3737]: Process Exit: WINWORD.EXE
+2026-07-12 09:36:23 FIN-PC01 EDR[3738]: Process Create: chrome.exe
+2026-07-12 09:36:26 HR-PC02 EDR[3739]: Process Create: explorer.exe -> WINWORD.EXE User=david
+2026-07-12 09:36:30 HR-PC02 EDR[3740]: Process Create: chrome.exe
+2026-07-12 09:36:35 HR-PC02 EDR[3741]: Network Connection: chrome.exe -> 142.250.190.170:443
+2026-07-12 09:36:39 ENG-PC03 EDR[3742]: Process Create: chrome.exe
+2026-07-12 09:36:43 HR-PC02 EDR[3743]: Process Create: chrome.exe
+2026-07-12 09:36:47 HR-PC02 EDR[3744]: File Access: C:\Users\emma\Documents\design.pptx
+2026-07-12 09:36:49 ENG-PC03 EDR[3745]: Process Create: explorer.exe -> WINWORD.EXE User=charlie
+2026-07-12 09:36:50 FIN-PC01 EDR[3746]: Process Create: explorer.exe -> WINWORD.EXE User=bob
+2026-07-12 09:36:54 HR-PC02 EDR[3747]: Process Create: explorer.exe -> WINWORD.EXE User=david
+2026-07-12 09:36:59 ENG-PC03 EDR[3748]: Network Connection: chrome.exe -> 142.250.190.252:443
+2026-07-12 09:37:04 ENG-PC03 EDR[3749]: Process Create: explorer.exe -> WINWORD.EXE User=charlie
+2026-07-12 09:37:06 ENG-PC03 EDR[3750]: File Access: C:\Users\alice\Documents\data.csv
+2026-07-12 09:37:10 ENG-PC03 EDR[3751]: Process Exit: WINWORD.EXE
+2026-07-12 09:37:13 ENG-PC03 EDR[3752]: Process Create: chrome.exe
+2026-07-12 09:37:18 HR-PC02 EDR[3753]: Process Create: chrome.exe
+2026-07-12 09:37:20 ENG-PC03 EDR[3754]: Process Create: explorer.exe -> WINWORD.EXE User=charlie
+2026-07-12 09:37:22 HR-PC02 EDR[3755]: Process Create: chrome.exe
+2026-07-12 09:37:24 FIN-PC01 EDR[3756]: Process Create: explorer.exe -> WINWORD.EXE User=emma
+2026-07-12 09:37:29 ENG-PC03 EDR[3757]: Process Exit: WINWORD.EXE
+2026-07-12 09:37:34 FIN-PC01 EDR[3758]: Process Create: explorer.exe -> WINWORD.EXE User=charlie
+2026-07-12 09:37:39 FIN-PC01 EDR[3759]: Network Connection: chrome.exe -> 142.250.190.37:443
+2026-07-12 09:37:40 HR-PC02 EDR[3760]: Process Create: explorer.exe -> WINWORD.EXE User=charlie
+2026-07-12 09:37:41 FIN-PC01 EDR[3761]: File Access: C:\Users\bob\Documents\invoice.pdf
+2026-07-12 09:37:42 HR-PC02 EDR[3762]: File Access: C:\Users\emma\Documents\report.docx
+2026-07-12 09:37:44 FIN-PC01 EDR[3763]: Network Connection: chrome.exe -> 142.250.190.179:443
+2026-07-12 09:37:45 ENG-PC03 EDR[3764]: Network Connection: chrome.exe -> 142.250.190.5:443
+2026-07-12 09:37:49 FIN-PC01 EDR[3765]: Process Create: chrome.exe
+2026-07-12 09:37:50 FIN-PC01 EDR[3766]: Process Create: chrome.exe
+2026-07-12 09:37:51 ENG-PC03 EDR[3767]: Process Create: chrome.exe
+2026-07-12 09:37:54 HR-PC02 EDR[3768]: Process Create: chrome.exe
+2026-07-12 09:37:59 ENG-PC03 EDR[3769]: Process Create: chrome.exe
+2026-07-12 09:38:03 HR-PC02 EDR[3770]: Process Exit: WINWORD.EXE
+2026-07-12 09:38:07 FIN-PC01 EDR[3771]: Network Connection: chrome.exe -> 142.250.190.187:443
+2026-07-12 09:38:12 ENG-PC03 EDR[3772]: Process Exit: WINWORD.EXE
+2026-07-12 09:38:14 HR-PC02 EDR[3773]: File Access: C:\Users\david\Documents\report.docx
+2026-07-12 09:38:15 ENG-PC03 EDR[3774]: Process Exit: WINWORD.EXE
+2026-07-12 09:38:19 ENG-PC03 EDR[3775]: Process Exit: WINWORD.EXE
+2026-07-12 09:38:22 ENG-PC03 EDR[3776]: Process Exit: WINWORD.EXE
+2026-07-12 09:38:24 ENG-PC03 EDR[3777]: File Access: C:\Users\bob\Documents\data.csv
+2026-07-12 09:38:28 ENG-PC03 EDR[3778]: Network Connection: chrome.exe -> 142.250.190.177:443
+2026-07-12 09:38:32 ENG-PC03 EDR[3779]: Network Connection: chrome.exe -> 142.250.190.150:443
+2026-07-12 09:38:33 ENG-PC03 EDR[3780]: Network Connection: chrome.exe -> 142.250.190.254:443
+2026-07-12 09:38:37 FIN-PC01 EDR[3781]: Process Exit: WINWORD.EXE
+2026-07-12 09:38:42 FIN-PC01 EDR[3782]: Network Connection: chrome.exe -> 142.250.190.185:443
+2026-07-12 09:38:46 FIN-PC01 EDR[3783]: Process Create: chrome.exe
+2026-07-12 09:38:49 ENG-PC03 EDR[3784]: Process Exit: WINWORD.EXE
+2026-07-12 09:38:53 ENG-PC03 EDR[3785]: Process Exit: WINWORD.EXE
+2026-07-12 09:38:58 HR-PC02 EDR[3786]: Process Exit: WINWORD.EXE
+2026-07-12 09:38:59 FIN-PC01 EDR[3787]: Process Create: chrome.exe
+2026-07-12 09:39:00 ENG-PC03 EDR[3788]: Process Create: chrome.exe
+2026-07-12 09:39:04 ENG-PC03 EDR[3789]: Network Connection: chrome.exe -> 142.250.190.183:443
+2026-07-12 09:39:06 FIN-PC01 EDR[3790]: Process Exit: WINWORD.EXE
+2026-07-12 09:39:11 ENG-PC03 EDR[3791]: Network Connection: chrome.exe -> 142.250.190.249:443
+2026-07-12 09:39:16 ENG-PC03 EDR[3792]: Process Exit: WINWORD.EXE
+2026-07-12 09:39:18 HR-PC02 EDR[3793]: Process Create: chrome.exe
+2026-07-12 09:39:20 ENG-PC03 EDR[3794]: Process Create: chrome.exe
+2026-07-12 09:39:21 HR-PC02 EDR[3795]: Process Create: chrome.exe
+2026-07-12 09:39:23 HR-PC02 EDR[3796]: Process Create: explorer.exe -> WINWORD.EXE User=david
+2026-07-12 09:39:24 ENG-PC03 EDR[3797]: Network Connection: chrome.exe -> 142.250.190.209:443
+2026-07-12 09:39:27 ENG-PC03 EDR[3798]: Process Create: explorer.exe -> WINWORD.EXE User=charlie
+2026-07-12 09:39:31 ENG-PC03 EDR[3799]: Process Exit: WINWORD.EXE
+2026-07-12 09:39:36 FIN-PC01 EDR[3800]: File Access: C:\Users\emma\Documents\budget.xlsx
+2026-07-12 09:39:39 HR-PC02 EDR[3801]: Process Exit: WINWORD.EXE
+2026-07-12 09:39:41 HR-PC02 EDR[3802]: Process Create: chrome.exe
+2026-07-12 09:39:43 FIN-PC01 EDR[3803]: Network Connection: chrome.exe -> 142.250.190.254:443
+2026-07-12 09:39:44 FIN-PC01 EDR[3804]: Process Exit: WINWORD.EXE
+2026-07-12 09:39:45 HR-PC02 EDR[3805]: File Access: C:\Users\david\Documents\invoice.pdf
+2026-07-12 09:39:46 ENG-PC03 EDR[3806]: Network Connection: chrome.exe -> 142.250.190.204:443
+2026-07-12 09:39:48 HR-PC02 EDR[3807]: Process Create: explorer.exe -> WINWORD.EXE User=david
+2026-07-12 09:39:51 HR-PC02 EDR[3808]: Network Connection: chrome.exe -> 142.250.190.231:443
+2026-07-12 09:39:56 HR-PC02 EDR[3809]: Network Connection: chrome.exe -> 142.250.190.149:443
+2026-07-12 09:40:00 ENG-PC03 EDR[3810]: Process Create: explorer.exe -> WINWORD.EXE User=alice
+2026-07-12 09:40:01 FIN-PC01 EDR[3811]: Process Create: chrome.exe
+2026-07-12 09:40:03 FIN-PC01 EDR[3812]: Process Create: chrome.exe
+2026-07-12 09:40:08 ENG-PC03 EDR[3813]: Process Create: chrome.exe
+2026-07-12 09:40:12 ENG-PC03 EDR[3814]: Process Exit: WINWORD.EXE
+2026-07-12 09:40:13 HR-PC02 EDR[3815]: Process Create: explorer.exe -> WINWORD.EXE User=emma
+2026-07-12 09:40:17 ENG-PC03 EDR[3816]: Process Create: chrome.exe
+2026-07-12 09:40:18 HR-PC02 EDR[3817]: Process Create: explorer.exe -> WINWORD.EXE User=david
+2026-07-12 09:40:19 FIN-PC01 EDR[3818]: Process Create: explorer.exe -> WINWORD.EXE User=david
+2026-07-12 09:40:22 HR-PC02 EDR[3819]: Process Create: chrome.exe
+2026-07-12 09:40:23 FIN-PC01 EDR[3820]: Network Connection: chrome.exe -> 142.250.190.35:443
+2026-07-12 09:40:27 ENG-PC03 EDR[3821]: Process Exit: WINWORD.EXE
+2026-07-12 09:40:30 FIN-PC01 EDR[3822]: Process Create: chrome.exe
+2026-07-12 09:40:31 ENG-PC03 EDR[3823]: Process Create: chrome.exe
+2026-07-12 09:40:32 HR-PC02 EDR[3824]: Network Connection: chrome.exe -> 142.250.190.216:443
+2026-07-12 09:40:37 ENG-PC03 EDR[3825]: Process Create: explorer.exe -> WINWORD.EXE User=charlie
+2026-07-12 09:40:39 ENG-PC03 EDR[3826]: Process Create: chrome.exe
+2026-07-12 09:40:43 ENG-PC03 EDR[3827]: Process Create: chrome.exe
+2026-07-12 09:40:47 ENG-PC03 EDR[3828]: Process Exit: WINWORD.EXE
+2026-07-12 09:40:49 FIN-PC01 EDR[3829]: Process Create: explorer.exe -> WINWORD.EXE User=alice
+2026-07-12 09:40:53 ENG-PC03 EDR[3830]: Network Connection: chrome.exe -> 142.250.190.47:443
+2026-07-12 09:40:58 ENG-PC03 EDR[3831]: Process Exit: WINWORD.EXE
+2026-07-12 09:41:00 ENG-PC03 EDR[3832]: Process Create: explorer.exe -> WINWORD.EXE User=charlie
+2026-07-12 09:41:05 FIN-PC01 EDR[3833]: Process Create: chrome.exe
+2026-07-12 09:41:06 HR-PC02 EDR[3834]: Process Create: explorer.exe -> WINWORD.EXE User=emma
+2026-07-12 09:41:11 HR-PC02 EDR[3835]: Network Connection: chrome.exe -> 142.250.190.149:443
+2026-07-12 09:41:13 ENG-PC03 EDR[3836]: File Access: C:\Users\emma\Documents\data.csv
+2026-07-12 09:41:15 ENG-PC03 EDR[3837]: Network Connection: chrome.exe -> 142.250.190.176:443
+2026-07-12 09:41:18 FIN-PC01 EDR[3838]: Process Create: chrome.exe
+2026-07-12 09:41:20 ENG-PC03 EDR[3839]: Network Connection: chrome.exe -> 142.250.190.215:443
+2026-07-12 09:41:24 FIN-PC01 EDR[3840]: File Access: C:\Users\david\Documents\invoice.pdf
+2026-07-12 09:41:27 ENG-PC03 EDR[3841]: Process Exit: WINWORD.EXE
+2026-07-12 09:41:28 ENG-PC03 EDR[3842]: Process Create: explorer.exe -> WINWORD.EXE User=david
+2026-07-12 09:41:33 FIN-PC01 EDR[3843]: Network Connection: chrome.exe -> 142.250.190.218:443
+2026-07-12 09:41:34 HR-PC02 EDR[3844]: Network Connection: chrome.exe -> 142.250.190.38:443
+2026-07-12 09:41:36 FIN-PC01 EDR[3845]: Process Exit: WINWORD.EXE
+2026-07-12 09:41:39 ENG-PC03 EDR[3846]: Process Exit: WINWORD.EXE
+2026-07-12 09:41:43 ENG-PC03 EDR[3847]: Process Create: explorer.exe -> WINWORD.EXE User=david
+2026-07-12 09:41:48 ENG-PC03 EDR[3848]: File Access: C:\Users\alice\Documents\data.csv
+2026-07-12 09:41:53 ENG-PC03 EDR[3849]: File Access: C:\Users\david\Documents\design.pptx
+2026-07-12 09:41:57 FIN-PC01 EDR[3850]: File Access: C:\Users\alice\Documents\data.csv
+2026-07-12 09:41:59 FIN-PC01 EDR[3851]: Process Create: chrome.exe
+2026-07-12 09:42:01 HR-PC02 EDR[3852]: Network Connection: chrome.exe -> 142.250.190.108:443
+2026-07-12 09:42:02 FIN-PC01 EDR[3853]: Process Create: chrome.exe
+2026-07-12 09:42:06 ENG-PC03 EDR[3854]: Network Connection: chrome.exe -> 142.250.190.66:443
+2026-07-12 09:42:09 HR-PC02 EDR[3855]: Process Exit: WINWORD.EXE
+2026-07-12 09:42:12 FIN-PC01 EDR[3856]: Process Exit: WINWORD.EXE
+2026-07-12 09:42:15 FIN-PC01 EDR[3857]: Process Create: explorer.exe -> WINWORD.EXE User=bob
+2026-07-12 09:42:18 ENG-PC03 EDR[3858]: Process Create: explorer.exe -> WINWORD.EXE User=charlie
+2026-07-12 09:42:23 HR-PC02 EDR[3859]: File Access: C:\Users\emma\Documents\invoice.pdf
+2026-07-12 09:42:25 ENG-PC03 EDR[3860]: File Access: C:\Users\emma\Documents\design.pptx
+2026-07-12 09:42:28 HR-PC02 EDR[3861]: Network Connection: chrome.exe -> 142.250.190.246:443
+2026-07-12 09:42:30 HR-PC02 EDR[3862]: File Access: C:\Users\emma\Documents\invoice.pdf
+2026-07-12 09:42:33 HR-PC02 EDR[3863]: Process Create: explorer.exe -> WINWORD.EXE User=emma
+2026-07-12 09:42:38 ENG-PC03 EDR[3864]: Network Connection: chrome.exe -> 142.250.190.35:443
+2026-07-12 09:42:39 ENG-PC03 EDR[3865]: Process Create: chrome.exe
+2026-07-12 09:42:42 FIN-PC01 EDR[3866]: Network Connection: chrome.exe -> 142.250.190.10:443
+2026-07-12 09:42:45 ENG-PC03 EDR[3867]: Process Create: explorer.exe -> WINWORD.EXE User=charlie
+2026-07-12 09:42:49 HR-PC02 EDR[3868]: Process Create: explorer.exe -> WINWORD.EXE User=emma
+2026-07-12 09:42:51 ENG-PC03 EDR[3869]: File Access: C:\Users\bob\Documents\data.csv
+2026-07-12 09:42:55 FIN-PC01 EDR[3870]: Process Create: chrome.exe
+2026-07-12 09:42:56 ENG-PC03 EDR[3871]: Process Create: chrome.exe
+2026-07-12 09:42:57 FIN-PC01 EDR[3872]: Network Connection: chrome.exe -> 142.250.190.59:443
+2026-07-12 09:42:58 FIN-PC01 EDR[3873]: Process Create: chrome.exe
+2026-07-12 09:42:59 HR-PC02 EDR[3874]: Process Create: chrome.exe
+2026-07-12 09:43:04 FIN-PC01 EDR[3875]: Process Exit: WINWORD.EXE
+2026-07-12 09:43:05 FIN-PC01 EDR[3876]: Process Create: explorer.exe -> WINWORD.EXE User=alice
+2026-07-12 09:43:09 FIN-PC01 EDR[3877]: File Access: C:\Users\david\Documents\data.csv
+2026-07-12 09:43:14 HR-PC02 EDR[3878]: Process Create: chrome.exe
+2026-07-12 09:43:15 HR-PC02 EDR[3879]: Process Create: chrome.exe
+2026-07-12 09:43:18 FIN-PC01 EDR[3880]: Process Create: explorer.exe -> WINWORD.EXE User=bob
+2026-07-12 09:43:21 ENG-PC03 EDR[3881]: Process Exit: WINWORD.EXE
+2026-07-12 09:43:24 HR-PC02 EDR[3882]: Process Create: chrome.exe
+2026-07-12 09:43:29 FIN-PC01 EDR[3883]: Process Exit: WINWORD.EXE
+2026-07-12 09:43:33 FIN-PC01 EDR[3884]: File Access: C:\Users\bob\Documents\notes.txt
+2026-07-12 09:43:38 HR-PC02 EDR[3885]: Process Create: chrome.exe
+2026-07-12 09:43:43 ENG-PC03 EDR[3886]: Network Connection: chrome.exe -> 142.250.190.254:443
+2026-07-12 09:43:44 FIN-PC01 EDR[3887]: Process Create: explorer.exe -> WINWORD.EXE User=david
+2026-07-12 09:43:47 ENG-PC03 EDR[3888]: File Access: C:\Users\emma\Documents\invoice.pdf
+2026-07-12 09:43:50 FIN-PC01 EDR[3889]: Network Connection: chrome.exe -> 142.250.190.151:443
+2026-07-12 09:43:53 FIN-PC01 EDR[3890]: Process Create: chrome.exe
+2026-07-12 09:43:58 ENG-PC03 EDR[3891]: Network Connection: chrome.exe -> 142.250.190.167:443
+2026-07-12 09:44:03 ENG-PC03 EDR[3892]: Network Connection: chrome.exe -> 142.250.190.185:443
+2026-07-12 09:44:06 FIN-PC01 EDR[3893]: Process Create: chrome.exe
+2026-07-12 09:44:08 HR-PC02 EDR[3894]: Process Exit: WINWORD.EXE
+2026-07-12 09:44:09 HR-PC02 EDR[3895]: Process Create: explorer.exe -> WINWORD.EXE User=emma
+2026-07-12 09:44:12 FIN-PC01 EDR[3896]: Network Connection: chrome.exe -> 142.250.190.56:443
+2026-07-12 09:44:16 HR-PC02 EDR[3897]: File Access: C:\Users\bob\Documents\data.csv
+2026-07-12 09:44:18 HR-PC02 EDR[3898]: Process Create: chrome.exe
+2026-07-12 09:44:20 HR-PC02 EDR[3899]: Network Connection: chrome.exe -> 142.250.190.52:443
+2026-07-12 09:44:22 HR-PC02 EDR[3900]: Process Create: chrome.exe
+2026-07-12 09:44:24 FIN-PC01 EDR[3901]: Process Create: WINWORD.EXE -> powershell.exe -EncodedCommand ...
+2026-07-12 09:44:26 FIN-PC01 EDR[3902]: Network Connection: powershell.exe -> 198.51.100.25:443
+2026-07-12 09:44:28 FIN-PC01 EDR[3903]: Process Create: powershell.exe -> certutil.exe -urlcache -split -f payload.exe
+2026-07-12 09:44:30 FIN-PC01 EDR[3904]: File Create: C:\Users\alice\AppData\Local\Temp\payload.exe
+2026-07-12 09:44:32 FIN-PC01 EDR[3905]: Process Create: payload.exe
+2026-07-12 09:44:34 FIN-PC01 EDR[3906]: Shadow Copy Delete: vssadmin Delete Shadows /All /Quiet
+2026-07-12 09:44:36 FIN-PC01 EDR[3907]: Backup Service Stopped
+2026-07-12 09:44:38 FIN-PC01 EDR[3908]: Windows Defender Real-time Protection Disabled
+2026-07-12 09:44:38 FIN-PC01 EDR[3909]: File Renamed: C:\Users\alice\Documents\file0.pptx -> file0.pptx.locked
+2026-07-12 09:44:39 FIN-PC01 EDR[3910]: File Renamed: C:\Users\alice\Documents\file1.xlsx -> file1.xlsx.locked
+2026-07-12 09:44:39 FIN-PC01 EDR[3911]: File Renamed: C:\Users\alice\Documents\file2.xlsx -> file2.xlsx.locked
+2026-07-12 09:44:40 FIN-PC01 EDR[3912]: File Renamed: C:\Users\alice\Documents\file3.jpg -> file3.jpg.locked
+2026-07-12 09:44:40 FIN-PC01 EDR[3913]: File Renamed: C:\Users\alice\Documents\file4.jpg -> file4.jpg.locked
+2026-07-12 09:44:41 FIN-PC01 EDR[3914]: File Renamed: C:\Users\alice\Documents\file5.pptx -> file5.pptx.locked
+2026-07-12 09:44:41 FIN-PC01 EDR[3915]: File Renamed: C:\Users\alice\Documents\file6.pptx -> file6.pptx.locked
+2026-07-12 09:44:42 FIN-PC01 EDR[3916]: File Renamed: C:\Users\alice\Documents\file7.pptx -> file7.pptx.locked
+2026-07-12 09:44:42 FIN-PC01 EDR[3917]: File Renamed: C:\Users\alice\Documents\file8.pptx -> file8.pptx.locked
+2026-07-12 09:44:43 FIN-PC01 EDR[3918]: File Renamed: C:\Users\alice\Documents\file9.pptx -> file9.pptx.locked
+2026-07-12 09:44:43 FIN-PC01 EDR[3919]: File Renamed: C:\Users\alice\Documents\file10.pdf -> file10.pdf.locked
+2026-07-12 09:44:44 FIN-PC01 EDR[3920]: File Renamed: C:\Users\alice\Documents\file11.docx -> file11.docx.locked
+2026-07-12 09:44:44 FIN-PC01 EDR[3921]: File Renamed: C:\Users\alice\Documents\file12.docx -> file12.docx.locked
+2026-07-12 09:44:45 FIN-PC01 EDR[3922]: File Renamed: C:\Users\alice\Documents\file13.docx -> file13.docx.locked
+2026-07-12 09:44:45 FIN-PC01 EDR[3923]: File Renamed: C:\Users\alice\Documents\file14.jpg -> file14.jpg.locked
+2026-07-12 09:44:46 FIN-PC01 EDR[3924]: File Renamed: C:\Users\alice\Documents\file15.pdf -> file15.pdf.locked
+2026-07-12 09:44:46 FIN-PC01 EDR[3925]: File Renamed: C:\Users\alice\Documents\file16.docx -> file16.docx.locked
+2026-07-12 09:44:47 FIN-PC01 EDR[3926]: File Renamed: C:\Users\alice\Documents\file17.jpg -> file17.jpg.locked
+2026-07-12 09:44:47 FIN-PC01 EDR[3927]: File Renamed: C:\Users\alice\Documents\file18.xlsx -> file18.xlsx.locked
+2026-07-12 09:44:48 FIN-PC01 EDR[3928]: File Renamed: C:\Users\alice\Documents\file19.jpg -> file19.jpg.locked
+2026-07-12 09:44:48 FIN-PC01 EDR[3929]: File Renamed: C:\Users\alice\Documents\file20.pdf -> file20.pdf.locked
+2026-07-12 09:44:49 FIN-PC01 EDR[3930]: File Renamed: C:\Users\alice\Documents\file21.pptx -> file21.pptx.locked
+2026-07-12 09:44:49 FIN-PC01 EDR[3931]: File Renamed: C:\Users\alice\Documents\file22.jpg -> file22.jpg.locked
+2026-07-12 09:44:50 FIN-PC01 EDR[3932]: File Renamed: C:\Users\alice\Documents\file23.pdf -> file23.pdf.locked
+2026-07-12 09:44:50 FIN-PC01 EDR[3933]: File Renamed: C:\Users\alice\Documents\file24.jpg -> file24.jpg.locked
+2026-07-12 09:44:51 FIN-PC01 EDR[3934]: File Renamed: C:\Users\alice\Documents\file25.pptx -> file25.pptx.locked
+2026-07-12 09:44:51 FIN-PC01 EDR[3935]: File Renamed: C:\Users\alice\Documents\file26.pptx -> file26.pptx.locked
+2026-07-12 09:44:52 FIN-PC01 EDR[3936]: File Renamed: C:\Users\alice\Documents\file27.pptx -> file27.pptx.locked
+2026-07-12 09:44:52 FIN-PC01 EDR[3937]: File Renamed: C:\Users\alice\Documents\file28.xlsx -> file28.xlsx.locked
+2026-07-12 09:44:53 FIN-PC01 EDR[3938]: File Renamed: C:\Users\alice\Documents\file29.xlsx -> file29.xlsx.locked
+2026-07-12 09:44:53 FIN-PC01 EDR[3939]: File Renamed: C:\Users\alice\Documents\file30.jpg -> file30.jpg.locked
+2026-07-12 09:44:54 FIN-PC01 EDR[3940]: File Renamed: C:\Users\alice\Documents\file31.pptx -> file31.pptx.locked
+2026-07-12 09:44:54 FIN-PC01 EDR[3941]: File Renamed: C:\Users\alice\Documents\file32.pdf -> file32.pdf.locked
+2026-07-12 09:44:55 FIN-PC01 EDR[3942]: File Renamed: C:\Users\alice\Documents\file33.jpg -> file33.jpg.locked
+2026-07-12 09:44:55 FIN-PC01 EDR[3943]: File Renamed: C:\Users\alice\Documents\file34.docx -> file34.docx.locked
+2026-07-12 09:44:56 FIN-PC01 EDR[3944]: File Renamed: C:\Users\alice\Documents\file35.pptx -> file35.pptx.locked
+2026-07-12 09:44:56 FIN-PC01 EDR[3945]: File Renamed: C:\Users\alice\Documents\file36.pdf -> file36.pdf.locked
+2026-07-12 09:44:57 FIN-PC01 EDR[3946]: File Renamed: C:\Users\alice\Documents\file37.pptx -> file37.pptx.locked
+2026-07-12 09:44:57 FIN-PC01 EDR[3947]: File Renamed: C:\Users\alice\Documents\file38.pptx -> file38.pptx.locked
+2026-07-12 09:44:58 FIN-PC01 EDR[3948]: File Renamed: C:\Users\alice\Documents\file39.jpg -> file39.jpg.locked
+2026-07-12 09:44:58 FIN-PC01 EDR[3949]: File Renamed: C:\Users\alice\Documents\file40.jpg -> file40.jpg.locked
+2026-07-12 09:44:59 FIN-PC01 EDR[3950]: File Renamed: C:\Users\alice\Documents\file41.xlsx -> file41.xlsx.locked
+2026-07-12 09:44:59 FIN-PC01 EDR[3951]: File Renamed: C:\Users\alice\Documents\file42.pptx -> file42.pptx.locked
+2026-07-12 09:45:00 FIN-PC01 EDR[3952]: File Renamed: C:\Users\alice\Documents\file43.docx -> file43.docx.locked
+2026-07-12 09:45:00 FIN-PC01 EDR[3953]: File Renamed: C:\Users\alice\Documents\file44.pdf -> file44.pdf.locked
+2026-07-12 09:45:01 FIN-PC01 EDR[3954]: File Renamed: C:\Users\alice\Documents\file45.docx -> file45.docx.locked
+2026-07-12 09:45:01 FIN-PC01 EDR[3955]: File Renamed: C:\Users\alice\Documents\file46.pdf -> file46.pdf.locked
+2026-07-12 09:45:02 FIN-PC01 EDR[3956]: File Renamed: C:\Users\alice\Documents\file47.pptx -> file47.pptx.locked
+2026-07-12 09:45:02 FIN-PC01 EDR[3957]: File Renamed: C:\Users\alice\Documents\file48.docx -> file48.docx.locked
+2026-07-12 09:45:03 FIN-PC01 EDR[3958]: File Renamed: C:\Users\alice\Documents\file49.pptx -> file49.pptx.locked
+2026-07-12 09:45:03 FIN-PC01 EDR[3959]: File Renamed: C:\Users\alice\Documents\file50.jpg -> file50.jpg.locked
+2026-07-12 09:45:04 FIN-PC01 EDR[3960]: File Renamed: C:\Users\alice\Documents\file51.docx -> file51.docx.locked
+2026-07-12 09:45:04 FIN-PC01 EDR[3961]: File Renamed: C:\Users\alice\Documents\file52.docx -> file52.docx.locked
+2026-07-12 09:45:05 FIN-PC01 EDR[3962]: File Renamed: C:\Users\alice\Documents\file53.jpg -> file53.jpg.locked
+2026-07-12 09:45:05 FIN-PC01 EDR[3963]: File Renamed: C:\Users\alice\Documents\file54.pptx -> file54.pptx.locked
+2026-07-12 09:45:06 FIN-PC01 EDR[3964]: File Renamed: C:\Users\alice\Documents\file55.pdf -> file55.pdf.locked
+2026-07-12 09:45:06 FIN-PC01 EDR[3965]: File Renamed: C:\Users\alice\Documents\file56.pdf -> file56.pdf.locked
+2026-07-12 09:45:07 FIN-PC01 EDR[3966]: File Renamed: C:\Users\alice\Documents\file57.jpg -> file57.jpg.locked
+2026-07-12 09:45:07 FIN-PC01 EDR[3967]: File Renamed: C:\Users\alice\Documents\file58.docx -> file58.docx.locked
+2026-07-12 09:45:08 FIN-PC01 EDR[3968]: File Renamed: C:\Users\alice\Documents\file59.docx -> file59.docx.locked
+2026-07-12 09:45:08 FIN-PC01 EDR[3969]: File Renamed: C:\Users\alice\Documents\file60.pdf -> file60.pdf.locked
+2026-07-12 09:45:09 FIN-PC01 EDR[3970]: File Renamed: C:\Users\alice\Documents\file61.docx -> file61.docx.locked
+2026-07-12 09:45:09 FIN-PC01 EDR[3971]: File Renamed: C:\Users\alice\Documents\file62.docx -> file62.docx.locked
+2026-07-12 09:45:10 FIN-PC01 EDR[3972]: File Renamed: C:\Users\alice\Documents\file63.docx -> file63.docx.locked
+2026-07-12 09:45:10 FIN-PC01 EDR[3973]: File Renamed: C:\Users\alice\Documents\file64.pptx -> file64.pptx.locked
+2026-07-12 09:45:11 FIN-PC01 EDR[3974]: File Renamed: C:\Users\alice\Documents\file65.docx -> file65.docx.locked
+2026-07-12 09:45:11 FIN-PC01 EDR[3975]: File Renamed: C:\Users\alice\Documents\file66.xlsx -> file66.xlsx.locked
+2026-07-12 09:45:12 FIN-PC01 EDR[3976]: File Renamed: C:\Users\alice\Documents\file67.pdf -> file67.pdf.locked
+2026-07-12 09:45:12 FIN-PC01 EDR[3977]: File Renamed: C:\Users\alice\Documents\file68.docx -> file68.docx.locked
+2026-07-12 09:45:13 FIN-PC01 EDR[3978]: File Renamed: C:\Users\alice\Documents\file69.xlsx -> file69.xlsx.locked
+2026-07-12 09:45:13 FIN-PC01 EDR[3979]: File Renamed: C:\Users\alice\Documents\file70.jpg -> file70.jpg.locked
+2026-07-12 09:45:14 FIN-PC01 EDR[3980]: File Renamed: C:\Users\alice\Documents\file71.pptx -> file71.pptx.locked
+2026-07-12 09:45:14 FIN-PC01 EDR[3981]: File Renamed: C:\Users\alice\Documents\file72.jpg -> file72.jpg.locked
+2026-07-12 09:45:15 FIN-PC01 EDR[3982]: File Renamed: C:\Users\alice\Documents\file73.pptx -> file73.pptx.locked
+2026-07-12 09:45:15 FIN-PC01 EDR[3983]: File Renamed: C:\Users\alice\Documents\file74.pptx -> file74.pptx.locked
+2026-07-12 09:45:16 FIN-PC01 EDR[3984]: File Renamed: C:\Users\alice\Documents\file75.jpg -> file75.jpg.locked
+2026-07-12 09:45:16 FIN-PC01 EDR[3985]: File Renamed: C:\Users\alice\Documents\file76.docx -> file76.docx.locked
+2026-07-12 09:45:17 FIN-PC01 EDR[3986]: File Renamed: C:\Users\alice\Documents\file77.pptx -> file77.pptx.locked
+2026-07-12 09:45:17 FIN-PC01 EDR[3987]: File Renamed: C:\Users\alice\Documents\file78.pptx -> file78.pptx.locked
+2026-07-12 09:45:18 FIN-PC01 EDR[3988]: File Renamed: C:\Users\alice\Documents\file79.docx -> file79.docx.locked
+2026-07-12 09:45:19 FIN-PC01 EDR[3989]: Ransom Note Created: C:\Users\alice\Documents\README_RECOVER_FILES.txt
+2026-07-12 09:45:20 FIN-PC01 EDR[3990]: Ransom Note Created: C:\Users\alice\Documents\README_RECOVER_FILES.txt
+2026-07-12 09:45:21 FIN-PC01 EDR[3991]: Ransom Note Created: C:\Users\alice\Documents\README_RECOVER_FILES.txt
+2026-07-12 09:45:22 FIN-PC01 EDR[3992]: Ransom Note Created: C:\Users\alice\Documents\README_RECOVER_FILES.txt
+2026-07-12 09:45:23 FIN-PC01 EDR[3993]: Ransom Note Created: C:\Users\alice\Documents\README_RECOVER_FILES.txt
+2026-07-12 09:45:24 FIN-PC01 EDR[3994]: Ransom Note Created: C:\Users\alice\Documents\README_RECOVER_FILES.txt
+2026-07-12 09:45:25 FIN-PC01 EDR[3995]: Ransom Note Created: C:\Users\alice\Documents\README_RECOVER_FILES.txt
+2026-07-12 09:45:26 FIN-PC01 EDR[3996]: Ransom Note Created: C:\Users\alice\Documents\README_RECOVER_FILES.txt
+2026-07-12 09:45:27 FIN-PC01 EDR[3997]: Ransom Note Created: C:\Users\alice\Documents\README_RECOVER_FILES.txt
+2026-07-12 09:45:28 FIN-PC01 EDR[3998]: Ransom Note Created: C:\Users\alice\Documents\README_RECOVER_FILES.txt
+2026-07-12 09:45:30 HR-PC02 EDR[3999]: Process Exit: explorer.exe
+2026-07-12 09:45:32 ENG-PC03 EDR[4000]: Process Exit: explorer.exe
