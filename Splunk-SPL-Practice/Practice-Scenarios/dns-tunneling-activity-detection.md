@@ -8,7 +8,7 @@ This lab simulates a **DNS Tunneling** attack where an attacker uses DNS queries
 
 ## Log File
 
-`logs/dns_tunneling.log`
+[📥 Sample Log File](../log-files/dns_tunneling.log)
 
 ---
 
