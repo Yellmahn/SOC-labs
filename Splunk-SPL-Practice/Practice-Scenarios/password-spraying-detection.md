@@ -1,4 +1,4 @@
-# Lab 01 - Password Spraying Detection
+# Password Spraying Detection
 
 ## Overview
 
