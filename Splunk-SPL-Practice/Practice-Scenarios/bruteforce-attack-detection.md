@@ -33,4 +33,4 @@ This search monitors failed SSH authentication attempts and groups them into fiv
 
 ## Detection Result
 
-![Brute Force Detection](../screenshots/bruteforce_detection.png)
+![Brute Force Detection](../screenshots/brute_force.png)
