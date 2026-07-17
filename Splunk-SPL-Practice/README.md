@@ -43,7 +43,7 @@ Each scenario includes:
 
 Detects a single source IP attempting to authenticate against multiple user accounts using the same password. The detection identifies a high number of failed authentication attempts across many unique users within a short period of time.
 
-➡️ See: `labs/01_password_spraying.md`
+➡️ See: `/Practice-Scenarios/password-spraying-detection.md`
 
 ---
 
