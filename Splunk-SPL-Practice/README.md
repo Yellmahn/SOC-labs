@@ -43,7 +43,7 @@ Each scenario includes:
 
 Detects a single source IP attempting to authenticate against multiple user accounts using the same password. The detection identifies a high number of failed authentication attempts across many unique users within a short period of time.
 
-➡️ See: `./Practice-Scenarios/password-spraying-detection.md`
+➡️ See: `Practice-Scenarios/password-spraying-detection.md`
 
 ---
 
@@ -51,7 +51,7 @@ Detects a single source IP attempting to authenticate against multiple user acco
 
 Detects repeated failed authentication attempts against one or more user accounts from the same source IP. The detection focuses on identifying excessive authentication failures that may indicate password guessing activity.
 
-➡️ See: `labs/02_brute_force.md`
+➡️ See: `Practice-Scenarios/bruteforce-attack-detection.md`
 
 ---
 
@@ -59,7 +59,7 @@ Detects repeated failed authentication attempts against one or more user account
 
 Detects successful logins from different countries within an unrealistic time frame. This scenario demonstrates how geographic information and login timestamps can be correlated to identify potential account compromise.
 
-➡️ See: `labs/03_impossible_travel.md`
+➡️ See: `Practice-Scenarios/Impossible-travel-detection.md`
 
 ---
 
@@ -67,7 +67,7 @@ Detects successful logins from different countries within an unrealistic time fr
 
 Detects unusually long DNS queries that may indicate data exfiltration or command-and-control communication over the DNS protocol.
 
-➡️ See: `labs/04_dns_tunneling.md`
+➡️ See: `Practice-Scenarios/dns-tunneling-activity-detection.md`
 
 ---
 
@@ -75,7 +75,7 @@ Detects unusually long DNS queries that may indicate data exfiltration or comman
 
 Detects abnormal file encryption behavior by identifying hosts generating a high volume of file rename events within a short period of time.
 
-➡️ See: `labs/05_ransomware.md`
+➡️ See: `Practice-Scenarios/ransomeware-activity-detection.md`
 
 ---
 
@@ -84,17 +84,14 @@ Detects abnormal file encryption behavior by identifying hosts generating a high
 Through this project, I gained practical experience in:
 
 - Writing SPL queries
-- Log analysis
-- Field extraction
-- Statistical analysis using SPL
-- Detection engineering
+- Log analysis with Splunk
+- Detection engineering Concepts
 - Splunk alert creation
 - Security event investigation
-- Documentation of detection logic
 - Understanding common cyber attack techniques
 
 ---
 
 # Conclusion
 
-This repository represents my practical journey in learning Splunk and detection engineering. Rather than focusing solely on SPL syntax, I emphasized understanding attacker behavior and translating that knowledge into effective detection logic. As I continue learning, additional attack scenarios, detection techniques, and advanced SPL use cases will be added to further expand this project.
+This repository represents my practical journey in learning Splunk Search Processing Languag (SPL). Rather than focusing solely on SPL syntax, I emphasized understanding attacker behavior and translating that knowledge into effective detection logic. As I continue learning, additional attack scenarios, detection techniques, and advanced SPL use cases will be added to further expand this project.
